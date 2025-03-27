@@ -846,105 +846,57 @@ Rusia	Rusia
 bulan depan	next month
 Pada bulan Januari.	It is in January.
 Berapa banyak bulan yang akan diambil?	How many days does it take?
+Dalam bulan ini.	It is next month.
+Pada bulan apakah itu?	In what month was it?
+Ia telah mengambil masa satu hari.	It took one day.
+Berapa banyak hari yang telah diambil?	How many days did it take?
+Berapa banyak bulan yang telah diambil?	How many months did it take?
+Pada bulan apakah itu?	In what month is it?
+Berapa banyak bulan yang akan diambil?	How many months will it take?
+Ia telah mengambil masa satu bulan.	It took a month.
+Ia mengambil masa lima bulan.	It takes five months.
+Ada tiga puluh hari dalam bulan April.	There are thirty days in April.
+Ia mengambil masa lima hari.	It takes five days.
+Ada tiga puluh satu hari dalam bulan Mac.	There are thirty one days in March.
+Apa yang telah kamu katakan?	What did you say?
+Ada berapa banyak hari dalam bulan Februari?	How many days are there in February?
+Ada berapa banyak hari dalam bulan ini?	How many days are there in this month?
+Ken kata dia akan kembali ke Israel pada bulan Oktober.	Ken said he’ll return to Israel in October.
+Dia akan kembali pada bulan Jun.	She will return in June.
+Saya akan kembali ke Rusia pada bulan Julai.	I’ll return to Russia in July.
+Saya akan kembali ke Rusia pada bulan Ogos.	I’ll return to Russia in August.
+Bilakah akan kamu kembali ke Paris?	When will you return to Paris?
+Ken kata dia akan kembali ke Israel pada bulan September.	Ken said he’ll return to Israel in September.
+Erica akan kembali pada bulan Disember.	Erica will return in December.
+Erica akan kembali pada bulan November.	Erica will return in November.
+Pada bulan Mei.	In May.
+lima haribulan	Fifth
+enam haribulan	sixth
+satu haribulan	First
+tujuh haribulan	Seventh
+tiga haribulan	Third
+empat haribulan	Fourth
+dua haribulan	Second
+lapan haribulan	Eighth
+sepuluh haribulan	Tenth
+empat belas haribulan	fourteenth
+sebelas haribulan	Eleventh
+tiga belas haribulan	Thirteenth
+enam belas haribulan	Sixteenth
+dua belas haribulan	twelfth
+sembilan haribulan	ninth
+lima belas haribulan	fifteenth
+tujuh belas haribulan	seventeenth
+dua puluh empat haribulan	twenty-fourth
+lapan belas haribulan	eighteenth
+dua puluh satu haribulan	twenty-first
+dua puluh dua haribulan	twenty-second
+dua puluh tiga haribulan	twenty-third
+sembilan belas haribulan	nineteenth
+dua puluh haribulan	Twentieth
+
 <=========================================== Got Up To Here ==========================================================>
 
-
-Dalam bulan ini.	It is next month.
-
-Pada bulan apakah itu?	In what month was it?
-
-Ia telah mengambil masa satu hari.	It took one day.
-
-Berapa banyak hari yang telah diambil?	How many days did it take?
-
-Berapa banyak bulan yang telah diambil?	How many months did it take?
-
-Pada bulan apakah itu?	In what month is it?
-
-Berapa banyak bulan yang akan diambil?	How many months will it take?
-
-Ia telah mengambil masa satu bulan.	It took a month.
-
-Ia mengambil masa lima bulan.	It takes five months.
-It takes five months.	Ia mengambil masa lima bulan.
-Ada tiga puluh hari dalam bulan April.	There are thirty days in April.
-There are thirty days in April.	Ada tiga puluh hari dalam bulan April.
-Ia mengambil masa lima hari.	It takes five days.
-It takes five days.	Ia mengambil masa lima hari.
-Ada tiga puluh satu hari dalam bulan Mac.	There are thirty one days in March.
-There are thirty one days in March.	Ada tiga puluh satu hari dalam bulan Mac.
-Apa yang telah kamu katakan?	What did you say?
-What did you say?	Apa yang telah kamu katakan?
-Ada berapa banyak hari dalam bulan Februari?	How many days are there in February?
-How many days are there in February?	Ada berapa banyak hari dalam bulan Februari?
-Ada berapa banyak hari dalam bulan ini?	How many days are there in this month?
-How many days are there in this month?	Ada berapa banyak hari dalam bulan ini?
-Ken kata dia akan kembali ke Israel pada bulan Oktober.	Ken said he’ll return to Israel in October.
-Ken said he’ll return to Israel in October.	Ken kata dia akan kembali ke Israel pada bulan Oktober.
-Dia akan kembali pada bulan Jun.	She will return in June.
-She will return in June.	Dia akan kembali pada bulan Jun.
-Saya akan kembali ke Rusia pada bulan Julai.	I’ll return to Russia in July.
-I’ll return to Russia in July.	Saya akan kembali ke Rusia pada bulan Julai.
-Saya akan kembali ke Rusia pada bulan Ogos.	I’ll return to Russia in August.
-I’ll return to Russia in August.	Saya akan kembali ke Rusia pada bulan Ogos.
-Bilakah akan kamu kembali ke Paris?	When will you return to Paris?
-When will you return to Paris?	Bilakah akan kamu kembali ke Paris?
-Ken kata dia akan kembali ke Israel pada bulan September.	Ken said he’ll return to Israel in September.
-Ken said he’ll return to Israel in September.	Ken kata dia akan kembali ke Israel pada bulan September.
-Erica akan kembali pada bulan Disember.	Erica will return in December.
-Erica will return in December.	Erica akan kembali pada bulan Disember.
-Erica akan kembali pada bulan November.	Erica will return in November.
-Erica will return in November.	Erica akan kembali pada bulan November.
-Pada bulan Mei.	In May.
-In May.	Pada bulan Mei.
-lima haribulan	Fifth
-Fifth	lima haribulan
-enam haribulan	sixth
-sixth	enam haribulan
-satu haribulan	First
-First	satu haribulan
-tujuh haribulan	Seventh
-Seventh	tujuh haribulan
-tiga haribulan	Third
-Third	tiga haribulan
-empat haribulan	Fourth
-Fourth	empat haribulan
-dua haribulan	Second
-Second	dua haribulan
-lapan haribulan	Eighth
-Eighth	lapan haribulan
-sepuluh haribulan	Tenth
-Tenth	sepuluh haribulan
-empat belas haribulan	fourteenth
-fourteenth	empat belas haribulan
-sebelas haribulan	Eleventh
-Eleventh	sebelas haribulan
-tiga belas haribulan	Thirteenth
-Thirteenth	tiga belas haribulan
-enam belas haribulan	Sixteenth
-Sixteenth	enam belas haribulan
-dua belas haribulan	twelfth
-twelfth	dua belas haribulan
-sembilan haribulan	ninth
-ninth	sembilan haribulan
-lima belas haribulan	fifteenth
-fifteenth	lima belas haribulan
-tujuh belas haribulan	seventeenth
-seventeenth	tujuh belas haribulan
-dua puluh empat haribulan	twenty-fourth
-twenty-fourth	dua puluh empat haribulan
-lapan belas haribulan	eighteenth
-eighteenth	lapan belas haribulan
-dua puluh satu haribulan	twenty-first
-twenty-first	dua puluh satu haribulan
-dua puluh dua haribulan	twenty-second
-twenty-second	dua puluh dua haribulan
-dua puluh tiga haribulan	twenty-third
-twenty-third	dua puluh tiga haribulan
-sembilan belas haribulan	nineteenth
-nineteenth	sembilan belas haribulan
-dua puluh haribulan	Twentieth
-Twentieth	dua puluh haribulan
 dua puluh lapan haribulan	z twenty-eighth
 z twenty-eighth	dua puluh lapan haribulan
 tiga puluh haribulan	thirtieth
