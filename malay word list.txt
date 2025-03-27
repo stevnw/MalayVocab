@@ -694,330 +694,177 @@ Terdapat seekor semut diatas bantal itu.	There is an ant on that pillow.
 Terdapat seekor lalat diatas bantal itu.	There is a fly on that pillow.
 Bagaimanakah saya menghidupkan televisyen itu?	How do I turn on the television?
 Sila matikan lampu itu selepas kamu habis menggunanya.	When you are finished, please turn off the light.
-
-============================================ This is where I got up to =======================================================
-
-When you are finished, please turn off the light.	Sila matikan lampu itu selepas kamu habis menggunanya.
 Saya sudah membaiki televisyen itu.	I fixed the television.
-I fixed the television.	Saya sudah membaiki televisyen itu.
 Saya telah merosakkan televisyen itu.	I broke the television.
-I broke the television.	Saya telah merosakkan televisyen itu.
 Mungkin kipas itu sudah rosak.	Perhaps the fan is broken.
-Perhaps the fan is broken.	Mungkin kipas itu sudah rosak.
 tarik	to pull
-to pull	tarik
 lantai	floor
-floor	lantai
 tolak	To push
-To push	tolak
 perlu	to have to
-to have to	perlu
 sesiapa	Anyone
-Anyone	sesiapa
 span	Sponge
-Sponge	span
 busuk	stinky
-stinky	busuk
 sabun	Soap
-Soap	sabun
 tandas	toilet
-toilet	tandas
 kencing	Pee
-Pee	kencing
 tahi	poop
-poop	tahi
 kencing	To pee
-To pee	kencing
 kunci	To lock
-To lock	kunci
 tuala	Towel
-Towel	tuala
 mengepam	To flush
-To flush	mengepam
 berak	To poop
-To poop	berak
 rak	Rack
-Rack	rak
 kekotoran	Mess
-Mess	kekotoran
 bilik mandi	Shower
-Shower	bilik mandi
 kertas tandas	toilet paper
-toilet paper	kertas tandas
 nampaknya	To seem
-To seem	nampaknya
 tab mandi	bathtub
-bathtub	tab mandi
 sebentar	Just a moment
-Just a moment	sebentar
 habis	No more
-No more	habis
 Bolehkah saya menggunakan bilik mandi itu?	May I use the shower please?
-May I use the shower please?	Bolehkah saya menggunakan bilik mandi itu?
 Bolehkah saya menggunakan tandas itu?	May I use the toilet please?
-May I use the toilet please?	Bolehkah saya menggunakan tandas itu?
 Ada seseorang di dalam bilik mandi.	There is someone in the shower.
-There is someone in the shower.	Ada seseorang di dalam bilik mandi.
 Ya, tetapi bilik mandi itu busuk.	Yes, but the bathroom is stinky.
-Yes, but the bathroom is stinky.	Ya, tetapi bilik mandi itu busuk.
 Sila tunggu sebentar.	Wait just a moment please.
-Wait just a moment please.	Sila tunggu sebentar.
 Ada seseorang di dalam.	There is someone in there.
-There is someone in there.	Ada seseorang di dalam.
 Saya perlu berak.	I have to poop
-I have to poop	Saya perlu berak.
 Mungkin ada kertas tandas di dalam kabinet itu.	Perhaps there is toilet paper in the cabinet.
-Perhaps there is toilet paper in the cabinet.	Mungkin ada kertas tandas di dalam kabinet itu.
 Saya perlu bersihkan kotoran itu.	I need to clean up the mess.
-I need to clean up the mess.	Saya perlu bersihkan kotoran itu.
 Saya perlu kencing.	I have to pee.
-I have to pee.	Saya perlu kencing.
 Kertas tandas sudah habis.	There is no more toilet paper.
-There is no more toilet paper.	Kertas tandas sudah habis.
 Saya perlu bersihkan kencing itu.	I need to clean up the pee.
-I need to clean up the pee.	Saya perlu bersihkan kencing itu.
 Nampaknya tuala ini kotor.	This towel seems dirty.
-This towel seems dirty.	Nampaknya tuala ini kotor.
 Bolehkah kamu mengunci pintu itu?	Could you please lock the door?
-Could you please lock the door?	Bolehkah kamu mengunci pintu itu?
 Tuala ada di atas rak itu.	There is a towel on the rack.
-There is a towel on the rack.	Tuala ada di atas rak itu.
 Nampaknya sabun sudah habis.	There seems to be no more soap.
-There seems to be no more soap.	Nampaknya sabun sudah habis.
 Nampaknya tuala ini busuk.	This towel seems stinky.
-This towel seems stinky.	Nampaknya tuala ini busuk.
 Saya perlukan cermin.	I need a mirror.
-I need a mirror.	Saya perlukan cermin.
 Saya perlu mandi.	I need a shower.
-I need a shower.	Saya perlu mandi.
 Bolehkah kamu membuka pintu itu?	Could you please open the door?
-Could you please open the door?	Bolehkah kamu membuka pintu itu?
 Dengan apakah kamu hendak saya membersihkan tandas itu?	What do you want me to use to clean the toilet?
-What do you want me to use to clean the toilet?	Dengan apakah kamu hendak saya membersihkan tandas itu?
 Guna span itu untuk membersihkan lantai itu.	Use the sponge to clean the floor.
-Use the sponge to clean the floor.	Guna span itu untuk membersihkan lantai itu.
 Dimana kamu ingin saya letakkan kertas tandas ini?	Where do you want me to put the toilet paper?
-Where do you want me to put the toilet paper?	Dimana kamu ingin saya letakkan kertas tandas ini?
 Sila letakkan tuala itu di dalam bilik mandi itu.	Please put the towel in the bathroom.
-Please put the towel in the bathroom.	Sila letakkan tuala itu di dalam bilik mandi itu.
 Saya perlu pergi ke tandas.	I have to go to the toilet.
-I have to go to the toilet.	Saya perlu pergi ke tandas.
 Saya perlu pergi ke bilik mandi.	I have to go to the bathroom.
-I have to go to the bathroom.	Saya perlu pergi ke bilik mandi.
 tidak patut	should not
-should not	tidak patut
 patut	Should
-Should	patut
 periuk	Pot
-Pot	periuk
 besi	Metal
-Metal	besi
 papan	Wood
-Wood	papan
 garpu	Fork
-Fork	garpu
-Pisau	
-	Pisau
+Pisau	knife
 plastik	plastic
-plastic	plastik
 mangkuk	Bowl
-Bowl	mangkuk
 surat khabar	Newspaper
-Newspaper	surat khabar
 memotong	To cut
-To cut	memotong
 sudu	spoon
-spoon	sudu
 pinggan	Plate
-Plate	pinggan
 gelas	Glass
-Glass	gelas
 berdoa	To pray
-To pray	berdoa
 cawan	Cup
-Cup	cawan
 selepas	After
-After	selepas
 teh	Tea
-Tea	teh
 ubi kentang	Potato
-Potato	ubi kentang
 ayam	Chicken
-Chicken	ayam
 sebelum	Before
-Before	sebelum
 Kamu mahu sehelai tisu?	Do you want a napkin?
-Do you want a napkin?	Kamu mahu sehelai tisu?
 Pinggan ini kepunyaan saya.	That plate is mine.
-That plate is mine.	Pinggan ini kepunyaan saya.
 Kamu mahu sebilah pisau?	Do you want a knife?
-Do you want a knife?	Kamu mahu sebilah pisau?
 Saya mahu sebiji cawan.	I want a cup.
-I want a cup.	Saya mahu sebiji cawan.
 Periuk siapakah ini?	Whose pot is this?
-Whose pot is this?	Periuk siapakah ini?
 Mangkuk siapakah ini?	Whose bowl is this?
-Whose bowl is this?	Mangkuk siapakah ini?
 Pinggan ini kepunyaan Ken.	That plate is Ken’s.
-That plate is Ken’s.	Pinggan ini kepunyaan Ken.
 Saya mahu sekeping pinggan.	I want a plate.
-I want a plate.	Saya mahu sekeping pinggan.
 Jangan guna cawan plastik itu.	Do not use the plastic cup.
-Do not use the plastic cup.	Jangan guna cawan plastik itu.
 Guna garpu ini untuk memakan ayam itu.	Use this fork to eat the chicken.
-Use this fork to eat the chicken.	Guna garpu ini untuk memakan ayam itu.
 Jangan guna cawan gelas itu.	Do not use the glass cup.
-Do not use the glass cup.	Jangan guna cawan gelas itu.
 Saya tidak tahu menggunakan pisau.	I do not know how to use knives.
-I do not know how to use knives.	Saya tidak tahu menggunakan pisau.
 Patutkah saya mengguna sebilah pisau?	Should I use a knife?
-Should I use a knife?	Patutkah saya mengguna sebilah pisau?
 Tahukah kamu menggunakan garpu?	Do you know how to use forks?
-Do you know how to use forks?	Tahukah kamu menggunakan garpu?
 Sila gunakan garpu kerana sudu sudah habis.	Please use a fork because there are no more spoons.
-Please use a fork because there are no more spoons.	Sila gunakan garpu kerana sudu sudah habis.
 Kita berdoa selepas kita makan.	We pray after we eat.
-We pray after we eat.	Kita berdoa selepas kita makan.
 Mungkin kamu patut menggunakan sebilah pisau plastik.	Perhaps you should use a plastic knife.
-Perhaps you should use a plastic knife.	Mungkin kamu patut menggunakan sebilah pisau plastik.
 Mungkin kamu tidak patut menggunakan sebilah pisau plastik.	Perhaps you should not use a plastic knife.
-Perhaps you should not use a plastic knife.	Mungkin kamu tidak patut menggunakan sebilah pisau plastik.
 Adakah kamu berdoa sebelum makan?	Do you pray before you eat?
-Do you pray before you eat?	Adakah kamu berdoa sebelum makan?
 Garpu plastik senang untuk diguna.	Plastic forks are easy to use.
-Plastic forks are easy to use.	Garpu plastik senang untuk diguna.
 Garpu plastik susah untuk diguna.	Plastic forks are hard to use.
-Plastic forks are hard to use.	Garpu plastik susah untuk diguna.
 Kita berdoa sebelum kita makan.	We pray before we eat.
-We pray before we eat.	Kita berdoa sebelum kita makan.
 Bolehkah saya menerima sebiji ubi kentang?	May I please have a potato?
-May I please have a potato?	Bolehkah saya menerima sebiji ubi kentang?
 Apakah yang patut saya guna untuk memakan ini?	What should I use to eat this?
-What should I use to eat this?	Apakah yang patut saya guna untuk memakan ini?
 Kamu patut menggunakan gunting untuk menggunting surat khabar itu.	You should use scissors to cut the newspaper.
-You should use scissors to cut the newspaper.	Kamu patut menggunakan gunting untuk menggunting surat khabar itu.
 Bolehkah saya menerima sebatang sudu?	May I please have a spoon?
-May I please have a spoon?	Bolehkah saya menerima sebatang sudu?
 Kamu tidak patut menggunakan gunting untuk menggunting surat khabar itu.	You should not use scissors to cut the newspaper.
-You should not use scissors to cut the newspaper.	Kamu tidak patut menggunakan gunting untuk menggunting surat khabar itu.
 Sila tulis nama anda atas cawan anda.	Please write your name on your cup.
-Please write your name on your cup.	Sila tulis nama anda atas cawan anda.
 Sila tulis nama anda atas gelas anda.	Please write your name on your glass.
-Please write your name on your glass.	Sila tulis nama anda atas gelas anda.
 Seseorang telah mengunci tingkap itu tetapi Ken membukanya lagi.	Someone locked the window, but Ken opened it again.
-Someone locked the window, but Ken opened it again.	Seseorang telah mengunci tingkap itu tetapi Ken membukanya lagi.
 Sila tutup pintu itu sebelum kamu beredar.	Before you go, please close the door.
-Before you go, please close the door.	Sila tutup pintu itu sebelum kamu beredar.
 Jika peti sejuk sudah penuh, letakkan enam minuman itu di dalam kotak itu.	If the refrigerator is full, then please put those six drinks in that box.
-If the refrigerator is full, then please put those six drinks in that box.	Jika peti sejuk sudah penuh, letakkan enam minuman itu di dalam kotak itu.
 Seseorang telah menutup tingkap itu tetapi Ken membukanya lagi.	Someone closed the window, but Ken opened it again.
-Someone closed the window, but Ken opened it again.	Seseorang telah menutup tingkap itu tetapi Ken membukanya lagi.
 Letakkan lima minuman ini di dalam kotak itu.	Put these five drinks in that box.
-Put these five drinks in that box.	Letakkan lima minuman ini di dalam kotak itu.
 Sila buka pintu itu sebelum kamu beredar.	Before you go, please open the door.
-Before you go, please open the door.	Sila buka pintu itu sebelum kamu beredar.
 Mungkin kita tidak patut memberi Ken sebatang sudu kerana nampaknya dia tidak boleh menggunakan sudu.	Perhaps we should not give Ken a spoon, because it seems like he can not use one.
-Perhaps we should not give Ken a spoon, because it seems like he can not use one.	Mungkin kita tidak patut memberi Ken sebatang sudu kerana nampaknya dia tidak boleh menggunakan sudu.
 Mungkin kita patut memberi Ken sebatang garpu.	Perhaps we should give Ken a fork.
-Perhaps we should give Ken a fork.	Mungkin kita patut memberi Ken sebatang garpu.
 Kamu patut mencuci tangan kamu sebelum beredar.	You should wash your hands before you go.
-You should wash your hands before you go.	Kamu patut mencuci tangan kamu sebelum beredar.
 Kamu patut mencuci tangan kamu sebelum makan.	You should wash your hands before you eat.
-You should wash your hands before you eat.	Kamu patut mencuci tangan kamu sebelum makan.
 Nampaknya kerusi adalah mencukupi.	It seems that there are enough chairs.
-It seems that there are enough chairs.	Nampaknya kerusi adalah mencukupi.
 Kamu patut menghubungi Ken jika meja nampak tidak mencukupi.	If it seems that there are not enough tables, then you should call Ken.
-If it seems that there are not enough tables, then you should call Ken.	Kamu patut menghubungi Ken jika meja nampak tidak mencukupi.
 Sila buka tingkap-tingkap ini sebelum kamu beredar.	Please open these windows before you go.
-Please open these windows before you go.	Sila buka tingkap-tingkap ini sebelum kamu beredar.
 Sila mengunci pintu itu dan tutup tingkap-tingkap itu sebelum kamu beredar.	Please lock the door and close those windows before you go.
-Please lock the door and close those windows before you go.	Sila mengunci pintu itu dan tutup tingkap-tingkap itu sebelum kamu beredar.
 Sila letakkan tuala itu di dalam tab mandi selepas menggunanya.	Please put the towel in the bathtub when you are finished.
-Please put the towel in the bathtub when you are finished.	Sila letakkan tuala itu di dalam tab mandi selepas menggunanya.
 Mungkin adalah susah untuk memotong ayam dengan sebatang sudu.	Perhaps it is difficult to cut chicken with a spoon.
-Perhaps it is difficult to cut chicken with a spoon.	Mungkin adalah susah untuk memotong ayam dengan sebatang sudu.
 Letak tuala itu di dalam bilik tidur.	Put the towel in the bedroom.
-Put the towel in the bedroom.	Letak tuala itu di dalam bilik tidur.
 Tutup pintu itu.	Close the door.
-Close the door.	Tutup pintu itu.
 Sila tulis nama Ken di atas payung dia.	Please write Ken’s name on his umbrella.
-Please write Ken’s name on his umbrella.	Sila tulis nama Ken di atas payung dia.
 Saya perlu membersih pinggan mangkuk saya sekarang.	I have to clean my dishes now.
-I have to clean my dishes now.	Saya perlu membersih pinggan mangkuk saya sekarang.
 Mungkin kamu tidak patut mengguna tuala yang kotor untuk membersihkan meja itu.	Perhaps you should not use a dirty towel to clean the table.
-Perhaps you should not use a dirty towel to clean the table.	Mungkin kamu tidak patut mengguna tuala yang kotor untuk membersihkan meja itu.
 Mungkin kamu patut menggunakan span yang bersih.	Perhaps you should use a clean sponge.
-Perhaps you should use a clean sponge.	Mungkin kamu patut menggunakan span yang bersih.
 Saya perlu membersih bilik saya sekarang.	I have to clean my room now.
-I have to clean my room now.	Saya perlu membersih bilik saya sekarang.
 Sila tulis nama Ken di atas piring dia.	Please write Ken’s name on his plate.
-Please write Ken’s name on his plate.	Sila tulis nama Ken di atas piring dia.
 Januari	January
-January	Januari
 Mac	March
-March	Mac
 mengambil masa	to take
-to take	mengambil masa
 Februari	February
-February	Februari
 hari	day
-day	hari
-April	April
 April	April
 bulan	Month
-Month	bulan
 Ogos	August
-August	Ogos
-Israel	Israel
 Israel	Israel
 Julai	July
-July	Julai
 Jun	June
-June	Jun
 Oktober	October
-October	Oktober
 Mei	May
-May	Mei
 bila	When
-When	bila
-September	September
 September	September
 bulan lepas	last month
-last month	bulan lepas
 bulan ini	This month
-This month	bulan ini
 kembali	To return
-To return	kembali
 Disember	December
-December	Disember
-Paris	Paris
 Paris	Paris
 November	November
-November	November
-Rusia	Rusia
 Rusia	Rusia
 bulan depan	next month
-next month	bulan depan
 Pada bulan Januari.	It is in January.
-It is in January.	Pada bulan Januari.
 Berapa banyak bulan yang akan diambil?	How many days does it take?
-How many days does it take?	Berapa banyak bulan yang akan diambil?
+<=========================================== Got Up To Here ==========================================================>
+
+
 Dalam bulan ini.	It is next month.
-It is next month.	Dalam bulan ini.
+
 Pada bulan apakah itu?	In what month was it?
-In what month was it?	Pada bulan apakah itu?
+
 Ia telah mengambil masa satu hari.	It took one day.
-It took one day.	Ia telah mengambil masa satu hari.
+
 Berapa banyak hari yang telah diambil?	How many days did it take?
-How many days did it take?	Berapa banyak hari yang telah diambil?
+
 Berapa banyak bulan yang telah diambil?	How many months did it take?
-How many months did it take?	Berapa banyak bulan yang telah diambil?
+
 Pada bulan apakah itu?	In what month is it?
-In what month is it?	Pada bulan apakah itu?
-Berapa banyak bulan yang akan diambil?	Berapa banyak bulan yang akan diambil?
-Berapa banyak bulan yang akan diambil?	Berapa banyak bulan yang akan diambil?
-Ia telah mengambil masa satu bulan.	Ia telah mengambil masa satu bulan.
-Ia telah mengambil masa satu bulan.	Ia telah mengambil masa satu bulan.
+
+Berapa banyak bulan yang akan diambil?	How many months will it take?
+
+Ia telah mengambil masa satu bulan.	It took a month.
+
 Ia mengambil masa lima bulan.	It takes five months.
 It takes five months.	Ia mengambil masa lima bulan.
 Ada tiga puluh hari dalam bulan April.	There are thirty days in April.
