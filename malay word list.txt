@@ -1195,83 +1195,82 @@ kamu semua	you all
 
 
 pengijazahan	graduation
-graduation	pengijazahan
+
 sijil	certificate
-certificate	sijil
+
 mencari	To find
-To find	mencari
+
 majlis perkahwinan	wedding
-wedding	majlis perkahwinan
+
 majlis	ceremony
-ceremony	majlis
+
 membuktikan	To prove
-To prove	membuktikan
+
 bercinta	To date
-To date	bercinta
 perkahwinan	Marriage
-Marriage	perkahwinan
+
 menunjuk	To show
-To show	menunjuk
+
 Mereka tunjukkan saya.	They showed me.
-They showed me.	Mereka tunjukkan saya.
+
 Adakah kamu adik beradik?	Are you guys brothers?
-Are you guys brothers?	Adakah kamu adik beradik?
+
 Adakah kamu berdua sedang bercinta?	Are you guys dating?
-Are you guys dating?	Adakah kamu berdua sedang bercinta?
+
 Kami pernah menjadi suami isteri.	We were married.
-We were married.	Kami pernah menjadi suami isteri.
+
 Kami adalah sekeluarga dahulu.	We were family.
-We were family.	Kami adalah sekeluarga dahulu.
+
 Kami adalah suami isteri.	We are married.
-We are married.	Kami adalah suami isteri.
+
 Kami adalah sekeluarga.	We are family.
-We are family.	Kami adalah sekeluarga.
+
 Mereka telah memperkenalkan saya.	They introduced me.
-They introduced me.	Mereka telah memperkenalkan saya.
+
 Mereka tunjukkan kami.	They showed us.
-They showed us.	Mereka tunjukkan kami.
+
 Mereka telah memperkenalkan kami.	They introduced us.
-They introduced us.	Mereka telah memperkenalkan kami.
+
 Kita semua telah berkahwin.	We are all married.
-We are all married.	Kita semua telah berkahwin.
+
 Kita adalah sekeluarga.	We are all family.
-We are all family.	Kita adalah sekeluarga.
+
 Ini majlis pengebumian siapa?	Who is the funeral ceremony for?
-Who is the funeral ceremony for?	Ini majlis pengebumian siapa?
+
 Ini majlis pengijazahan siapa?	Who is the graduation ceremony for?
-Who is the graduation ceremony for?	Ini majlis pengijazahan siapa?
+
 Ini adalah majlis pengijazahan isteri saya	The graduation ceremony is for my wife.
-The graduation ceremony is for my wife.	Ini adalah majlis pengijazahan isteri saya
+
 Majlis perkahwinan ini adalah untuk rakan sekerja saya.Majlis perkahwinan ini adalah untuk rakan sekerja saya.	The wedding ceremony is for my coworker.
-The wedding ceremony is for my coworker.	Majlis perkahwinan ini adalah untuk rakan sekerja saya.Majlis perkahwinan ini adalah untuk rakan sekerja saya.
+
 Tahniah atas perkahwinan anda.	Congratulations on your wedding.
-Congratulations on your wedding.	Tahniah atas perkahwinan anda.
+
 Saya tidak dapat mencari sijil perkahwinan kita.	I can’t find our marriage certificate.
-I can’t find our marriage certificate.	Saya tidak dapat mencari sijil perkahwinan kita.
+
 Sila hubungi ibu bapa kami untuk mendapatkan sijil perkahwinan itu.	Please call our parents to get the marriage certificate.
-Please call our parents to get the marriage certificate.	Sila hubungi ibu bapa kami untuk mendapatkan sijil perkahwinan itu.
+
 Kamu perlu pulang ke Israel jika kamu gagal menunjukkan bukti.	If you can’t show evidence, then you have to return to Israel.
-If you can’t show evidence, then you have to return to Israel.	Kamu perlu pulang ke Israel jika kamu gagal menunjukkan bukti.
+
 Tahniah atas pengijazahan anda.	Congratulations on your graduation.
-Congratulations on your graduation.	Tahniah atas pengijazahan anda.
+
 Sila tunjukkan bukti bahawa kamu berdua adalah suami isteri.	Please show us evidence to prove that you guys are married.
-Please show us evidence to prove that you guys are married.	Sila tunjukkan bukti bahawa kamu berdua adalah suami isteri.
+
 pembunuh	murderer
-murderer	pembunuh
+
 askar	soldier
-soldier	askar
+
 penipu	liar
-liar	penipu
+
 presiden	president
-president	presiden
+
 mencuba	To try
-To try	mencuba
+
 tuhan	God
-God	tuhan
+
 pencuri	Thief
-Thief	pencuri
+
 menjengkelkan	Annoying
-Annoying	menjengkelkan
+
 terkenal	Famous
 Famous	terkenal
 bodoh	Dumb
