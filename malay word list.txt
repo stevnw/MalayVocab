@@ -941,507 +941,259 @@ hujung minggu	Weekend
 restoran	Restaurant
 cuti	Holiday
 semalam	yesterday
-
-<=========================================== Got Up To Here ==========================================================>
-
 minggu lepas	Last week
-
 harijadi	birthday
-
 hari ini	Today
-
 dalam dua hari	In two days
-
 dalam tiga hari	in three days
-
 esok	Tomorrow
-
 minggu depan	next week
-
 minggu ini	This week
-
 Hari ini hari Ahad.	Today is Sunday.
-
 Hari minggu apakah itu?	What day of the week was it?
-
 Apa yang akan kamu buat Selasa minggu depan?	What are you doing next week Tuesday?
-
 Hari Ahad.	It was Sunday.
-
 Hari Isnin.	It was Monday.
-
 Hari ini hari Isnin.	Today is Monday.
-
 Saya akan membersihkan rumah saya.	I’ll clean my house.
-
 Harijadi saya Rabu lepas.	My birthday was on Wednesday.
-
 Dalam hujung minggu ini.	It'll be this weekend.
-
 Pada hari apakah itu?	On what day will it be?
-
 Harijadi saya pada hari Rabu.	My birthday is on Wednesday.
-
 Bilakah harijadi kamu?	When is your birthday?
-
 Esok.	It will be tomorrow.
-
 Dalam dua hari.	It will be in two days.
-
 Sabtu ini.	This week Saturday.
-
 Jumaat ini.	This week Friday.
-
 Jumaat minggu lepas.	Last week Friday.
-
 Saya makan di restoran pada hari Khamis.	I went to eat at a restaurant on Thursday.
-
 Ke mana telah kamu pergi pada harijadi kamu?	Where did you go for your birthday?
-
 Sabtu minggu lepas.	Last week Saturday.
-
 Ke mana telah kamu pergi Ahad lepas?	What did you do on Sunday?
-
 lima minit lagi pukul tujuh	five minutes until seven
-
 petang	evening
-
 a.m.	a.m.
-
 jam	Hour
-
 pukul satu	one o’clock
-
 tidur	to sleep
-
 p.m.	p.m.
-
 tengah hari	noon/afternoon
-
 temu janji	Appointment
-
 minit	minute
-
 daripada	from
-
 bangun	to get up
-
 Pukul berapa?	What time?
-
 senang	Available
-
 lima setengah	five thirty
-
 saat	Second
-
 kerja	To work
-
 tujuh setengah	Half past seven
-
 pagi	morning
-
 masa	time
-
 bertemu	to meet
-
 malam	Night
-
 pukul enam tiga minit	three minutes past six
-
 Pukul berapa pada hari Rabu?	What time on Wednesday?
-
 Sekarang pukul berapa?	What time is it?
-
 Pukul empat empat puluh lima minit p.m.	It is four forty five p.m.
-
 Enam minit lagi pukul tujuh.	It is six minutes until seven o’clock.
-
 Tengah hari pada hari Khamis.	It is at noon on Thursday.
-
 Pukul tujuh enam minit.	It is six minutes past seven o’clock.
 Pukul empat empat puluh lima minit a.m.	It is four forty five a.m.
 Saya tidur pada pukul empat petang.	I sleep at four in the evening.
-
 Kita buka dari pukul lapan a.m. hingga lima p.m.	We are open from 8 a.m. until 5 p.m.
-
 Saya bekerja pada pukul empat p.m.	I work at four p.m.
-
 Kita buka dari pukul lapan a.m. hingga tengah malam.	We are open from 8 a.m. until midnight.
-
 Saya bangun pada pukul empat petang.	I get up at four in the evening.
-
 Saya tidur pada pukul empat p.m.	I sleep at four p.m.
-
 Pukul berapakah akan kamu bekerja?	What time do you work?
-
 Pukul berapakah akan kamu buka?	What time do you open?
-
 Kita akan pergi pada pukul enam setengah.	We will go at six thirty.
-
 Pukul berapakah patut kita bertemu pada hari Khamis?	What time should we meet on Thursday?
-
 Mari kita berjumpa pada hari Selasa pukul empat setengah.	Let’s meet on Tuesday at four thirty.
-
 Pukul berapakah akan kami pergi?	What time will we go?
-
 Bilakah kamu ingin bertemu?	When do you want to meet?
-
 Saya sibuk pada pagi hari Jumaat.	I am busy on Friday morning.
-
 Saya sibuk pada tengah hari hari Jumaat.	I am busy on Friday afternoon.
-
 Tujuh setengah hari ini senang.	Seven thirty today is available.
-
 Saya ingin membuat temujanji untuk hari esok pada pukul enam setengah.	I want to make an appointment for six thirty for tomorrow please.
-
 Saya ingin membuat temujanji untuk hari esok pada pukul satu setengah.	I want to make an appointment for one thirty for tomorrow please.
-
 Saya ingin membuat temujanji untuk hari esok pada pukul sebelas setengah.	I want to make an appointment for eleven thirty for tomorrow please.
-
 Lima setengah hari ini tidak senang.	Five thirty today is unavailable.
-
 Empat empat puluh lima hari ini senang.	Four forty five today is available.
-
 Pukul tujuh hari ini tidak senang.	Seven o’clock today is unavailable.
-
 abad	century
-
 tahun	year
-
 secepat mungkin	as soon as possible
-
 dekad	Decade
-
 awal	early
-
 hidup	to live
-
 lambat	Late
-
 dilahirkan	To be born
-
 tahun ini	This year
-
 kebelakangan ini	recently
-
 tahun tujuh puluh	The year seventy
-
 masa depan	future
-
 tahun dua ribu sebelas	the year two thousand eleven
-
 masa lalu	past
-
 tahun depan	next year
-
 berapa kerap	how often
-
 dalam empat tahun	in four years
-
 bertahun-tahun dari sekarang	many years from now
-
 tahun seribu sembilan ratus empat puluh lima	the year nineteen forty five
-
 bertahun-tahun yang lalu	many years ago
-
 masih	still
-
 kamu semua	you guys
-
 dua tahun yang lalu	Two years ago
-
 Bilakah tahun lahir anda?	What year were you born in?
-
 Sudah berapa lama kamu semua tinggal di Paris?	How long have you guys lived in Paris?
-
 Bilakah tahun lahir Ken?	What year was Ken born in?
-
 Kami sudah tinggal di sini untuk lima tahun.	We have lived here for five years.
-
 Sudah berapa lama kamu semua bekerja di Paris?	How long have you guys worked in Paris?
-
 Dia dilahirkan pada tahun dua ribu satu.	She was born in two thousand one.
-
 Dia dilahirkan pada tahun seribu sembilan ratus sepuluh.	She was born in the year nineteen ten.
-
 Kami sudah tinggal di sini untuk tiga tahun.	We have lived here for three years.
-
 Saya ke mari tahun lalu.	I came last year.
-
 Saya telah pergi dalam tahun dua ribu empat.	I went in two thousand four.
-
 Saya telah pergi dalam tahun seribu sembilan ratus enam puluh tiga.	I went in nineteen sixty three.
-
 Bilakah kamu semua datang ke Israel?	When did you guys come to Israel?
-
 Saya ke mari dua tahun yang lalu.	I came two years ago.
-
 Bilakah kamu semua datang ke Rusia?	When did you guys come to Russia?
-
 Erica ke mari dua tahun yang lalu.	Erica came two years ago.
-
 Erica ke mari tahun lepas.	Erica came last year.
-
 Kami datang setiap minggu.	We come here every week.
-
 Kami datang setiap hari.	We come here every day.
-
 Mungkin saya akan pergi pada tahun depan.	Perhaps I’ll go next year.
-
 Mari kita pergi sekarang.	Let’s go now.
-
 Berapa kerapkah kamu semua datang ke restoran ini?	How often do you all come to this restaurant?
-
 Mungkin saya akan pergi pada tahun dua ribu lima belas.	Perhaps I’ll go in two thousand fifteen.
-
 Mari kita pergi secepat mungkin.	Let's go as soon as possible. 
-
 Saya hanya berusia dua puluh tujuh.	I am still only twenty seven.
-
 Saya telah meraikan harijadi saya yang ke tiga puluh baru-baru ini.	I recently had my thirtieth birthday.
-
 Saya hanya berusia dua puluh enam.	I am still only twenty six.
-
 Saya dilahirkan tiga minggu lewat.	I was born three weeks late.
-
 Saya dilahirkan tiga minggu lebih awal.	I was born three weeks early.
-
 Saya hanya berusia dua puluh lima.	I am still only twenty five.
-
-
-
-
-
-
-
-
-I am still only twenty five.	Saya hanya berusia dua puluh lima.
 Saya dilahirkan dua minggu lebih awal.	I was born two weeks early.
-I was born two weeks early.	Saya dilahirkan dua minggu lebih awal.
 Saya hanya berusia dua puluh empat.	I am still only twenty four.
-I am still only twenty four.	Saya hanya berusia dua puluh empat.
 Saya dilahirkan dua minggu lewat.	I was born two weeks late.
-I was born two weeks late.	Saya dilahirkan dua minggu lewat.
 dua puluhan	twenties
-twenties	dua puluhan
 hanya	Only
-Only	hanya
 tiga puluhan	Thirties
-Thirties	tiga puluhan
 remaja	Teens
-Teens	remaja
 fikir	To think
-To think	fikir
 usia	Years old
-Years old	usia
 empat puluhan	Forties
-Forties	empat puluhan
 dia sendiri	Herself
-Herself	dia sendiri
 mustahil	impossible
-impossible	mustahil
 mereka	Their
-Their	mereka
 enam puluhan	Sixties
-Sixties	enam puluhan
 sembilan puluhan	Nineties
-Nineties	sembilan puluhan
 tujuh puluhan	Seventies
-Seventies	tujuh puluhan
 lapan puluhan	Eighties
-Eighties	lapan puluhan
 lima puluhan	Fifties
-Fifties	lima puluhan
 semua orang	Everyone
-Everyone	semua orang
 kamu sendiri	yourself
-yourself	kamu sendiri
 muda	Young
-Young	muda
 orang tua	Elderly
-Elderly	orang tua
 kelihatan seperti	to look like
-to look like	kelihatan seperti
 tua	Old
-Old	tua
 pertengahan umur	Middle aged
-Middle aged	pertengahan umur
 Berapakah umur	How old
-How old	Berapakah umur
 Saya rasa usia Erica masih dalam lewat tiga puluhan.	I think Erica is still in her late thirties.
-I think Erica is still in her late thirties.	Saya rasa usia Erica masih dalam lewat tiga puluhan.
 Dia kata dia berusia tiga puluh sembilan tahun tetapi dia kelihatan lebih muda.	She said she’s thirty nine years old, but she looks like she’s younger.
-She said she’s thirty nine years old, but she looks like she’s younger.	Dia kata dia berusia tiga puluh sembilan tahun tetapi dia kelihatan lebih muda.
 Dia kelihatan lebih tua.	He looks like he is older
-He looks like he is older	Dia kelihatan lebih tua.
 Berapakah umur anda?	How old are you?
-How old are you?	Berapakah umur anda?
 Mustahil.	That’s impossible.
-That’s impossible.	Mustahil.
 Saya rasa usia Erica masih dalam awal tiga puluhan.	I think Erica is still in her early thirties.
-I think Erica is still in her early thirties.	Saya rasa usia Erica masih dalam awal tiga puluhan.
 Ken kata dia berusia dua puluhan tetapi saya fikir dia pertengahan umur.	Ken said she was in her twenties, but I think she’s middle aged.
-Ken said she was in her twenties, but I think she’s middle aged.	Ken kata dia berusia dua puluhan tetapi saya fikir dia pertengahan umur.
 Berapakah umur Erica?	How old is Erica?
-How old is Erica?	Berapakah umur Erica?
 Saya masih lebih tua berbanding dengan Ken.	I am still older than Ken.
-I am still older than Ken.	Saya masih lebih tua berbanding dengan Ken.
 Saya hanya berusia tiga puluh tahun.	I am only thirty years old.
-I am only thirty years old.	Saya hanya berusia tiga puluh tahun.
 Semua orang mahu kelihatan lebih muda tetapi itu adalah mustahil.	Everyone wants to look younger, but that’s impossible.
-Everyone wants to look younger, but that’s impossible.	Semua orang mahu kelihatan lebih muda tetapi itu adalah mustahil.
 Saya lebih tua berbanding dengan kamu tetapi semua orang kata saya kelihatan lebih muda.	I am older than you, but everyone says I look younger.
-I am older than you, but everyone says I look younger.	Saya lebih tua berbanding dengan kamu tetapi semua orang kata saya kelihatan lebih muda.
 Saya masih lebih muda berbanding dengan Ken.	I am still younger than Ken.
-I am still younger than Ken.	Saya masih lebih muda berbanding dengan Ken.
 Saya hanya berusia lima puluh tahun.	I am only fifty years old.
-I am only fifty years old.	Saya hanya berusia lima puluh tahun.
 Roti ini hanya dua bulan lamanya.	This bread is only two months old.
-This bread is only two months old.	Roti ini hanya dua bulan lamanya.
 Sudah berapa lamakah makanan yang sedang kamu makan itu?	How old is that food you are eating?
-How old is that food you are eating?	Sudah berapa lamakah makanan yang sedang kamu makan itu?
 Roti ini hanya dua tahun lamanya.	This bread is only two years old.
-This bread is only two years old.	Roti ini hanya dua tahun lamanya.
 Saya berumur empat tahun.	I am four years old.
-I am four years old.	Saya berumur empat tahun.
 Pada pendapat kamu, berapakah umur saya?	How old do you think I am?
-How old do you think I am?	Pada pendapat kamu, berapakah umur saya?
 Saya berumur lima puluh tahun.	I am fifty years old.
-I am fifty years old.	Saya berumur lima puluh tahun.
 Saya ingatkan awak adalah lebih muda berbanding dengan saya.	I thought you were younger than me.
-I thought you were younger than me.	Saya ingatkan awak adalah lebih muda berbanding dengan saya.
 Saya ingatkan awak adalah lebih tua berbanding dengan saya.	I thought you were older than me.
-I thought you were older than me.	Saya ingatkan awak adalah lebih tua berbanding dengan saya.
 Apa yang Erica tahu tentang diri dia sendiri?	What does Erica know about herself?
-What does Erica know about herself?	Apa yang Erica tahu tentang diri dia sendiri?
 Dia suka diri dia sendiri dan dia fikir dia hebat.	He loves himself and thinks he is awesome.
-He loves himself and thinks he is awesome.	Dia suka diri dia sendiri dan dia fikir dia hebat.
 Saya tidak suka rupa saya.	I don’t like how I look.
-I don’t like how I look.	Saya tidak suka rupa saya.
 Saya tidak suka cara saya bercakap.	I don’t like how I speak.
-I don’t like how I speak.	Saya tidak suka cara saya bercakap.
 Apa yang Erica fikir tentang diri dia sendiri?	What does Erica think about herself?
-What does Erica think about herself?	Apa yang Erica fikir tentang diri dia sendiri?
 Apakah yang kamu suka tentang diri kamu sendiri?	What do you like about yourself?
-What do you like about yourself?	Apakah yang kamu suka tentang diri kamu sendiri?
 Apakah yang kamu tidak suka tentang diri kamu sendiri?	What don’t you like about yourself?
-What don’t you like about yourself?	Apakah yang kamu tidak suka tentang diri kamu sendiri?
 teman wanita	girlfriend
-girlfriend	teman wanita
 isteri	wife
-wife	isteri
 anak	Children/son/daughter
-Children/son/daughter	anak
 kami	our
-our	kami
 pelik	strange
-strange	pelik
 musuh	enemy
-enemy	musuh
 suami	husband
-husband	suami
 anak lelaki	Son
-Son	anak lelaki
 buruk	bad
-bad	buruk
 nenek	grandmother
-grandmother	nenek
-datuk	datuk
-datuk	datuk
+datuk	grandfather
 anak perempuan	daughter
-daughter	anak perempuan
 ayah	Father
-Father	ayah
 ibu	Mother
-Mother	ibu
 teman lelaki	boyfriend
-boyfriend	teman lelaki
 ibu bapa	parents
-parents	ibu bapa
 kakak	Older sister
-Older sister	kakak
 bayi	baby
-baby	bayi
 abang	older brother
-older brother	abang
 adik perempuan	younger sister
-younger sister	adik perempuan
 hubungan	relationship
-relationship	hubungan
 pakcik	Uncle
-Uncle	pakcik
 makcik	Aunt
-Aunt	makcik
 adik lelaki	younger brother
-younger brother	adik lelaki
 kawan	Friend
-Friend	kawan
 Siapakah ini?	Who is this?
-Who is this?	Siapakah ini?
 Siapakah itu?	Who is that?
-Who is that?	Siapakah itu?
 Isteri saya berumur lima puluh tahun.	My wife is fifty years old.
-My wife is fifty years old.	Isteri saya berumur lima puluh tahun.
 Berapakah umur bayi kamu?	How old is your baby?
-How old is your baby?	Berapakah umur bayi kamu?
 Berapakah umur anak lelaki kamu?	How old is your son?
-How old is your son?	Berapakah umur anak lelaki kamu?
 Anak perempuan saya berumur lima puluh tahun.	My daughter is fifty years old.
-My daughter is fifty years old.	Anak perempuan saya berumur lima puluh tahun.
 Ini adalah kawan saya.	This is my friend.
-This is my friend.	Ini adalah kawan saya.
 Ini adalah kawan kami.	This is our friend.
-This is our friend.	Ini adalah kawan kami.
 Saya ke situ dengan kakak saya.	I went with my older sister.
-I went with my older sister.	Saya ke situ dengan kakak saya.
 Kamu pergi dengan siapa?	Whom did you go with?
-Whom did you go with?	Kamu pergi dengan siapa?
 Saya mempunyai hubungan yang buruk dengan ayah saya.	I have a bad relationship with my father.
-I have a bad relationship with my father.	Saya mempunyai hubungan yang buruk dengan ayah saya.
 Kamu makan dengan siapa?	Whom did you eat with?
-Whom did you eat with?	Kamu makan dengan siapa?
 Kawan saya pelik.	My friend is strange.
-My friend is strange.	Kawan saya pelik.
 Saya mempunyai hubungan yang baik dengan ayah saya.	I have a good relationship with my father.
-I have a good relationship with my father.	Saya mempunyai hubungan yang baik dengan ayah saya.
 Adik lelaki saya pelik.	My younger brother is strange.
-My younger brother is strange.	Adik lelaki saya pelik.
 Abang saya pelik.	My older brother is strange.
-My older brother is strange.	Abang saya pelik.
 Saya ke situ dengan suami saya.	I went with my husband.
-I went with my husband.	Saya ke situ dengan suami saya.
 Kami menelefon ibu bapa kami setiap bulan.	We call our parents every month.
-We call our parents every month.	Kami menelefon ibu bapa kami setiap bulan.
 Kami pergi ke restoran Cina.	We went to a Chinese restaurant.
-We went to a Chinese restaurant.	Kami pergi ke restoran Cina.
 Kawan kamu kelihatan seperti adik lelaki saya.	Your friend looks like my younger brother.
-Your friend looks like my younger brother.	Kawan kamu kelihatan seperti adik lelaki saya.
 Kami menelefon ibu bapa kami setiap tahun.	We call our parents every year.
-We call our parents every year.	Kami menelefon ibu bapa kami setiap tahun.
 Ke manakah kamu dan isterimu pergi?	Where did you and your wife go?
-Where did you and your wife go?	Ke manakah kamu dan isterimu pergi?
 Ke manakah kamu dan nenek pergi?	Where did you and your grandmother go?
-Where did you and your grandmother go?	Ke manakah kamu dan nenek pergi?
 Berapa kerapkah kamu menelefon datukmu?	How often do you call your grandfather?
-How often do you call your grandfather?	Berapa kerapkah kamu menelefon datukmu?
 Tahniah	Congratulations
-Congratulations	Tahniah
 keluarga	family
-family	keluarga
 Takziah	my condolences
-my condolences	Takziah
 rakan sekerja	coworker
-coworker	rakan sekerja
 bukti	evidence
-evidence	bukti
 berkahwin	to marry
-to marry	berkahwin
 majlis pengebumian	funeral
-funeral	majlis pengebumian
 memperkenalkan	To introduce
-To introduce	memperkenalkan
 kamu semua	you all
-you all	kamu semua
+
+
+
+<=========================================== Got Up To Here ==========================================================>
+
+
+
 pengijazahan	graduation
 graduation	pengijazahan
 sijil	certificate
