@@ -870,127 +870,80 @@ Ken kata dia akan kembali ke Israel pada bulan September.	Ken said he’ll retur
 Erica akan kembali pada bulan Disember.	Erica will return in December.
 Erica akan kembali pada bulan November.	Erica will return in November.
 Pada bulan Mei.	In May.
-lima haribulan	Fifth
-enam haribulan	sixth
-satu haribulan	First
-tujuh haribulan	Seventh
-tiga haribulan	Third
-empat haribulan	Fourth
-dua haribulan	Second
-lapan haribulan	Eighth
-sepuluh haribulan	Tenth
-empat belas haribulan	fourteenth
-sebelas haribulan	Eleventh
-tiga belas haribulan	Thirteenth
-enam belas haribulan	Sixteenth
-dua belas haribulan	twelfth
-sembilan haribulan	ninth
-lima belas haribulan	fifteenth
-tujuh belas haribulan	seventeenth
-dua puluh empat haribulan	twenty-fourth
-lapan belas haribulan	eighteenth
-dua puluh satu haribulan	twenty-first
-dua puluh dua haribulan	twenty-second
-dua puluh tiga haribulan	twenty-third
-sembilan belas haribulan	nineteenth
-dua puluh haribulan	Twentieth
+lima haribulan	Fifth (day of the month)
+enam haribulan	sixth (day of the month)
+satu haribulan	First (day of the month)
+tujuh haribulan	Seventh (day of the month)
+tiga haribulan	Third (day of the month)
+empat haribulan	Fourth (day of the month)
+dua haribulan	Second (day of the month)
+lapan haribulan	Eighth (day of the month)
+sepuluh haribulan	Tenth (day of the month)
+empat belas haribulan	fourteenth (day of the month)
+sebelas haribulan	Eleventh (day of the month)
+tiga belas haribulan	Thirteenth (day of the month)
+enam belas haribulan	Sixteenth (day of the month)
+dua belas haribulan	twelfth (day of the month)
+sembilan haribulan	ninth (day of the month)
+lima belas haribulan	fifteenth (day of the month)
+tujuh belas haribulan	seventeenth (day of the month)
+dua puluh empat haribulan	twenty-fourth (day of the month)
+lapan belas haribulan	eighteenth (day of the month)
+dua puluh satu haribulan	twenty-first (day of the month)
+dua puluh dua haribulan	twenty-second (day of the month)
+dua puluh tiga haribulan	twenty-third (day of the month)
+sembilan belas haribulan	nineteenth (day of the month)
+dua puluh haribulan	Twentieth (day of the month)
+dua puluh lapan haribulan	twenty-eighth (day of the month)
+tiga puluh haribulan	thirtieth (day of the month)
+dua puluh tujuh haribulan	twenty-seventh (day of the month)
+dua puluh enam haribulan	twenty-sixth (day of the month)
+dua puluh sembilan haribulan	twenty-ninth (day of the month)
+dua puluh lima haribulan	twenty-fifth (day of the month)
+tiga puluh satu haribulan	thirty-first (day of the month)
+Haribulan apakah hari ini?	What day of the month is it today?
+Tiga haribulan Mei.	It’s on the third of May.
+Empat haribulan Mei.	It’s on the fourth of May.
+Satu haribulan Mei.	It’s on the first of May.
+Haribulan berapakah itu?	What day of the month is it?
+Hari ini lima haribulan Julai.	Today is the fifth of July.
+Dua haribulan Mei.	It’s on the second of May.
+Hari ini enam haribulan Julai.	Today is the sixth of July.
+Bilakah akan Ken pergi?	When will Ken go?
+Bilakah akan kamu kembali?	When will you return?
+Dia akan datang pada sebelas haribulan.	She’ll come on the eleventh.
+Dia akan datang pada sepuluh haribulan.	She’ll come on the tenth.
+Dia akan datang pada tujuh haribulan.	He’ll come on the seventh.
+Dia akan datang pada dua puluh tujuh haribulan.	She’ll come on the twenty-seventh.
+Dia akan datang pada sembilan haribulan.	He’ll come on the ninth.
+Dia akan datang pada lapan haribulan.	He’ll come on the eighth.
+Bilakah akan Ken kembali?	When will Ken return?
+Bilakah akan kamu pergi?	When will you go?
+Saya akan berada di sana dari lima belas haribulan ke tiga puluh haribulan.	I’ll be there from the fifteenth until the thirtieth.
+Saya akan berada di sana dari empat belas haribulan ke tiga puluh haribulan.	I’ll be there from the fourteenth until the thirtieth.
+Saya akan pulang ke Israel pada dua belas haribulan Jun.	I’ll return to Israel on the twelfth of June.
+Saya akan berada di sana dari dua puluh sembilan haribulan ke tiga puluh haribulan.	I’ll be there from the twenty-ninth until the thirtieth.
+Saya akan pulang ke Israel pada dua puluh lapan haribulan Jun.	I’ll return to Israel on the twenty-eighth of June.
+Saya akan pulang ke Israel pada tiga belas haribulan Jun.	I’ll return to Israel on the thirteenth of June.
+Khamis	Thursday
+Isnin	Monday
+Rabu	Wednesday
+Jumaat	Friday
+minggu	Week
+Sabtu	Saturday
+Selasa	Saturday
+Ahad	Sunday
+kelmarin	the day before yesterday
+hari minggu	weekday
+lusa	The day after tomorrow
+tahun baru	New years day
+hujung minggu	Weekend
+restoran	Restaurant
+cuti	Holiday
+semalam	yesterday
 
 <=========================================== Got Up To Here ==========================================================>
 
-dua puluh lapan haribulan	z twenty-eighth
-z twenty-eighth	dua puluh lapan haribulan
-tiga puluh haribulan	thirtieth
-thirtieth	tiga puluh haribulan
-dua puluh tujuh haribulan	twenty-seventh
-twenty-seventh	dua puluh tujuh haribulan
-dua puluh enam haribulan	dua puluh enam haribulan
-dua puluh enam haribulan	dua puluh enam haribulan
-dua puluh sembilan haribulan	twenty-ninth
-twenty-ninth	dua puluh sembilan haribulan
-dua puluh lima haribulan	twenty-fifth
-twenty-fifth	dua puluh lima haribulan
-tiga puluh satu haribulan	thirty-first
-thirty-first	tiga puluh satu haribulan
-Haribulan apakah hari ini?	What day of the month is it today?
-What day of the month is it today?	Haribulan apakah hari ini?
-Tiga haribulan Mei.	It’s on the third of May.
-It’s on the third of May.	Tiga haribulan Mei.
-Empat haribulan Mei.	It’s on the fourth of May.
-It’s on the fourth of May.	Empat haribulan Mei.
-Satu haribulan Mei.	It’s on the first of May.
-It’s on the first of May.	Satu haribulan Mei.
-Haribulan berapakah itu?	What day of the month is it?
-What day of the month is it?	Haribulan berapakah itu?
-Hari ini lima haribulan Julai.	Today is the fifth of July.
-Today is the fifth of July.	Hari ini lima haribulan Julai.
-Dua haribulan Mei.	It’s on the second of May.
-It’s on the second of May.	Dua haribulan Mei.
-Hari ini enam haribulan Julai.	Today is the sixth of July.
-Today is the sixth of July.	Hari ini enam haribulan Julai.
-Bilakah akan Ken pergi?	When will Ken go?
-When will Ken go?	Bilakah akan Ken pergi?
-Bilakah akan kamu kembali?	When will you return?
-When will you return?	Bilakah akan kamu kembali?
-Dia akan datang pada sebelas haribulan.	She’ll come on the eleventh.
-She’ll come on the eleventh.	Dia akan datang pada sebelas haribulan.
-Dia akan datang pada sepuluh haribulan.	She’ll come on the tenth.
-She’ll come on the tenth.	Dia akan datang pada sepuluh haribulan.
-Dia akan datang pada tujuh haribulan.	He’ll come on the seventh.
-He’ll come on the seventh.	Dia akan datang pada tujuh haribulan.
-Dia akan datang pada dua puluh tujuh haribulan.	She’ll come on the twenty-seventh.
-She’ll come on the twenty-seventh.	Dia akan datang pada dua puluh tujuh haribulan.
-Dia akan datang pada sembilan haribulan.	He’ll come on the ninth.
-He’ll come on the ninth.	Dia akan datang pada sembilan haribulan.
-Dia akan datang pada lapan haribulan.	He’ll come on the eighth.
-He’ll come on the eighth.	Dia akan datang pada lapan haribulan.
-Bilakah akan Ken kembali?	When will Ken return?
-When will Ken return?	Bilakah akan Ken kembali?
-Bilakah akan kamu pergi?	When will you go?
-When will you go?	Bilakah akan kamu pergi?
-Saya akan berada di sana dari lima belas haribulan ke tiga puluh haribulan.	I’ll be there from the fifteenth until the thirtieth.
-I’ll be there from the fifteenth until the thirtieth.	Saya akan berada di sana dari lima belas haribulan ke tiga puluh haribulan.
-Saya akan berada di sana dari empat belas haribulan ke tiga puluh haribulan.	I’ll be there from the fourteenth until the thirtieth.
-I’ll be there from the fourteenth until the thirtieth.	Saya akan berada di sana dari empat belas haribulan ke tiga puluh haribulan.
-Saya akan pulang ke Israel pada dua belas haribulan Jun.	I’ll return to Israel on the twelfth of June.
-I’ll return to Israel on the twelfth of June.	Saya akan pulang ke Israel pada dua belas haribulan Jun.
-Saya akan berada di sana dari dua puluh sembilan haribulan ke tiga puluh haribulan.	I’ll be there from the twenty-ninth until the thirtieth.
-I’ll be there from the twenty-ninth until the thirtieth.	Saya akan berada di sana dari dua puluh sembilan haribulan ke tiga puluh haribulan.
-Saya akan pulang ke Israel pada dua puluh lapan haribulan Jun.	I’ll return to Israel on the twenty-eighth of June.
-I’ll return to Israel on the twenty-eighth of June.	Saya akan pulang ke Israel pada dua puluh lapan haribulan Jun.
-Saya akan pulang ke Israel pada tiga belas haribulan Jun.	I’ll return to Israel on the thirteenth of June.
-I’ll return to Israel on the thirteenth of June.	Saya akan pulang ke Israel pada tiga belas haribulan Jun.
-Khamis	Thursday
-Thursday	Khamis
-Isnin	Monday
-Monday	Isnin
-Rabu	Wednesday
-Wednesday	Rabu
-Jumaat	Friday
-Friday	Jumaat
-minggu	Week
-Week	minggu
-Sabtu	Saturday
-Saturday	Sabtu
-Selasa	Saturday
-Saturday	Selasa
-Ahad	Sunday
-Sunday	Ahad
-kelmarin	the day before yesterday
-the day before yesterday	kelmarin
-hari minggu	weekday
-weekday	hari minggu
-lusa	The day after tomorrow
-The day after tomorrow	lusa
-tahun baru	New years day
-New years day	tahun baru
-hujung minggu	Weekend
-Weekend	hujung minggu
-restoran	Restaurant
-Restaurant	restoran
-cuti	Holiday
-Holiday	cuti
-semalam	yesterday
-yesterday	semalam
 minggu lepas	Last week
 Last week	minggu lepas
 harijadi	birthday
