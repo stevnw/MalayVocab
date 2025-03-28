@@ -1330,381 +1330,197 @@ tidak begitu	not very
 lucu	funny
 baik hati	kind
 bosan	Boring
-
-<=========================================== Got Up To Here ==========================================================>
-
-
 menarik	interesting
-interesting	menarik
 biasanya	Usually
-Usually	biasanya
 marah	Angry
-Angry	marah
 menangis	To cry
-To cry	menangis
 senyap	Quiet
-Quiet	senyap
 jahat	Mean
-Mean	jahat
 sedih	Sad
-Sad	sedih
 miskin	Poor
-Poor	miskin
 menyebabkan	To cause
-To cause	menyebabkan
 kuat	Loud
-Loud	kuat
 gembira	Happy
-Happy	gembira
 kaya	Rich
-Rich	kaya
 Perhubungan	Relationships
-Relationships	Perhubungan
-Time	Masa
 Masa	Time
-Numbers	Angka
 Angka	Numbers
-Greetings	Memberi Salam
 Memberi Salam	Greetings
-The Basics	Asas
 Asas	The Basics
 murah hati	generous
-generous	murah hati
 kedekut	miserly (stingy)
-miserly (stingy)	kedekut
 perangai	personality
-personality	perangai
 terlalu banyak	Too much
-Too much	terlalu banyak
 cerdik	smart
-smart	cerdik
 menakutkan	To scare
-To scare	menakutkan
 oleh kerana	Since
-Since	oleh kerana
 bodoh	Foolish
-Foolish	bodoh
 Ia adalah biadap untuk bercakap terlalu banyak.	It is rude to speak too much.
-It is rude to speak too much.	Ia adalah biadap untuk bercakap terlalu banyak.
 Dia kaya tetapi tidak begitu baik hati.	He’s rich, but not very kind.
-He’s rich, but not very kind.	Dia kaya tetapi tidak begitu baik hati.
 Saya hendak mengahwini seseorang yang kaya dan gembira.	I want to marry someone who is rich and happy.
-I want to marry someone who is rich and happy.	Saya hendak mengahwini seseorang yang kaya dan gembira.
 Ia adalah biadap untuk bercakap terlalu kuat.	It is rude to speak too loud.
-It is rude to speak too loud.	Ia adalah biadap untuk bercakap terlalu kuat.
 Dia kaya tetapi tidak begitu kedekut.	He’s rich, but not very miserly.
-He’s rich, but not very miserly.	Dia kaya tetapi tidak begitu kedekut.
 Kamu tidak patut berkahwin dengan seseorang hanya kerana mereka cerdik.	You should not marry someone because they are smart.
-You should not marry someone because they are smart.	Kamu tidak patut berkahwin dengan seseorang hanya kerana mereka cerdik.
 Kamu tidak patut berkahwin dengan seseorang hanya kerana mereka kaya.	You should not marry someone because they are rich.
-You should not marry someone because they are rich.	Kamu tidak patut berkahwin dengan seseorang hanya kerana mereka kaya.
 Saya hendak mengahwini seseorang yang kaya dan menarik.	I want to marry someone who is rich and interesting.
-I want to marry someone who is rich and interesting.	Saya hendak mengahwini seseorang yang kaya dan menarik.
 Erica biasanya senyap kerana dia senang menjadi takut.	Erica is usually quiet since she gets scared too much.
-Erica is usually quiet since she gets scared too much.	Erica biasanya senyap kerana dia senang menjadi takut.
 Kamu selalu membuat dia marah.	You always cause him to be angry.
-You always cause him to be angry.	Kamu selalu membuat dia marah.
-Saya akan mencuba untuk menjadi lebih bersopan terhadapnya.	Saya akan mencuba untuk menjadi lebih bersopan terhadapnya.
-Saya akan mencuba untuk menjadi lebih bersopan terhadapnya.	Saya akan mencuba untuk menjadi lebih bersopan terhadapnya.
+Saya akan mencuba untuk menjadi lebih bersopan terhadapnya.	I will try to be more polite to him.
 Saya akan mencuba untuk menjadi lebih baik terhadapnya.	I will try to be more kind to her.
-I will try to be more kind to her.	Saya akan mencuba untuk menjadi lebih baik terhadapnya.
 Erica biasanya senyap kerana dia senang menjadi keliru.	Erica is usually quiet since she gets confused too much.
-Erica is usually quiet since she gets confused too much.	Erica biasanya senyap kerana dia senang menjadi keliru.
 Kamu selalu membuat dia sedih kerana kamu jahat terhadapnya.	You always cause her to be sad because you are mean.
-You always cause her to be sad because you are mean.	Kamu selalu membuat dia sedih kerana kamu jahat terhadapnya.
 "Apakah maksud perkataan ""miskin""?"	What does the word “poor” mean?
-What does the word “poor” mean?	"Apakah maksud perkataan ""miskin""?"
 Pada pendapat saya, dia tidaklah begitu membosankan.	I don’t think she’s too boring.
-I don’t think she’s too boring.	Pada pendapat saya, dia tidaklah begitu membosankan.
 Seseorang adalah bodoh jika dia itu tidak begitu cerdik.	Someone is foolish if they are not very smart.
-Someone is foolish if they are not very smart.	Seseorang adalah bodoh jika dia itu tidak begitu cerdik.
 "Maksud ""miskin"" ialah kata lawan kaya."	“Poor” means the opposite of rich.
-“Poor” means the opposite of rich.	"Maksud ""miskin"" ialah kata lawan kaya."
 Pada pendapat kamu, adakah dia terlalu kedekut?	Do you think she’s too miserly?
-Do you think she’s too miserly?	Pada pendapat kamu, adakah dia terlalu kedekut?
 Pada pendapat saya, dia tidaklah begitu senyap.	I don’t think she’s too quiet.
-I don’t think she’s too quiet.	Pada pendapat saya, dia tidaklah begitu senyap.
 Seseorang adalah jahat jika dia itu tidak begitu baik hati.	Someone is mean if they are not very kind.
-Someone is mean if they are not very kind.	Seseorang adalah jahat jika dia itu tidak begitu baik hati.
 Pada pendapat kamu, adakah dia bercakap dengan terlalu kuat?	Do you think she’s too loud?
-Do you think she’s too loud?	Pada pendapat kamu, adakah dia bercakap dengan terlalu kuat?
 Saya suka perangai Erica yang lucu.	I like Erica’s funny personality.
-I like Erica’s funny personality.	Saya suka perangai Erica yang lucu.
 Sila cuba untuk menjadi lebih jahat.	Please try to be more mean.
-Please try to be more mean.	Sila cuba untuk menjadi lebih jahat.
 Sila cuba untuk menjadi kurang jahat.	Please try to be less mean.
-Please try to be less mean.	Sila cuba untuk menjadi kurang jahat.
 Sila cuba untuk menjadi kurang baik hati.	Please try to be less kind.
-Please try to be less kind.	Sila cuba untuk menjadi kurang baik hati.
 Saya keliru.	I am confused.
-I am confused.	Saya keliru.
 Saya suka perangai Erica yang gembira.	I like Erica’s happy personality.
-I like Erica’s happy personality.	Saya suka perangai Erica yang gembira.
 Saya bosan.	I am bored.
-I am bored.	Saya bosan.
 Sila cuba untuk menjadi lebih baik hati.	Please try to be more kind.
-Please try to be more kind.	Sila cuba untuk menjadi lebih baik hati.
 kulit	leather
-leather	kulit
 mendengar	To listen/ to hear
-To listen/ to hear	mendengar
 benar	real
-real	benar
 palsu	Fake
-Fake	palsu
 tengok	To look/ to see
-To look/ to see	tengok
 hanya bergurau	Just Kidding
-Just Kidding	hanya bergurau
 hebatnya	Wow
-Wow	hebatnya
 terkejut	to surprise
-to surprise	terkejut
 pokok	Tree
-Tree	pokok
 benar-benar	Really
-Really	benar-benar
 berhati-hati	To look out
-To look out	berhati-hati
 bunga	Flower
-Flower	bunga
 alamak	Oops
-Oops	alamak
 meneka	to guess
-to guess	meneka
 Apakah masalahnya?	What’s wrong?
-What’s wrong?	Apakah masalahnya?
 pergi dahulu	To go ahead
-To go ahead	pergi dahulu
 um	Um
-Um	um
 hey	Hey
-Hey	hey
 tidak!	No way!
-No way!	tidak!
 huh?	Huh?
-Huh?	huh?
 Saya rasa itu adalah benar.	I think it is real.
-I think it is real.	Saya rasa itu adalah benar.
 Pokok siapakah itu?	Whose tree is that?
-Whose tree is that?	Pokok siapakah itu?
 Kamu rasa pokok itu benar?	Do you think that tree is real?
-Do you think that tree is real?	Kamu rasa pokok itu benar?
 Surat siapakah itu?	Whose mail is that?
-Whose mail is that?	Surat siapakah itu?
 Bunga itu adalah kepunyaan dia.	The flower is hers.
-The flower is hers.	Bunga itu adalah kepunyaan dia.
 Saya rasa itu adalah palsu.	I think it is fake.
-I think it is fake.	Saya rasa itu adalah palsu.
 Kamu rasa pokok itu palsu?	Do you think that tree is fake?
-Do you think that tree is fake?	Kamu rasa pokok itu palsu?
 Cuba menyentuhnya dan tengok sama ada ia benar atau tidak.	Touch it to see if it is real.
-Touch it to see if it is real.	Cuba menyentuhnya dan tengok sama ada ia benar atau tidak.
 Adakah kamu lebih suka bunga sebenar ataupun bunga palsu?	Do you like real or fake flowers better?
-Do you like real or fake flowers better?	Adakah kamu lebih suka bunga sebenar ataupun bunga palsu?
 Kulit itu nampaknya kurang tulen berbanding dengan kulit ini.	That leather looks less real than this leather.
-That leather looks less real than this leather.	Kulit itu nampaknya kurang tulen berbanding dengan kulit ini.
 Saya benar-benar tidak suka akan kulit palsu.	I really don’t like fake leather.
-I really don’t like fake leather.	Saya benar-benar tidak suka akan kulit palsu.
 Adakah kamu lebih suka pokok sebenar ataupun pokok palsu?	Do you like real or fake trees better?
-Do you like real or fake trees better?	Adakah kamu lebih suka pokok sebenar ataupun pokok palsu?
 Saya benar-benar tidak suka akan pokok palsu.	I really don’t like fake trees.
-I really don’t like fake trees.	Saya benar-benar tidak suka akan pokok palsu.
 Adakah kamu benar-benar berfikiran begitu?	Do you really think so?
-Do you really think so?	Adakah kamu benar-benar berfikiran begitu?
 Saya benar-benar suka akan pokok sebenar berbanding dengan pokok palsu.	I really like real trees better than fake trees.
-I really like real trees better than fake trees.	Saya benar-benar suka akan pokok sebenar berbanding dengan pokok palsu.
 Kulit itu nampaknya lebih tulen berbanding dengan kulit ini.	That leather looks more real than this leather.
-That leather looks more real than this leather.	Kulit itu nampaknya lebih tulen berbanding dengan kulit ini.
 Nampakkah kamu?	Can you see?
-Can you see?	Nampakkah kamu?
 Saya tidak dapat mendengar kamu.	I could not hear you.
-I could not hear you.	Saya tidak dapat mendengar kamu.
 Dengarkah kamu?	Can you hear?
-Can you hear?	Dengarkah kamu?
 Saya tidak dapat dengar.	I can’t hear.
-I can’t hear.	Saya tidak dapat dengar.
 Saya tidak dapat tengok.	I can’t see.
-I can’t see.	Saya tidak dapat tengok.
 Saya tidak dapat melihat kamu.	I could not see you.
-I could not see you.	Saya tidak dapat melihat kamu.
 Sila ke mari.	Please come.
-Please come.	Sila ke mari.
 Sila lihat	Please look.
-Please look.	Sila lihat
 Saya sedang mendengar.	I am listening.
-I am listening.	Saya sedang mendengar.
 Adakah kamu sedang mendengar?	Are you listening?
-Are you listening?	Adakah kamu sedang mendengar?
 Saya tidak mendengar.	I am not listening.
-I am not listening.	Saya tidak mendengar.
 Sila dengar.	Please listen.
-Please listen.	Sila dengar.
 Saya terkejut.	I am surprised.
-I am surprised.	Saya terkejut.
 Saya tidak terkejut.	I am not surprised.
-I am not surprised.	Saya tidak terkejut.
 Adakah kamu sedang melihat?	Are you watching?
-Are you watching?	Adakah kamu sedang melihat?
 Saya tidak keliru.	I am not confused.
-I am not confused.	Saya tidak keliru.
 Sila pergi dahulu.	Please go ahead.
-Please go ahead.	Sila pergi dahulu.
 Sila berhati-hati.	Please be careful.
-Please be careful.	Sila berhati-hati.
 Hebatnya, betul tu!	Wow, that’s correct!
-Wow, that’s correct!	Hebatnya, betul tu!
 Hey! Teka berapa umur saya.	Hey! Guess how old I am.
-Hey! Guess how old I am.	Hey! Teka berapa umur saya.
 Um, dua puluh tujuh? Alamak, maksud saya tiga puluh tujuh.	Um, twenty seven? Oops, I mean thirty seven.
-Um, twenty seven? Oops, I mean thirty seven.	Um, dua puluh tujuh? Alamak, maksud saya tiga puluh tujuh.
 percuma	Free
-Free	percuma
 duit syiling	Coins
-Coins	duit syiling
 menjimat	To save
-To save	menjimat
 insuran	Insurance
-Insurance	insuran
 akaun bank	Bank account
-Bank account	akaun bank
 harga	Price
-Price	harga
 bayaran	payment
-payment	bayaran
 kos hidup	Cost of living
-Cost of living	kos hidup
 berpindah	To move
-To move	berpindah
 hutang	Debt
-Debt	hutang
 simpanan	Savings
-Savings	simpanan
 jauh	Far
-Far	jauh
 dekat	Near
-Near	dekat
 jualan murah	on sale
-on sale	jualan murah
 sewa	Rent
-Rent	sewa
 tidak lama lagi	soon
-soon	tidak lama lagi
 mahal	Expensive
-Expensive	mahal
 bil	Bill
-Bill	bil
 murah	Cheap
-Cheap	murah
 cukai	Tax
-Tax	cukai
 Sewa saya akan menjadi murah tetapi bayaran hutang saya akan menjadi lebih mahal.	Rent would be cheap, but my debt payments are more expensive.
-Rent would be cheap, but my debt payments are more expensive.	Sewa saya akan menjadi murah tetapi bayaran hutang saya akan menjadi lebih mahal.
 Kamu patut pindah ke rumah ibubapa kamu untuk menjimatkan duit sewa.	You should move in with your parents to save money on rent.
-You should move in with your parents to save money on rent.	Kamu patut pindah ke rumah ibubapa kamu untuk menjimatkan duit sewa.
 Datuk dan nenek saya tinggal terlalu jauh.	My grandparents live too far away.
-My grandparents live too far away.	Datuk dan nenek saya tinggal terlalu jauh.
 Kamu patut pindah ke rumah makcik kamu.	You should move in with your aunt.
-You should move in with your aunt.	Kamu patut pindah ke rumah makcik kamu.
 Ibubapa saya tinggal terlalu jauh.	My parents live too far away.
-My parents live too far away.	Ibubapa saya tinggal terlalu jauh.
 Sewa rumah saya sungguh murah.	My rent is so cheap.
-My rent is so cheap.	Sewa rumah saya sungguh murah.
 Bayaran insuran saya lebih mahal.	My insurance payments are more expensive.
-My insurance payments are more expensive.	Bayaran insuran saya lebih mahal.
 Oleh kerana kos kehidupan saya sangat mahal, saya akan berhutang tidak lama lagi.	Since my cost of living is so expensive, I’m going to have debt soon.
-Since my cost of living is so expensive, I’m going to have debt soon.	Oleh kerana kos kehidupan saya sangat mahal, saya akan berhutang tidak lama lagi.
 Kamu patut membeli benda-benda yang murah sahaja.	You should only buy things that are cheap.
-You should only buy things that are cheap.	Kamu patut membeli benda-benda yang murah sahaja.
 Insuran itu murah.	The insurance is cheap.
-The insurance is cheap.	Insuran itu murah.
 Berapakah insuran itu?	How much is the insurance?
-How much is the insurance?	Berapakah insuran itu?
 Insuran itu percuma.	The insurance is free.
-The insurance is free.	Insuran itu percuma.
 Berapakah cukai itu?	How much is the tax?
-How much is the tax?	Berapakah cukai itu?
 Berapakah bil itu?	How much is the bill?
-How much is the bill?	Berapakah bil itu?
 Kamu patut membeli benda-benda diskaun sahaja untuk menjimat lebih banyak duit.	To save more money, you should only buy things that are on sale.
-To save more money, you should only buy things that are on sale.	Kamu patut membeli benda-benda diskaun sahaja untuk menjimat lebih banyak duit.
 Sesuatu itu murah jika ia tidak begitu mahal.	Something is cheap if it’s not expensive.
-Something is cheap if it’s not expensive.	Sesuatu itu murah jika ia tidak begitu mahal.
 Cukai adalah kira-kira sepuluh peratus daripada bil itu.	Tax is about ten percent of the bill.
-Tax is about ten percent of the bill.	Cukai adalah kira-kira sepuluh peratus daripada bil itu.
 Cukai adalah kira-kira sepuluh peratus daripada harga itu.	Tax is about ten percent of the price.
-Tax is about ten percent of the price.	Cukai adalah kira-kira sepuluh peratus daripada harga itu.
 Saya akan berpindah ke Paris tidak lama lagi untuk menjimatkan duit sewa.	I’ll move to Paris soon to save money on rent.
-I’ll move to Paris soon to save money on rent.	Saya akan berpindah ke Paris tidak lama lagi untuk menjimatkan duit sewa.
 Murah ialah kata lawan mahal.	Cheap is the opposite of expensive.
-Cheap is the opposite of expensive.	Murah ialah kata lawan mahal.
 Saya akan berpindah ke Paris tidak lama lagi untuk menjimatkan duit kos kehidupan.	I’ll move to Paris soon to save money on cost of living.
-I’ll move to Paris soon to save money on cost of living.	Saya akan berpindah ke Paris tidak lama lagi untuk menjimatkan duit kos kehidupan.
 Saya tidak boleh membeli makanan yang mahal.	I can’t buy expensive food.
-I can’t buy expensive food.	Saya tidak boleh membeli makanan yang mahal.
 Saya ingin membeli sebuah pangsapuri yang dekat dengan tempat kerja.	I want to buy an apartment near to work.
-I want to buy an apartment near to work.	Saya ingin membeli sebuah pangsapuri yang dekat dengan tempat kerja.
 Ia adalah susah untuk mencari insuran yang murah.	It’s hard to find cheap insurance.
-It’s hard to find cheap insurance.	Ia adalah susah untuk mencari insuran yang murah.
 Ia adalah susah untuk mecari insuran yang bagus.	It’s hard to find good insurance.
-It’s hard to find good insurance.	Ia adalah susah untuk mecari insuran yang bagus.
 Saya tidak boleh membeli insuran yang mahal.	I can’t buy expensive insurance.
-I can’t buy expensive insurance.	Saya tidak boleh membeli insuran yang mahal.
 Saya ingin mencari sebuah pangsapuri yang dekat dengan tempat kerja.	I want to find an apartment near to work.
-I want to find an apartment near to work.	Saya ingin mencari sebuah pangsapuri yang dekat dengan tempat kerja.
-budaya	
-	budaya
+budaya	Culture
 mengurangkan	To reduce
-To reduce	mengurangkan
 pertanyaan	question
-question	pertanyaan
 terlalu	Too
-Too	terlalu
 kualiti	Quality
-Quality	kualiti
 kad kredit	Credit Card
-Credit Card	kad kredit
 bertanya	to ask
-to ask	bertanya
 faedah	Interest
-Interest	faedah
 menandatangani	To sign
-To sign	menandatangani
 tip	Tip
-Tip	tip
 berhutang	To owe
-To owe	berhutang
 pinjaman	Loan
-Loan	pinjaman
 bulanan	monthly
-monthly	bulanan
 tahunan	Yearly
-Yearly	tahunan
 Asia	Asian
-Asian	Asia
 asing	Separate
-Separate	asing
 bersama	together
-together	bersama
 kontrak	Contract
-Contract	kontrak
 membayar	To pay
-To pay	membayar
 meminjam	to borrow
-to borrow	meminjam
 mungkin	Possible
-Possible	mungkin
 Ia adalah lebih murah untuk membeli pelan tahunan.	It’s cheaper to buy the yearly plan.
-It’s cheaper to buy the yearly plan.	Ia adalah lebih murah untuk membeli pelan tahunan.
 Kereta saya berharga enam ribu tujuh ratus euro.	The price of my car was six thousand seven hundred euros.
-The price of my car was six thousand seven hundred euros.	Kereta saya berharga enam ribu tujuh ratus euro.
 Kereta saya murah tetapi berkualiti buruk.	My car was cheap but bad quality.
-My car was cheap but bad quality.	Kereta saya murah tetapi berkualiti buruk.
 Berapakah harga kereta anda?	How much was your car?
-How much was your car?	Berapakah harga kereta anda?
 Kereta saya murah tetapi berkualiti baik.	My car was cheap but good quality.
-My car was cheap but good quality.	Kereta saya murah tetapi berkualiti baik.
 Berapakah faedahnya jika saya mengambil pinjaman sepuluh ribu dolar?	How much interest is it if I get a ten thousand dollar loan?
+
+
+
+
+
 How much interest is it if I get a ten thousand dollar loan?	Berapakah faedahnya jika saya mengambil pinjaman sepuluh ribu dolar?
 Adakah ia lebih murah untuk membayar bil telefon bulanan atau tahunan?	Is it cheaper to pay the phone bill monthly or yearly?
 Is it cheaper to pay the phone bill monthly or yearly?	Adakah ia lebih murah untuk membayar bil telefon bulanan atau tahunan?
