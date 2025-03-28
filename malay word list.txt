@@ -1187,298 +1187,153 @@ berkahwin	to marry
 majlis pengebumian	funeral
 memperkenalkan	To introduce
 kamu semua	you all
-
-
+pengijazahan	graduation
+sijil	certificate
+mencari	To find
+majlis perkahwinan	wedding
+majlis	ceremony
+membuktikan	To prove
+bercinta	To date
+perkahwinan	Marriage
+menunjuk	To show
+Mereka tunjukkan saya.	They showed me.
+Adakah kamu adik beradik?	Are you guys brothers?
+Adakah kamu berdua sedang bercinta?	Are you guys dating?
+Kami pernah menjadi suami isteri.	We were married.
+Kami adalah sekeluarga dahulu.	We were family.
+Kami adalah suami isteri.	We are married.
+Kami adalah sekeluarga.	We are family.
+Mereka telah memperkenalkan saya.	They introduced me.
+Mereka tunjukkan kami.	They showed us.
+Mereka telah memperkenalkan kami.	They introduced us.
+Kita semua telah berkahwin.	We are all married.
+Kita adalah sekeluarga.	We are all family.
+Ini majlis pengebumian siapa?	Who is the funeral ceremony for?
+Ini majlis pengijazahan siapa?	Who is the graduation ceremony for?
+Ini adalah majlis pengijazahan isteri saya	The graduation ceremony is for my wife.
+Majlis perkahwinan ini adalah untuk rakan sekerja saya.Majlis perkahwinan ini adalah untuk rakan sekerja saya.	The wedding ceremony is for my coworker.
+Tahniah atas perkahwinan anda.	Congratulations on your wedding.
+Saya tidak dapat mencari sijil perkahwinan kita.	I can’t find our marriage certificate.
+Sila hubungi ibu bapa kami untuk mendapatkan sijil perkahwinan itu.	Please call our parents to get the marriage certificate.
+Kamu perlu pulang ke Israel jika kamu gagal menunjukkan bukti.	If you can’t show evidence, then you have to return to Israel.
+Tahniah atas pengijazahan anda.	Congratulations on your graduation.
+Sila tunjukkan bukti bahawa kamu berdua adalah suami isteri.	Please show us evidence to prove that you guys are married.
+pembunuh	murderer
+askar	soldier
+penipu	liar
+presiden	president
+mencuba	To try
+tuhan	God
+pencuri	Thief
+menjengkelkan	Annoying
+terkenal	Famous
+bodoh	Dumb
+gila	Crazy
+pekerjaan	Job
+orang asing	Stranger
+mencuri	To steal
+gengster	gangster
+pelakon	Actor
+bintang pop	Pop Star
+Jenis apa?	What kind?
+_____ku	My
+jurujual	salesman
+pemandu	Driver
+peragawati	model
+penghibur	Entertainer
+jahat	Evil
+Kawanku bintang pop.	My friend is a pop star.
+Isteriku bintang pop.	My wife is a pop star.
+Isteriku gengster.	My wife is a gangster.
+Dia kelihatan seperti seorang pembunuh.	She looks like a murderer.
+Dia kelihatan seperti seorang pemandu.	She looks like a driver.
+Erica kelihatan seperti seorang pemandu.	Erica looks like a driver.
+Kawanku gengster.	My friend is a gangster.
+Erica kelihatan seperti seorang pembunuh.	Erica looks like a murderer.
+Saya ingin menjadi seorang askar.	I want to be a soldier.
+Apakah jenis pekerjaan yang kamu ingini?	What kind of job do you want?
+Siapakah itu?	Who is that?
+Pencuri gila itu cuba untuk mencuri dompet presiden.	That crazy thief tried to steal the presidents wallet.
+Pencuri bodoh itu cuba untuk mencuri dompet presiden.	That dumb thief tried to steal the presidents wallet.
+Saya ingin menjadi seorang jurujual.	I want to be a salesman.
+Dia adalah seorang pelakon yang terkenal.	That is a famous actor.
+Dia adalah seorang penghibur yang terkenal.	That is a famous entertainer.
+Apakah pendapat kamu tentang Erica?	What do you think of Erica?
+Saya ingat Erica pernah kata dia adalah seorang penipu.	I think Erica said she’s a liar.
+Saya ingat Erica pernah kata dia adalah seorang pencuri.	I think Erica said she’s a thief.
+Pada pendapat saya, dia tidak bodoh.	I don’t think she’s dumb.
+Pada pendapat saya, dia tidak menjengkelkan.	I don’t think she’s annoying.
+Apakah jenis pekerjaan Erica?	What kind of work does Erica do?
+Pada pendapat saya, dia tidak jahat.	I don’t think she’s evil.
+Saya ingat Erica pernah kata dia adalah seorang pelakon.	I think she said that she’s an actor.
+Awak kelihatan seperti seorang pembunuh.	You look like a murderer.
+Pelakon adalah seorang penghibur dalam televisyen.	An actor is a person who is an entertainer on television.
+Awak kelihatan seperti seorang pelakon.	You look like an actor.
+Awak kelihatan seperti seorang peragawati.	You look like a model.
+Saya tidak berfikiran begitu.	I don’t think so.
+Awak kelihatan seperti seorang jurujual.	You look like a salesman.
+Awak kelihatan seperti seorang samseng.	You look like a gangster.
+sopan	polite
+memaafkan	to forgive
+melupakan	to forget
+mengingati	To remember
+membosankan	To bore
+mencintai	to love
+bergurau dengan	To joke with
+membunuh	To kill
+menumbuk	To punch
+memeluk	To hug
+memberitahu	To tell
+menyentuh	To touch
+menjengkelkan	To annoy
+mengelirukan	to confuse
+mencium	To kiss
+biadap	Rude
+menipu	To lie
+mengusik	To make fun of
+keluar bersama	To hang out
+bersenam	To exercise
+mengajar	To teach
+Sudikah kamu mengajar saya?	Will you teach me please?
+Tolong jangan menyentuh saya.	Please don’t touch me.
+Tolong jangan membunuh saya.	Please don’t kill me.
+Sudikah kamu memaafkan saya?	Will you forgive me please?
+Tolong jangan membosankan saya.	Please don’t bore me.
+Sudikah kamu menolong saya?	Will you help me please?
+Sudikah kamu memperkenalkan saya?	Will you introduce me please?
+Tolong jangan mengusik saya.	Please don’t make fun of me.
+Sudikah kamu berkahwin dengan saya?	Will you marry me please?
+Tolong jangan menjengkelkan saya.	Please don’t annoy me.
+Saya boleh memaafkannya walaupun dia menumbuk saya.	I can forgive him for punching me.
+Ken kata dia ingin keluar bersama saya.	Ken said he wants to hang out with me.
+Kamu tidak patut melupakan dia.	You should not forget her.
+Tetapi saya tidak tahu jika saya boleh memaafkannya kerana dia menipu saya.	But I don’t know if I can forgive him for lying to me.
+Ken kata dia ingin bercinta dengan saya.	Ken said he wants to date me.
+Ken kata dia ingin bercakap dengan saya.	Ken said he wants to speak with me.
+Kamu patut memaafkan dia tetapi itu tidak bermaksud kamu patut berkahwin dengannya.	You should forgive him, but that does not mean you should marry him.
+Saya tahu saya boleh memaafkannya walaupun dia mengusik saya.	I know I can forgive her for making fun of me.
+Sila mengajar saya bahasa Inggeris yang biadap.	Please teach me rude English.
+Saya tidak ingat nama dia.	I don’t remember his name.
+Saya ingin keluar bersama kamu.	I want to hang out with you.
+Sila mengajar saya bahasa Inggeris yang sopan.	Please teach me polite English.
+Maafkan saya kerana mengelirukan kamu.	I’m sorry I confused you.
+Saya ingin menumbuk kamu.	I want to punch you.
+Sila memberitahu dia bahawa saya boleh keluar bersama dengannya.	Please tell her that I can hang out.
+Sila memberitahu Ken bahawa saya tidak boleh bersenam bersama dengannya kerana saya sibuk.	Please tell Ken that I can’t exercise with him because I am busy.
+Saya tidak mahu menjengkelkan kamu.	I don’t want to annoy you.
+Saya tidak mahu membosankan kamu.	I don’t want to bore you.
+Saya tidak mahu keluar bersama kamu.	I don’t want to hang out with you.
+Saya marah tetapi saya akan memaafkan kamu jika kamu memeluk saya.	I am angry, but I will forgive you if you hug me.
+Dia akan memaafkan kamu jika kamu mencium dia.	She will forgive you if you kiss her.
+Saya tidak mahu mengelirukan kamu.	I don’t want to confuse you.
+tidak begitu	not very
+lucu	funny
+baik hati	kind
+bosan	Boring
 
 <=========================================== Got Up To Here ==========================================================>
 
 
-
-pengijazahan	graduation
-
-sijil	certificate
-
-mencari	To find
-
-majlis perkahwinan	wedding
-
-majlis	ceremony
-
-membuktikan	To prove
-
-bercinta	To date
-perkahwinan	Marriage
-
-menunjuk	To show
-
-Mereka tunjukkan saya.	They showed me.
-
-Adakah kamu adik beradik?	Are you guys brothers?
-
-Adakah kamu berdua sedang bercinta?	Are you guys dating?
-
-Kami pernah menjadi suami isteri.	We were married.
-
-Kami adalah sekeluarga dahulu.	We were family.
-
-Kami adalah suami isteri.	We are married.
-
-Kami adalah sekeluarga.	We are family.
-
-Mereka telah memperkenalkan saya.	They introduced me.
-
-Mereka tunjukkan kami.	They showed us.
-
-Mereka telah memperkenalkan kami.	They introduced us.
-
-Kita semua telah berkahwin.	We are all married.
-
-Kita adalah sekeluarga.	We are all family.
-
-Ini majlis pengebumian siapa?	Who is the funeral ceremony for?
-
-Ini majlis pengijazahan siapa?	Who is the graduation ceremony for?
-
-Ini adalah majlis pengijazahan isteri saya	The graduation ceremony is for my wife.
-
-Majlis perkahwinan ini adalah untuk rakan sekerja saya.Majlis perkahwinan ini adalah untuk rakan sekerja saya.	The wedding ceremony is for my coworker.
-
-Tahniah atas perkahwinan anda.	Congratulations on your wedding.
-
-Saya tidak dapat mencari sijil perkahwinan kita.	I can’t find our marriage certificate.
-
-Sila hubungi ibu bapa kami untuk mendapatkan sijil perkahwinan itu.	Please call our parents to get the marriage certificate.
-
-Kamu perlu pulang ke Israel jika kamu gagal menunjukkan bukti.	If you can’t show evidence, then you have to return to Israel.
-
-Tahniah atas pengijazahan anda.	Congratulations on your graduation.
-
-Sila tunjukkan bukti bahawa kamu berdua adalah suami isteri.	Please show us evidence to prove that you guys are married.
-
-pembunuh	murderer
-
-askar	soldier
-
-penipu	liar
-
-presiden	president
-
-mencuba	To try
-
-tuhan	God
-
-pencuri	Thief
-
-menjengkelkan	Annoying
-
-terkenal	Famous
-Famous	terkenal
-bodoh	Dumb
-Dumb	bodoh
-gila	Crazy
-Crazy	gila
-pekerjaan	Job
-Job	pekerjaan
-orang asing	Stranger
-Stranger	orang asing
-mencuri	To steal
-To steal	mencuri
-gengster	gangster
-gangster	gengster
-pelakon	Actor
-Actor	pelakon
-bintang pop	Pop Star
-Pop Star	bintang pop
-Jenis apa?	What kind?
-What kind?	Jenis apa?
-_____ku	My
-My	_____ku
-jurujual	salesman
-salesman	jurujual
-pemandu	Driver
-Driver	pemandu
-peragawati	model
-model	peragawati
-penghibur	Entertainer
-Entertainer	penghibur
-jahat	Evil
-Evil	jahat
-Kawanku bintang pop.	My friend is a pop star.
-My friend is a pop star.	Kawanku bintang pop.
-Isteriku bintang pop.	My wife is a pop star.
-My wife is a pop star.	Isteriku bintang pop.
-Isteriku gengster.	My wife is a gangster.
-My wife is a gangster.	Isteriku gengster.
-Dia kelihatan seperti seorang pembunuh.	She looks like a murderer.
-She looks like a murderer.	Dia kelihatan seperti seorang pembunuh.
-Dia kelihatan seperti seorang pemandu.	She looks like a driver.
-She looks like a driver.	Dia kelihatan seperti seorang pemandu.
-Erica kelihatan seperti seorang pemandu.	Erica looks like a driver.
-Erica looks like a driver.	Erica kelihatan seperti seorang pemandu.
-Kawanku gengster.	My friend is a gangster.
-My friend is a gangster.	Kawanku gengster.
-Erica kelihatan seperti seorang pembunuh.	Erica looks like a murderer.
-Erica looks like a murderer.	Erica kelihatan seperti seorang pembunuh.
-Saya ingin menjadi seorang askar.	I want to be a soldier.
-I want to be a soldier.	Saya ingin menjadi seorang askar.
-Apakah jenis pekerjaan yang kamu ingini?	What kind of job do you want?
-What kind of job do you want?	Apakah jenis pekerjaan yang kamu ingini?
-Siapakah itu?	Who is that?
-Who is that?	Siapakah itu?
-Pencuri gila itu cuba untuk mencuri dompet presiden.	That crazy thief tried to steal the presidents wallet.
-That crazy thief tried to steal the presidents wallet.	Pencuri gila itu cuba untuk mencuri dompet presiden.
-Pencuri bodoh itu cuba untuk mencuri dompet presiden.	That dumb thief tried to steal the presidents wallet.
-That dumb thief tried to steal the presidents wallet.	Pencuri bodoh itu cuba untuk mencuri dompet presiden.
-Saya ingin menjadi seorang jurujual.	I want to be a salesman.
-I want to be a salesman.	Saya ingin menjadi seorang jurujual.
-Dia adalah seorang pelakon yang terkenal.	That is a famous actor.
-That is a famous actor.	Dia adalah seorang pelakon yang terkenal.
-Dia adalah seorang penghibur yang terkenal.	That is a famous entertainer.
-That is a famous entertainer.	Dia adalah seorang penghibur yang terkenal.
-Apakah pendapat kamu tentang Erica?	What do you think of Erica?
-What do you think of Erica?	Apakah pendapat kamu tentang Erica?
-Saya ingat Erica pernah kata dia adalah seorang penipu.	I think Erica said she’s a liar.
-I think Erica said she’s a liar.	Saya ingat Erica pernah kata dia adalah seorang penipu.
-Saya ingat Erica pernah kata dia adalah seorang pencuri.	I think Erica said she’s a thief.
-I think Erica said she’s a thief.	Saya ingat Erica pernah kata dia adalah seorang pencuri.
-Pada pendapat saya, dia tidak bodoh.	I don’t think she’s dumb.
-I don’t think she’s dumb.	Pada pendapat saya, dia tidak bodoh.
-Pada pendapat saya, dia tidak menjengkelkan.	I don’t think she’s annoying.
-I don’t think she’s annoying.	Pada pendapat saya, dia tidak menjengkelkan.
-Apakah jenis pekerjaan Erica?	What kind of work does Erica do?
-What kind of work does Erica do?	Apakah jenis pekerjaan Erica?
-Pada pendapat saya, dia tidak jahat.	I don’t think she’s evil.
-I don’t think she’s evil.	Pada pendapat saya, dia tidak jahat.
-Saya ingat Erica pernah kata dia adalah seorang pelakon.	I think she said that she’s an actor.
-I think she said that she’s an actor.	Saya ingat Erica pernah kata dia adalah seorang pelakon.
-Awak kelihatan seperti seorang pembunuh.	You look like a murderer.
-You look like a murderer.	Awak kelihatan seperti seorang pembunuh.
-Pelakon adalah seorang penghibur dalam televisyen.	An actor is a person who is an entertainer on television.
-An actor is a person who is an entertainer on television.	Pelakon adalah seorang penghibur dalam televisyen.
-Awak kelihatan seperti seorang pelakon.	You look like an actor.
-You look like an actor.	Awak kelihatan seperti seorang pelakon.
-Awak kelihatan seperti seorang peragawati.	You look like a model.
-You look like a model.	Awak kelihatan seperti seorang peragawati.
-Saya tidak berfikiran begitu.	I don’t think so.
-I don’t think so.	Saya tidak berfikiran begitu.
-Awak kelihatan seperti seorang jurujual.	You look like a salesman.
-You look like a salesman.	Awak kelihatan seperti seorang jurujual.
-Awak kelihatan seperti seorang samseng.	You look like a gangster.
-You look like a gangster.	Awak kelihatan seperti seorang samseng.
-sopan	polite
-polite	sopan
-memaafkan	to forgive
-to forgive	memaafkan
-melupakan	to forget
-to forget	melupakan
-mengingati	To remember
-To remember	mengingati
-membosankan	To bore
-To bore	membosankan
-mencintai	
-	mencintai
-bergurau dengan	To joke with
-To joke with	bergurau dengan
-membunuh	To kill
-To kill	membunuh
-menumbuk	To punch
-To punch	menumbuk
-memeluk	To hug
-To hug	memeluk
-memberitahu	To tell
-To tell	memberitahu
-menyentuh	To touch
-To touch	menyentuh
-menjengkelkan	To annoy
-To annoy	menjengkelkan
-mengelirukan	to confuse
-to confuse	mengelirukan
-mencium	To kiss
-To kiss	mencium
-biadap	Rude
-Rude	biadap
-menipu	To lie
-To lie	menipu
-mengusik	To make fun of
-To make fun of	mengusik
-keluar bersama	To hang out
-To hang out	keluar bersama
-bersenam	To exercise
-To exercise	bersenam
-mengajar	To teach
-To teach	mengajar
-Sudikah kamu mengajar saya?	Will you teach me please?
-Will you teach me please?	Sudikah kamu mengajar saya?
-Tolong jangan menyentuh saya.	Please don’t touch me.
-Please don’t touch me.	Tolong jangan menyentuh saya.
-Tolong jangan membunuh saya.	Please don’t kill me.
-Please don’t kill me.	Tolong jangan membunuh saya.
-Sudikah kamu memaafkan saya?	Will you forgive me please?
-Will you forgive me please?	Sudikah kamu memaafkan saya?
-Tolong jangan membosankan saya.	Please don’t bore me.
-Please don’t bore me.	Tolong jangan membosankan saya.
-Sudikah kamu menolong saya?	Will you help me please?
-Will you help me please?	Sudikah kamu menolong saya?
-Sudikah kamu memperkenalkan saya?	Will you introduce me please?
-Will you introduce me please?	Sudikah kamu memperkenalkan saya?
-Tolong jangan mengusik saya.	Please don’t make fun of me.
-Please don’t make fun of me.	Tolong jangan mengusik saya.
-Sudikah kamu berkahwin dengan saya?	Will you marry me please?
-Will you marry me please?	Sudikah kamu berkahwin dengan saya?
-Tolong jangan menjengkelkan saya.	Please don’t annoy me.
-Please don’t annoy me.	Tolong jangan menjengkelkan saya.
-Saya boleh memaafkannya walaupun dia menumbuk saya.	I can forgive him for punching me.
-I can forgive him for punching me.	Saya boleh memaafkannya walaupun dia menumbuk saya.
-Ken kata dia ingin keluar bersama saya.	Ken said he wants to hang out with me.
-Ken said he wants to hang out with me.	Ken kata dia ingin keluar bersama saya.
-Kamu tidak patut melupakan dia.	You should not forget her.
-You should not forget her.	Kamu tidak patut melupakan dia.
-Tetapi saya tidak tahu jika saya boleh memaafkannya kerana dia menipu saya.	But I don’t know if I can forgive him for lying to me.
-But I don’t know if I can forgive him for lying to me.	Tetapi saya tidak tahu jika saya boleh memaafkannya kerana dia menipu saya.
-Ken kata dia ingin bercinta dengan saya.	Ken said he wants to date me.
-Ken said he wants to date me.	Ken kata dia ingin bercinta dengan saya.
-Ken kata dia ingin bercakap dengan saya.	Ken said he wants to speak with me.
-Ken said he wants to speak with me.	Ken kata dia ingin bercakap dengan saya.
-Kamu patut memaafkan dia tetapi itu tidak bermaksud kamu patut berkahwin dengannya.	You should forgive him, but that does not mean you should marry him.
-You should forgive him, but that does not mean you should marry him.	Kamu patut memaafkan dia tetapi itu tidak bermaksud kamu patut berkahwin dengannya.
-Saya tahu saya boleh memaafkannya walaupun dia mengusik saya.	I know I can forgive her for making fun of me.
-I know I can forgive her for making fun of me.	Saya tahu saya boleh memaafkannya walaupun dia mengusik saya.
-Sila mengajar saya bahasa Inggeris yang biadap.	Please teach me rude English.
-Please teach me rude English.	Sila mengajar saya bahasa Inggeris yang biadap.
-Saya tidak ingat nama dia.	I don’t remember his name.
-I don’t remember his name.	Saya tidak ingat nama dia.
-Saya ingin keluar bersama kamu.	I want to hang out with you.
-I want to hang out with you.	Saya ingin keluar bersama kamu.
-Sila mengajar saya bahasa Inggeris yang sopan.	Please teach me polite English.
-Please teach me polite English.	Sila mengajar saya bahasa Inggeris yang sopan.
-Maafkan saya kerana mengelirukan kamu.	I’m sorry I confused you.
-I’m sorry I confused you.	Maafkan saya kerana mengelirukan kamu.
-Saya ingin menumbuk kamu.	I want to punch you.
-I want to punch you.	Saya ingin menumbuk kamu.
-Sila memberitahu dia bahawa saya boleh keluar bersama dengannya.	Please tell her that I can hang out.
-Please tell her that I can hang out.	Sila memberitahu dia bahawa saya boleh keluar bersama dengannya.
-Sila memberitahu Ken bahawa saya tidak boleh bersenam bersama dengannya kerana saya sibuk.	Please tell Ken that I can’t exercise with him because I am busy.
-Please tell Ken that I can’t exercise with him because I am busy.	Sila memberitahu Ken bahawa saya tidak boleh bersenam bersama dengannya kerana saya sibuk.
-Saya tidak mahu menjengkelkan kamu.	I don’t want to annoy you.
-I don’t want to annoy you.	Saya tidak mahu menjengkelkan kamu.
-Saya tidak mahu membosankan kamu.	I don’t want to bore you.
-I don’t want to bore you.	Saya tidak mahu membosankan kamu.
-Saya tidak mahu keluar bersama kamu.	I don’t want to hang out with you.
-I don’t want to hang out with you.	Saya tidak mahu keluar bersama kamu.
-Saya marah tetapi saya akan memaafkan kamu jika kamu memeluk saya.	I am angry, but I will forgive you if you hug me.
-I am angry, but I will forgive you if you hug me.	Saya marah tetapi saya akan memaafkan kamu jika kamu memeluk saya.
-Dia akan memaafkan kamu jika kamu mencium dia.	She will forgive you if you kiss her.
-She will forgive you if you kiss her.	Dia akan memaafkan kamu jika kamu mencium dia.
-Saya tidak mahu mengelirukan kamu.	I don’t want to confuse you.
-I don’t want to confuse you.	Saya tidak mahu mengelirukan kamu.
-tidak begitu	not very
-not very	tidak begitu
-lucu	funny
-funny	lucu
-baik hati	kind
-kind	baik hati
-bosan	Boring
-Boring	bosan
 menarik	interesting
 interesting	menarik
 biasanya	Usually
