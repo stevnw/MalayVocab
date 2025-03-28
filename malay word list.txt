@@ -945,270 +945,276 @@ semalam	yesterday
 <=========================================== Got Up To Here ==========================================================>
 
 minggu lepas	Last week
-Last week	minggu lepas
+
 harijadi	birthday
-birthday	harijadi
+
 hari ini	Today
-Today	hari ini
+
 dalam dua hari	In two days
-In two days	dalam dua hari
+
 dalam tiga hari	in three days
-in three days	dalam tiga hari
+
 esok	Tomorrow
-Tomorrow	esok
+
 minggu depan	next week
-next week	minggu depan
+
 minggu ini	This week
-This week	minggu ini
+
 Hari ini hari Ahad.	Today is Sunday.
-Today is Sunday.	Hari ini hari Ahad.
+
 Hari minggu apakah itu?	What day of the week was it?
-What day of the week was it?	Hari minggu apakah itu?
+
 Apa yang akan kamu buat Selasa minggu depan?	What are you doing next week Tuesday?
-What are you doing next week Tuesday?	Apa yang akan kamu buat Selasa minggu depan?
+
 Hari Ahad.	It was Sunday.
-It was Sunday.	Hari Ahad.
+
 Hari Isnin.	It was Monday.
-It was Monday.	Hari Isnin.
+
 Hari ini hari Isnin.	Today is Monday.
-Today is Monday.	Hari ini hari Isnin.
+
 Saya akan membersihkan rumah saya.	I’ll clean my house.
-I’ll clean my house.	Saya akan membersihkan rumah saya.
+
 Harijadi saya Rabu lepas.	My birthday was on Wednesday.
-My birthday was on Wednesday.	Harijadi saya Rabu lepas.
+
 Dalam hujung minggu ini.	It'll be this weekend.
-It'll be this weekend.	Dalam hujung minggu ini.
+
 Pada hari apakah itu?	On what day will it be?
-On what day will it be?	Pada hari apakah itu?
+
 Harijadi saya pada hari Rabu.	My birthday is on Wednesday.
-My birthday is on Wednesday.	Harijadi saya pada hari Rabu.
+
 Bilakah harijadi kamu?	When is your birthday?
-When is your birthday?	Bilakah harijadi kamu?
+
 Esok.	It will be tomorrow.
-It will be tomorrow.	Esok.
+
 Dalam dua hari.	It will be in two days.
-It will be in two days.	Dalam dua hari.
+
 Sabtu ini.	This week Saturday.
-This week Saturday.	Sabtu ini.
+
 Jumaat ini.	This week Friday.
-This week Friday.	Jumaat ini.
+
 Jumaat minggu lepas.	Last week Friday.
-Last week Friday.	Jumaat minggu lepas.
+
 Saya makan di restoran pada hari Khamis.	I went to eat at a restaurant on Thursday.
-I went to eat at a restaurant on Thursday.	Saya makan di restoran pada hari Khamis.
+
 Ke mana telah kamu pergi pada harijadi kamu?	Where did you go for your birthday?
-Where did you go for your birthday?	Ke mana telah kamu pergi pada harijadi kamu?
+
 Sabtu minggu lepas.	Last week Saturday.
-Last week Saturday.	Sabtu minggu lepas.
+
 Ke mana telah kamu pergi Ahad lepas?	What did you do on Sunday?
-What did you do on Sunday?	Ke mana telah kamu pergi Ahad lepas?
+
 lima minit lagi pukul tujuh	five minutes until seven
-five minutes until seven	lima minit lagi pukul tujuh
+
 petang	evening
-evening	petang
+
 a.m.	a.m.
-a.m.	a.m.
+
 jam	Hour
-Hour	jam
+
 pukul satu	one o’clock
-one o’clock	pukul satu
+
 tidur	to sleep
-to sleep	tidur
+
 p.m.	p.m.
-p.m.	p.m.
+
 tengah hari	noon/afternoon
-noon/afternoon	tengah hari
+
 temu janji	Appointment
-Appointment	temu janji
+
 minit	minute
-minute	minit
+
 daripada	from
-from	daripada
+
 bangun	to get up
-to get up	bangun
+
 Pukul berapa?	What time?
-What time?	Pukul berapa?
+
 senang	Available
-Available	senang
+
 lima setengah	five thirty
-five thirty	lima setengah
+
 saat	Second
-Second	saat
+
 kerja	To work
-To work	kerja
+
 tujuh setengah	Half past seven
-Half past seven	tujuh setengah
+
 pagi	morning
-morning	pagi
+
 masa	time
-time	masa
+
 bertemu	to meet
-to meet	bertemu
+
 malam	Night
-Night	malam
+
 pukul enam tiga minit	three minutes past six
-three minutes past six	pukul enam tiga minit
+
 Pukul berapa pada hari Rabu?	What time on Wednesday?
-What time on Wednesday?	Pukul berapa pada hari Rabu?
+
 Sekarang pukul berapa?	What time is it?
-What time is it?	Sekarang pukul berapa?
+
 Pukul empat empat puluh lima minit p.m.	It is four forty five p.m.
-It is four forty five p.m.	Pukul empat empat puluh lima minit p.m.
+
 Enam minit lagi pukul tujuh.	It is six minutes until seven o’clock.
-It is six minutes until seven o’clock.	Enam minit lagi pukul tujuh.
+
 Tengah hari pada hari Khamis.	It is at noon on Thursday.
-It is at noon on Thursday.	Tengah hari pada hari Khamis.
+
 Pukul tujuh enam minit.	It is six minutes past seven o’clock.
-It is six minutes past seven o’clock.	Pukul tujuh enam minit.
 Pukul empat empat puluh lima minit a.m.	It is four forty five a.m.
-It is four forty five a.m.	Pukul empat empat puluh lima minit a.m.
 Saya tidur pada pukul empat petang.	I sleep at four in the evening.
-I sleep at four in the evening.	Saya tidur pada pukul empat petang.
+
 Kita buka dari pukul lapan a.m. hingga lima p.m.	We are open from 8 a.m. until 5 p.m.
-We are open from 8 a.m. until 5 p.m.	Kita buka dari pukul lapan a.m. hingga lima p.m.
+
 Saya bekerja pada pukul empat p.m.	I work at four p.m.
-I work at four p.m.	Saya bekerja pada pukul empat p.m.
+
 Kita buka dari pukul lapan a.m. hingga tengah malam.	We are open from 8 a.m. until midnight.
-We are open from 8 a.m. until midnight.	Kita buka dari pukul lapan a.m. hingga tengah malam.
+
 Saya bangun pada pukul empat petang.	I get up at four in the evening.
-I get up at four in the evening.	Saya bangun pada pukul empat petang.
+
 Saya tidur pada pukul empat p.m.	I sleep at four p.m.
-I sleep at four p.m.	Saya tidur pada pukul empat p.m.
+
 Pukul berapakah akan kamu bekerja?	What time do you work?
-What time do you work?	Pukul berapakah akan kamu bekerja?
+
 Pukul berapakah akan kamu buka?	What time do you open?
-What time do you open?	Pukul berapakah akan kamu buka?
+
 Kita akan pergi pada pukul enam setengah.	We will go at six thirty.
-We will go at six thirty.	Kita akan pergi pada pukul enam setengah.
+
 Pukul berapakah patut kita bertemu pada hari Khamis?	What time should we meet on Thursday?
-What time should we meet on Thursday?	Pukul berapakah patut kita bertemu pada hari Khamis?
+
 Mari kita berjumpa pada hari Selasa pukul empat setengah.	Let’s meet on Tuesday at four thirty.
-Let’s meet on Tuesday at four thirty.	Mari kita berjumpa pada hari Selasa pukul empat setengah.
+
 Pukul berapakah akan kami pergi?	What time will we go?
-What time will we go?	Pukul berapakah akan kami pergi?
+
 Bilakah kamu ingin bertemu?	When do you want to meet?
-When do you want to meet?	Bilakah kamu ingin bertemu?
+
 Saya sibuk pada pagi hari Jumaat.	I am busy on Friday morning.
-I am busy on Friday morning.	Saya sibuk pada pagi hari Jumaat.
+
 Saya sibuk pada tengah hari hari Jumaat.	I am busy on Friday afternoon.
-I am busy on Friday afternoon.	Saya sibuk pada tengah hari hari Jumaat.
+
 Tujuh setengah hari ini senang.	Seven thirty today is available.
-Seven thirty today is available.	Tujuh setengah hari ini senang.
+
 Saya ingin membuat temujanji untuk hari esok pada pukul enam setengah.	I want to make an appointment for six thirty for tomorrow please.
-I want to make an appointment for six thirty for tomorrow please.	Saya ingin membuat temujanji untuk hari esok pada pukul enam setengah.
+
 Saya ingin membuat temujanji untuk hari esok pada pukul satu setengah.	I want to make an appointment for one thirty for tomorrow please.
-I want to make an appointment for one thirty for tomorrow please.	Saya ingin membuat temujanji untuk hari esok pada pukul satu setengah.
+
 Saya ingin membuat temujanji untuk hari esok pada pukul sebelas setengah.	I want to make an appointment for eleven thirty for tomorrow please.
-I want to make an appointment for eleven thirty for tomorrow please.	Saya ingin membuat temujanji untuk hari esok pada pukul sebelas setengah.
+
 Lima setengah hari ini tidak senang.	Five thirty today is unavailable.
-Five thirty today is unavailable.	Lima setengah hari ini tidak senang.
+
 Empat empat puluh lima hari ini senang.	Four forty five today is available.
-Four forty five today is available.	Empat empat puluh lima hari ini senang.
+
 Pukul tujuh hari ini tidak senang.	Seven o’clock today is unavailable.
-Seven o’clock today is unavailable.	Pukul tujuh hari ini tidak senang.
+
 abad	century
-century	abad
+
 tahun	year
-year	tahun
+
 secepat mungkin	as soon as possible
-as soon as possible	secepat mungkin
+
 dekad	Decade
-Decade	dekad
+
 awal	early
-early	awal
+
 hidup	to live
-to live	hidup
+
 lambat	Late
-Late	lambat
+
 dilahirkan	To be born
-To be born	dilahirkan
+
 tahun ini	This year
-This year	tahun ini
+
 kebelakangan ini	recently
-recently	kebelakangan ini
+
 tahun tujuh puluh	The year seventy
-The year seventy	tahun tujuh puluh
+
 masa depan	future
-future	masa depan
+
 tahun dua ribu sebelas	the year two thousand eleven
-the year two thousand eleven	tahun dua ribu sebelas
+
 masa lalu	past
-past	masa lalu
+
 tahun depan	next year
-next year	tahun depan
+
 berapa kerap	how often
-how often	berapa kerap
+
 dalam empat tahun	in four years
-in four years	dalam empat tahun
+
 bertahun-tahun dari sekarang	many years from now
-many years from now	bertahun-tahun dari sekarang
+
 tahun seribu sembilan ratus empat puluh lima	the year nineteen forty five
-the year nineteen forty five	tahun seribu sembilan ratus empat puluh lima
+
 bertahun-tahun yang lalu	many years ago
-many years ago	bertahun-tahun yang lalu
+
 masih	still
-still	masih
+
 kamu semua	you guys
-you guys	kamu semua
+
 dua tahun yang lalu	Two years ago
-Two years ago	dua tahun yang lalu
+
 Bilakah tahun lahir anda?	What year were you born in?
-What year were you born in?	Bilakah tahun lahir anda?
+
 Sudah berapa lama kamu semua tinggal di Paris?	How long have you guys lived in Paris?
-How long have you guys lived in Paris?	Sudah berapa lama kamu semua tinggal di Paris?
+
 Bilakah tahun lahir Ken?	What year was Ken born in?
-What year was Ken born in?	Bilakah tahun lahir Ken?
+
 Kami sudah tinggal di sini untuk lima tahun.	We have lived here for five years.
-We have lived here for five years.	Kami sudah tinggal di sini untuk lima tahun.
+
 Sudah berapa lama kamu semua bekerja di Paris?	How long have you guys worked in Paris?
-How long have you guys worked in Paris?	Sudah berapa lama kamu semua bekerja di Paris?
+
 Dia dilahirkan pada tahun dua ribu satu.	She was born in two thousand one.
-She was born in two thousand one.	Dia dilahirkan pada tahun dua ribu satu.
+
 Dia dilahirkan pada tahun seribu sembilan ratus sepuluh.	She was born in the year nineteen ten.
-She was born in the year nineteen ten.	Dia dilahirkan pada tahun seribu sembilan ratus sepuluh.
+
 Kami sudah tinggal di sini untuk tiga tahun.	We have lived here for three years.
-We have lived here for three years.	Kami sudah tinggal di sini untuk tiga tahun.
+
 Saya ke mari tahun lalu.	I came last year.
-I came last year.	Saya ke mari tahun lalu.
+
 Saya telah pergi dalam tahun dua ribu empat.	I went in two thousand four.
-I went in two thousand four.	Saya telah pergi dalam tahun dua ribu empat.
+
 Saya telah pergi dalam tahun seribu sembilan ratus enam puluh tiga.	I went in nineteen sixty three.
-I went in nineteen sixty three.	Saya telah pergi dalam tahun seribu sembilan ratus enam puluh tiga.
+
 Bilakah kamu semua datang ke Israel?	When did you guys come to Israel?
-When did you guys come to Israel?	Bilakah kamu semua datang ke Israel?
+
 Saya ke mari dua tahun yang lalu.	I came two years ago.
-I came two years ago.	Saya ke mari dua tahun yang lalu.
+
 Bilakah kamu semua datang ke Rusia?	When did you guys come to Russia?
-When did you guys come to Russia?	Bilakah kamu semua datang ke Rusia?
+
 Erica ke mari dua tahun yang lalu.	Erica came two years ago.
-Erica came two years ago.	Erica ke mari dua tahun yang lalu.
+
 Erica ke mari tahun lepas.	Erica came last year.
-Erica came last year.	Erica ke mari tahun lepas.
+
 Kami datang setiap minggu.	We come here every week.
-We come here every week.	Kami datang setiap minggu.
+
 Kami datang setiap hari.	We come here every day.
-We come here every day.	Kami datang setiap hari.
+
 Mungkin saya akan pergi pada tahun depan.	Perhaps I’ll go next year.
-Perhaps I’ll go next year.	Mungkin saya akan pergi pada tahun depan.
+
 Mari kita pergi sekarang.	Let’s go now.
-Let’s go now.	Mari kita pergi sekarang.
-Berapa kerapkah kamu semua datang ke restoran ini?	Berapa kerapkah kamu semua datang ke restoran ini?
-Berapa kerapkah kamu semua datang ke restoran ini?	Berapa kerapkah kamu semua datang ke restoran ini?
+
+Berapa kerapkah kamu semua datang ke restoran ini?	How often do you all come to this restaurant?
+
 Mungkin saya akan pergi pada tahun dua ribu lima belas.	Perhaps I’ll go in two thousand fifteen.
-Perhaps I’ll go in two thousand fifteen.	Mungkin saya akan pergi pada tahun dua ribu lima belas.
-Mari kita pergi secepat mungkin.	Mari kita pergi secepat mungkin.
-Mari kita pergi secepat mungkin.	Mari kita pergi secepat mungkin.
+
+Mari kita pergi secepat mungkin.	Let's go as soon as possible. 
+
 Saya hanya berusia dua puluh tujuh.	I am still only twenty seven.
-I am still only twenty seven.	Saya hanya berusia dua puluh tujuh.
+
 Saya telah meraikan harijadi saya yang ke tiga puluh baru-baru ini.	I recently had my thirtieth birthday.
-I recently had my thirtieth birthday.	Saya telah meraikan harijadi saya yang ke tiga puluh baru-baru ini.
+
 Saya hanya berusia dua puluh enam.	I am still only twenty six.
-I am still only twenty six.	Saya hanya berusia dua puluh enam.
+
 Saya dilahirkan tiga minggu lewat.	I was born three weeks late.
-I was born three weeks late.	Saya dilahirkan tiga minggu lewat.
+
 Saya dilahirkan tiga minggu lebih awal.	I was born three weeks early.
-I was born three weeks early.	Saya dilahirkan tiga minggu lebih awal.
+
 Saya hanya berusia dua puluh lima.	I am still only twenty five.
+
+
+
+
+
+
+
+
 I am still only twenty five.	Saya hanya berusia dua puluh lima.
 Saya dilahirkan dua minggu lebih awal.	I was born two weeks early.
 I was born two weeks early.	Saya dilahirkan dua minggu lebih awal.
