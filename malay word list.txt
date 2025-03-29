@@ -1725,825 +1725,420 @@ Sudah tentu ia percuma.	Of course it’s free.
 Kita sudah kehabisan keju.	We are all out of cheese.
 Sebaliknya, bolehkah saya memesan secawan kopi?	May I have some coffee instead?
 Adakah ia percuma?	Is it free?
+Sebaliknya, bolehkah saya memesan mustard?	May I have some mustard instead?
+Kita sudah kehabisan garam.	We are all out of salt.
+Kamu mahu buah-buahan bersama dengan itu?	Would you like some fruit with that?
+Kamu mahu sayur-sayuran bersama dengan itu?	Would you like some vegetables with that?
+Berapa kerapkah kamu memakan buah-buahan?	How often do you eat fruit?
+Saya makan sayur-sayuran setiap tiga hari.	I eat vegetables every three days.
+Ada bau manis dan masam.	It has a sweet and sour smell.
+Saya suka rasa sos tomato dan madu.	I like the taste of ketchup and honey.
+Itu bergantung kepada rasanya.	It depends on the taste.
+Ada perisa manis dan masam.	It has a sweet and sour taste.
+Berapa kerapkah kamu memakan sayur-sayuran?	How often do you eat vegetables?
+Itu bergantung kepada harganya.	It depends on the price.
+Sila buat satu burger dengan sos tomato di atas untuk dia.	Please make him a hamburger with only ketchup on it.
+Sila buat satu burger dengan topping gula untuk dia.	Please make him a hamburger with only sugar on it.
+Sila beri saya satu burger tanpa topping.	Please give me a hamburger with nothing on it.
+Sila beri saya satu burger dengan keju di atasnya.	Please give me a hamburger with cheese on it.
+Sila beri saya satu burger dengan lada di atasnya.	Please give me a hamburger with pepper on it.
+Sila beri saya satu burger dengan semua toppingnya.	Please give me a hamburger with everything on it.
+sekolah rendah	Elementary school
+meja	Desk
+bergraduat	Graduate
+universiti	university
+gagal	to fail
+sekolah	School
+pemadam	Eraser
+lulus	To pass
+tuisyen	Tuition
+pejabat	Office
+kelas	Class
+gaji	Salary
+kerja rumah	homework
+membuang	to throw
+membawa	To bring
+pelajar	Student
+pekerjaan	Work
+lakukan	to do
+bilik darjah	classroom
+kolej	College
+gred	Grade
+sekolah tinggi	high school
+rakan sekelas	Classmate
+hantar	To turn in
+Apakah profesion anda?	What profession are you in?
+Saya berada dalam gred lima.	I’m in the fifth grade.
+Itu meja saya dan kerja rumah Ken.	That is my desk and Ken’s homework.
+Apakah gred anda?	What grade are you in?
+Saya berada dalam tahun lima.	I’m in the fifth year.
+Itu pemadam saya dan kerja rumah Ken.	That is my eraser and Ken’s homework.
+Kamu mungkin akan mendapat kerja yang lebih baik selepas tamat sekolah.	After you graduate, you may get a better job.
+Tolong jangan membuang pemadam-pemadam di dalam bilik darjah.	Please don’t throw erasers in the classroom.
+Tuisyen itu murah tetapi kualiti kolej itu bagus.	The tuition is cheap, but the quality of the college is good.
+Saya benci membuat kerja rumah sejak sekolah rendah.	Ever since elementary school, I hated doing homework.
+Tuisyen adalah mahal tetapi kamu mungkin akan mendapat gaji yang lebih baik selepas tamat sekolah.	Tuition is expensive, but after you graduate you may get a better salary.
+Tuisyen itu mahal.	The tuition is expensive.
+Saya suka membuat kerja rumah sejak sekolah menengah.	Ever since high school, I liked doing homework.
+Tolong jangan membuang kerusi-kerusi di dalam bilik darjah.	Please don’t throw chairs in the classroom.
+Kami belajar di sekolah menengah yang sama.	We went to the same high school together.
+Kami belajar di kolej yang sama.	We went to the same college together.
+Bagaimanakah anda kenal Erica?	How do you know Erica?
+Gaji anda bergantung kepada pekerjaan anda.	Your salary depends on your job.
+Sila bawa kerja rumah anda apabila kamu datang ke sekolah.	When you come to school, please bring your homework.
+Sila bawa kerja rumah anda apabila kamu datang ke kerja.	When you come to work, please bring your homework.
+Kamu pelajar apa?	What kind of student are you?
+Saya pelajar yang jahat.	I’m a bad student.
+Bolehkah saya lulus dalam kelas anda jika saya menghantar semua kerja rumah saya yang lewat.	If I turn in all of my late homework, do you think I can still pass your class?
+Saya pelajar universiti.	I’m a university student.
+Lulus atau gagal dalam kelas saya bergantung kepada berapa banyak kerja yang kamu buat.	Passing or failing my class depends on how much work you do.
+Saya pelajar kolej.	I’m a college student.
+Saya pelajar yang baik.	I’m a good student.
+bahaya	Dangerous
+bersara	To retire
+ahli politik	Politician
+cikgu	Teacher
+perniagaan	Business
+doktor gigi	Dentist
+doktor	doctor
+peguam	Lawyer
+chef	Chef
+profesion	Profession
+paderi	Pastor
+juru bank	Banker
+imam	imam (Muslim leader)
+jurutera	Engineer
+polis	Police
+ahli bomba	Firefighter
+bos	Boss
+petani	Farmer
+kebenaran	Truth
+belajar	To study
+jururawat	Nurse
+penting	Important
+tentera	Military
+Apakah profesion anda?	What is your profession?
+Saya bekerja sebagai seorang juru bank.	I work as a banker.
+Saya bekerja sebagai seorang ahli bomba.	I work as a firefighter.
+Apakah pekerjaan anda?	What is your work?
+Saya seorang guru.	I’m a teacher.
+Saya seorang doktor.	I’m a doctor.
+Ahli tentera biasanya mempunyai profesion yang lebih bahaya berbanding dengan peguam.	Military members usually have more dangerous professions than lawyers.
+Kamu tidak patut menjadi paderi jika duit adalah penting kepada kamu.	If money is important to you, then you should not be a pastor.
+Kamu patut menjadi seorang peguam jika kebenaran adalah penting kepada kamu.	If truth is important to you, then you should be a lawyer.
+Petani-petani mendapat gaji yang bagus.	Farmers have good salaries.
+Gaji cikgu-cikgu adalah teruk tetapi pekerjaan mereka adalah penting.	Teachers have bad salaries, but their work is important.
+Polis biasanya mempunyai profesion yang lebih bahaya berbanding dengan peguam.	Police officers usually have more dangerous professions than lawyers.
+Bos saya seorang doktor yang terkenal.	My boss is a famous doctor.
+Seorang penipu ialah seseorang yang tidak bercakap benar.	A liar is a person who does not speak the truth.
+Apakah yang sedang anda belajar?	What are you studying?
+Saya sedang belajar untuk menjadi seorang jururawat.	I’m studying to be a nurse.
+Saya sedang belajar untuk menjadi seorang petani.	I’m studying to be a farmer.
+Bos saya seorang chef yang terkenal.	My boss is a famous chef.
+Saya mahu menjadi seorang jurutera selepas tamat sekolah.	I want to be an engineer after I graduate.
+Saya perlukan seorang doktor secepat mungkin.	I need a doctor as soon as possible.
+Saya mahu bersara selepas tamat sekolah.	I want to be retired after I graduate.
+Saya perlukan seorang doktor gigi secepat mungkin.	I need a dentist as soon as possible.
+Apakah jenis profesion yang anda mahu selepas tamat sekolah?	What kind of profession do you want after you graduate?
+Saya mahu menjadi seorang juru bank selepas tamat sekolah.	I want to be a banker after I graduate.
+Apakah jenis pekerjaan yang anda mahu selepas tamat sekolah?	What kind of work do you want after you graduate?
+undang-undang	Law
+geografi	Geography
+matematik	Mathematics
+sejarah	history
+sains	Science
+psikologi	Psychology
+belajar	to learn
+ubat	Medicine
+terburuk	Worst
+khusus	Major
+musik	Music
+terbaik	Best
+mata pelajaran	Subject
+sains komputer	Computer Science
+sekolah perniagaan	Trade school
+agama	religion
+bacaan	reading
+seni bina	Architecture
+perisian komputer	software
+kejuruteraan	engineering
+tulisan	writing
+politik	Politics
+kesusasteraan	literature
+pendidikan	education
+Apakah yang ingin kamu belajar di kolej?	What do you want to study in college?
+Apakah yang ingin kamu belajar di sekolah perdagangan?	What do you want to study in trade school?
+Apakah yang akan kamu belajar di sekolah perdagangan?	What will you study in trade school?
+Saya akan belajar sains komputer.	I will study computer science.
+Apakah yang akan kamu belajar di kolej?	What will you study in college?
+Saya telah belajar mengenai agama.	I studied religion.
+Saya belajar tentang pendidikan di universiti selama dua tahun.	I studied education for two years at a university.
+Mata pelajaran apakah yang kamu suka?	What subject do you like?
+Saya belajar kesusasteraan	I study literature.
+Saya mengajar psikologi.	I teach psychology.
+Saya mengajar kesusasteraan.	I teach literature.
+Apakah yang sedang kamu belajar?	What are you studying?
+Saya belajar psikologi.	I study psychology.
+Saya belajar tentang perubatan di universiti selama dua tahun.	I studied medicine for two years at a university.
+Apakah mata pelajaran khusus anda?	What did you major in?
+Saya juga berkhusus dalam matematik.	I also majored in math.
+Mata pelajaran terbaik saya ialah politik.	My best subject is politics.
+Apakah mata pelajaran terbaik anda?	What is your best subject?
+Apakah mata pelajaran terburuk anda?	What's your worst subject?
+Mata pelajaran terburuk saya ialah sains.	My worst subject is science.
+Saya juga berkhusus dalam kejuruteraan.	I also majored in engineering.
+Saya ingin belajar lebih banyak cara-cara membantu orang.	I want to learn how to help people more.
+Saya sedang belajar psikologi kerana saya ingin belajar lebih banyak cara-cara membantu orang.	I’m studying psychology because I want to learn how to help people more.
+Saya sedang mempelajari kursus perubatan.	I’m studying medicine.
+Saya ingin belajar mengenai perniagaan.	I want to study business.
+Saya ingin belajar mengenai politik dengan lebih mendalam.	I want to learn more about politics.
+Saya sedang mempelajari kursus perisian komputer.	I’m studying software.
+Saya ingin belajar mengenai perisian komputer dengan lebih mendalam.	I want to learn more about software.
+Saya ingin belajar mengenai pendidikan.	I want to study education.
+jujur	honest
+purata	average
+mahir	skilled
+tidak jujur	dishonest
+perkataan	word
+tidak mahir	Unskilled
+tidak berminat	uninterested
+benci	To hate
+dinaik pangkat	to get promoted
+berguna	Useful
+berpengalaman	Experienced
+kegemaran	Favorite
+tidak berguna	Useless
+tidak berpengalaman	inexperienced
+dipecat	To get fired
+berlengah-lengah	To procrastinate
+pengalaman	Experience
+resume	resume
+paling	Most
+paling kurang	Least
+rajin	hard working
+risau	To worry
+malas	Lazy
+Saya paling berminat dalam agama.	I’m most interested in religion.
+Saya paling benci matematik.	I hate math the most.
+Saya tidak mahir dalam musik.	I’m unskilled in music.
+Saya mahir dalam musik.	I’m skilled in music.
+Saya paling tidak berminat dalam agama.	I’m most uninterested in religion.
+Saya mahir dalam apa-apa.	I’m unskilled in nothing.
+Saya tidak mahir dalam apa-apa.	I’m skilled in nothing.
+Mata pelajaran apakah yang kamu paling berpengalaman?	What subject are you most experienced in?
+Mata pelajaran apakah yang paling kamu minati?	What subject are you most interested in?
+Saya paling suka matematik.	I love math the most.
+Erica juga adalah bintang pop yang saya paling minati.	Erica is my most favorite pop star also.
+Kamu tidak patut tidur di tempat kerja kerana kamu akan dipecat.	You shouldn’t sleep at work because you will get fired.
+Dia seorang ahli politik yang jujur.	He’s an honest politician.
+Dia seorang ahli politik yang tidak jujur.	He’s a dishonest politician.
+Kamu tidak patut berlengah-lengah.	You shouldn’t procrastinate.
+Erica juga adalah bintang pop yang paling kurang diminati saya.	Erica is my least favorite pop star also.
+Apakah maksud rajin?	What does hard working mean?
+"Apakah maksud perkataan ""resume""?"	"What does the word ""resume"" mean?"
+Tidak berguna ialah kata lawan berguna.	Useless is the opposite of useful.
+Resume adalah sekeping kertas yang mengandungi sejarah dan pengalaman kerja anda.	A resume is a paper on your work history and experience.
+Rajin bermaksud tidak malas.	Hard working means not lazy.
+Apakah kata lawan berguna?	What is the opposite of useful?
+Kamu akan dinaik pangkat jika kamu rajin.	If you are hard working, you will get promoted.
+Saya tidak risau.	I don’t worry.
+Kamu patut bekerja dan bukannya risau.	Instead of worrying, you should work.
+Kamu akan diupah jika kamu rajin.	If you are hard working, you will get hired.
+Kamu patut berdoa dan bukannya risau.	Instead of worrying, you should pray.
+Saya tidak berlengah-lengah.	I don’t procrastinate.
+temuduga	Interview
+sehari	Per day
+cuti	Vacation
+sakit	Sick
+melawat	To visit
+selalu	Always
+kerap	Often
+kadang kala	Sometimes
+seminggu	Per week
+memberus gigi	Brush teeth
+e-mel	Email
+tiket	Ticket
+menge-mel	to email
+sekali	Once
+mencuci baju	To do laundry
+merancang	To plan
+dua kali	Twice
+jarang	Rarely
+tidak pernah	Never
+kali	Times
+Berapa kalikah anda memeriksa e-mel sehari?	How many times per day do you check your email?
+Saya memberus gigi saya sekali seminggu.	I brush my teeth once a week.
+Saya memeriksa e-mel saya tiga kali seminggu.	I check my email three times a week.
+Saya memberus gigi saya tiga kali seminggu.	I brush my teeth three times per week.
+Berapa kalikah anda memberus gigi sehari?	How many times per day do you brush your teeth?
+Berapa kalikah anda makan sehari?	How many times per day do you eat?
+Saya memeriksa e-mel saya sekali seminggu.	I check my email once per week.
+Berapakah harganya untuk seorang?	How much is it per person?
+Berapakah harganya untuk sebulan?	How much is it per month?
+Saya sering mencuci baju saya sendiri.	I often do my laundry.
+Tujuh dolar seorang.	It’s seven dollars per person.
+Saya selalu mencuci baju saya sendiri.	I always do my laundry.
+Saya tidak pernah mencuci baju saya sendiri.	I never do my laundry.
+Berapakah harga satu tiket?	How much is it per ticket?
+Tujuh dolar satu tiket.	It’s seven dollars per ticket.
+Biasanya, saya mencuci baju saya sendiri.	I usually do my laundry.
+Saya jarang mencuci baju saya sendiri.	I rarely do my laundry.
+Sila menghubungi saya untuk merancang temuduga kita.	Please call me to plan our interview.
+Berapa kerapkah anda berjumpa dengan doktor?	How often do you visit a doctor?
+Saya jarang berjumpa dengan doktor.	I rarely visit a doctor when I’m sick.
+Saya perlu pergi ke temuduga selepas memberus gigi saya.	After I brush my teeth, I have to go to an interview.
+Sila e-mel saya untuk merancang temuduga kita.	Please email me to plan our interview.
+Kadang kala saya berjumpa dengan doktor apabila saya sakit.	I sometimes visit a doctor when I’m sick.
+Saya tidak pernah berjumpa dengan doktor apabila saya sakit.	I never visit a doctor when I’m sick.
+Berapa kerapkah kamu melawat nenekmu yang berada di hospital?	How often do you visit your grandmother in the hospital?
+Berapa kerapkah kamu melawat makcikmu yang berada di hospital?	How often do you visit your aunt in the hospital?
+Saya pergi dua kali seminggu.	I go twice a week.
+Saya menelefon emak saya yang berada di India empat kali setahun.	I call my mother in India four times a year.
+Biasanya, saya mengguna span untuk mencuci kereta saya.	I usually use a sponge to clean my car.
+Saya melawat pakcik saya yang berada di hospital tiga kali sebulan.	I visit my uncle in the hospital three times a month.
+Saya jarang mengguna span untuk mencuci kereta saya.	I rarely use a sponge to clean my car.
+Pada pendapat saya, Ken sangat cerdik tetapi dia malas.	I think Ken is very smart, but he’s lazy.
+Pada pendapat kamu, adakah Erica itu baik hati?	Do you think that Erica is kind?
+Saya hendak makan makanan Itali dan pergi bersenam selepas itu.	I want to eat Italian food, and then go exercising.
+Pada pendapat kamu, adakah Erica itu jahat?	Do you think that Erica is mean?
+Apa yang ingin kamu buat untuk harjadi kamu esok?	What do you want to do for your birthday tomorrow?
+Pada pendapat saya, Ken sangat baik hati tetapi dia malas.	I think Ken is very kind, but he’s lazy.
+Saya hendak makan makanan Cina dan pergi membeli-belah selepas itu.	I want to eat Chinese food, and then go shopping.
+Apa yang ingin kamu buat untuk harjadi kamu hari ini?	What do you want to do for your birthday today?
+Tetapi saya tidak dapat membayar kerana saya lupa membawa dompet saya.	But I can’t pay because I forgot my wallet.
+Mari kita makan di restoran yang bagus kerana hari ini ulang tahun perkahwinan datuk dan nenek kamu.	Let’s eat at a nice restaurant because it’s your grandparents anniversary.
+Apa yang hendak kamu makan untuk makan malam pada hari Rabu?	What do you want to eat for dinner on Wednesday?
+Hari ini ulang tahun perkahwinan ibubapa saya.	It’s my parents anniversary.
+Tetapi kita tidak dapat membayar kerana ia terlalu mahal.	But we can’t pay because it will be too expensive.
+Apa yang hendak kamu makan untuk makan tengahari pada hari Selasa?	What do you want to eat for lunch on Tuesday?
+Jangan risau kerana saya akan membayar setengah bil itu.	Don’t worry, because I’ll pay for half of the bill.
+Saya akan membayar untuk kesemuanya.	I’ll pay for everything.
+Sila ke mari.	Please come here.
+Apakah yang kamu ingin saya buat?	What do you want me to do?
+Sila hantar kerja rumah anda.	Please turn in your homework.
+Apakah yang kamu ingin saya bawa?	What do you want me to bring?
+Saya tidak memerlukan apa-apa sekarang, terima-kasih.	I don’t need anything now, thank you.
+Sila bawa kerja rumah anda.	Please bring your homework.
+Boleh saya bantu?	Can I help you?
+Sila pergi.	Please go away.
+Saya tidak memerlukan bantuan sekarang, terima-kasih.	I don’t need help now, thank you.
+gigi	Teeth
+kepala	Head
+botak	bald
+telinga	Ear
+mulut	Mouth
+mata	Eye
+paru-paru	Lungs
+hidung	Nose
+siku	Elbow
+menjijikkan	Disgusting
+luka	Wound
+lutut	Knee
+terhiris	Cut
+pinggul	Hip
+rahang	jaw
+alat kelamin	Genitals
+muka	Face
+lengan	Arm
+kaki	Foot
+lidah	Tongue
+kuku	Fingernail
+payudara	Breast
+dada	Chest
+jari kaki	Toe
+Hidung saya patah.	I broke my nose.
+Sila tunjukkan jari kaki anda kepada saya.	Please show me your feet.
+Sila tutup mata anda.	Please close your eyes.
+Sila tunjukkan luka anda kepada saya.	Please show me your wound.
+Apakah masalahnya dengan siku anda?	What is wrong with your elbow?
+Apakah masalahnya dengan jari kaki anda?	What is wrong with your toe?
+Rahang saya patah.	I broke my jaw.
+Sila buka mulut anda.	Please open your mouth.
+Sila tutup mulut anda.	Please close your mouth.
+Sila buka mata anda.	Please open your eyes.
+Tangan saya kotor.	My hands are dirty.
+Dada saya bermasalah.	I have a problem with my chest.
+Lidah saya terluka.	I have a cut on my tongue.
+Gigi kamu putih.	Your teeth are white.
+Tangan saya bersih.	My hands are clean.
+Telinga kamu merah.	Your ears are red.
+Gigi saya bermasalah.	I have a problem with my tooth.
+Luka di atas lutut kamu menjijikkan.	The wound on your knee is disgusting.
+Kamu ada kesan luka di atas kepala kamu.	You have a cut on your head.
+Apa masalahnya dengan kamu?	What is wrong with you?
+Lengan dia terluka.	He cut his arm.
+Apa masalahnya dengan Ken?	What is wrong with Ken?
+Lengan dia patah.	He broke his arm.
+Tahukah kamu?	Did you know?
+darah	Blood
+kuping	Scab
+bahu	Shoulder
+cantik	Beautiful
+otot	Muscle
+
+
+
+rambut	Hair
+leher	Neck
+melukai	To hurt
+belakang	Back
+tidak hadir	To miss
+kotoran	Dirt
+pergelangan tangan	Wrists
+kaki	Leg (Also foot)
+tangan	Hand
+jari	Finger
+buntut	Butt
+urutan	Massage
+gatal	Itchy
+kulit	Skin
+kesan parut	Scar
+mengurut	To massage
+peha	Thigh
+tulang	Bone
+menggaru	To itch
+Rambut kamu cantik.	Your hair is beautiful.
+Kamu mempunyai tangan yang baik.	You have good hands.
+Kamu mempunyai tangan yang besar.	You have big hands.
+Kamu ada darah di belakangmu.	You have blood on your back.
+Leher kamu cantik.	Your neck is beautiful.
+Kamu mempunyai otot yang baik.	You have good muscles.
+Kamu mempunyai otot yang besar.	You have big muscles.
+Kamu ada kotoran di lehermu.	You have dirt on your neck.
+Otot buntut saya sakit.	My butt muscles hurt.
+Otot bahu saya sakit.	My shoulder muscles hurt.
+Leher saya gatal.	My neck is itchy.
+Kuping saya gatal.	My scab is itchy.
+Saya telah melakukan senaman kaki hari ini.	I did leg exercises today.
+Saya telah melakukan senaman untuk belakang saya hari ini.	I did back exercises today.
+Erica tidak hadir untuk kerja kerana lengan dia patah.	Erica missed work because she broke her arm.
+Mengapa Erica tidak hadir ke kelas semalam?	Why did Erica miss class yesterday?
+Jari saya terluka dipotong pisau.	I hurt my finger with a knife.
+Saya terluka jariku dengan sebilah pisau.	I cut my finger with a knife.
+Bagaimanakah jari kamu terluka?	How did you hurt your finger?
+Erica tidak hadir untuk kerja kerana jari dia patah.	Erica missed work because she broke her finger.
+Kuping di atas peha kamu itu menjijikkan.	The scab on your thigh is disgusting.
+Kamu mahu urutan lengan yang percuma?	Do you want a free arm massage?
+Kamu mahu urutan leher yang percuma?	Do you want a free shoulder massage?
+Bolehkah kamu menggaru leher saya?	Could you please itch my neck?
+Kuping di atas bahu kamu itu menjijikkan.	The scab on your shoulder is disgusting.
+Bolehkah kamu mengurut leher saya?	Could you please massage my neck?
+tekanan	Stress
+sakit	Ache
+jatuh	To fall
+demam	Fever
+bau	To smell
+sakit kerongkong	Sore throat
+Jika kamu hendak merokok lain kali, merokok di luar kerana ia berbau busuk.	If you are going to smoke, next time do it outside because it stinks.
+Kerongkong saya sakit.	I had a sore throat.
+Saya loya.	I had nausea.
+Saya selsema.	I had a cold.
+Mengapakah kamu tidak datang ke parti saya semalam?	Why did you miss my birthday party yesterday?
+Jika kulit kamu terselar, kamu mungkin ternyahhidrat.	If you have a sunburn you might be dehydrated.
+Jika kamu pening, kamu mungkin ternyahhidrat.	If you have dizziness you might be dehydrated.
 
 <=========================================== Got Up To Here ==========================================================>
 
-Sebaliknya, bolehkah saya memesan mustard?	May I have some mustard instead?
-May I have some mustard instead?	Sebaliknya, bolehkah saya memesan mustard?
-Kita sudah kehabisan garam.	We are all out of salt.
-We are all out of salt.	Kita sudah kehabisan garam.
-Kamu mahu buah-buahan bersama dengan itu?	Would you like some fruit with that?
-Would you like some fruit with that?	Kamu mahu buah-buahan bersama dengan itu?
-Kamu mahu sayur-sayuran bersama dengan itu?	Would you like some vegetables with that?
-Would you like some vegetables with that?	Kamu mahu sayur-sayuran bersama dengan itu?
-Berapa kerapkah kamu memakan buah-buahan?	How often do you eat fruit?
-How often do you eat fruit?	Berapa kerapkah kamu memakan buah-buahan?
-Saya makan sayur-sayuran setiap tiga hari.	I eat vegetables every three days.
-I eat vegetables every three days.	Saya makan sayur-sayuran setiap tiga hari.
-Ada bau manis dan masam.	It has a sweet and sour smell.
-It has a sweet and sour smell.	Ada bau manis dan masam.
-Saya suka rasa sos tomato dan madu.	I like the taste of ketchup and honey.
-I like the taste of ketchup and honey.	Saya suka rasa sos tomato dan madu.
-Itu bergantung kepada rasanya.	It depends on the taste.
-It depends on the taste.	Itu bergantung kepada rasanya.
-Ada perisa manis dan masam.	It has a sweet and sour taste.
-It has a sweet and sour taste.	Ada perisa manis dan masam.
-Berapa kerapkah kamu memakan sayur-sayuran?	How often do you eat vegetables?
-How often do you eat vegetables?	Berapa kerapkah kamu memakan sayur-sayuran?
-Itu bergantung kepada harganya.	It depends on the price.
-It depends on the price.	Itu bergantung kepada harganya.
-Sila buat satu burger dengan sos tomato di atas untuk dia.	Please make him a hamburger with only ketchup on it.
-Please make him a hamburger with only ketchup on it.	Sila buat satu burger dengan sos tomato di atas untuk dia.
-Sila buat satu burger dengan topping gula untuk dia.	Please make him a hamburger with only sugar on it.
-Please make him a hamburger with only sugar on it.	Sila buat satu burger dengan topping gula untuk dia.
-Sila beri saya satu burger tanpa topping.	Please give me a hamburger with nothing on it.
-Please give me a hamburger with nothing on it.	Sila beri saya satu burger tanpa topping.
-Sila beri saya satu burger dengan keju di atasnya.	Please give me a hamburger with cheese on it.
-Please give me a hamburger with cheese on it.	Sila beri saya satu burger dengan keju di atasnya.
-Sila beri saya satu burger dengan lada di atasnya.	Please give me a hamburger with pepper on it.
-Please give me a hamburger with pepper on it.	Sila beri saya satu burger dengan lada di atasnya.
-Sila beri saya satu burger dengan semua toppingnya.	Please give me a hamburger with everything on it.
-Please give me a hamburger with everything on it.	Sila beri saya satu burger dengan semua toppingnya.
-sekolah rendah	Elementary school
-Elementary school	sekolah rendah
-meja	Desk
-Desk	meja
-bergraduat	Graduate
-Graduate	bergraduat
-universiti	university
-university	universiti
-gagal	to fail
-to fail	gagal
-sekolah	School
-School	sekolah
-pemadam	Eraser
-Eraser	pemadam
-lulus	To pass
-To pass	lulus
-tuisyen	Tuition
-Tuition	tuisyen
-pejabat	Office
-Office	pejabat
-kelas	Class
-Class	kelas
-gaji	Salary
-Salary	gaji
-kerja rumah	homework
-homework	kerja rumah
-membuang	to throw
-to throw	membuang
-membawa	To bring
-To bring	membawa
-pelajar	Student
-Student	pelajar
-pekerjaan	Work
-Work	pekerjaan
-lakukan	to do
-to do	lakukan
-bilik darjah	classroom
-classroom	bilik darjah
-kolej	College
-College	kolej
-gred	Grade
-Grade	gred
-sekolah tinggi	high school
-high school	sekolah tinggi
-rakan sekelas	Classmate
-Classmate	rakan sekelas
-hantar	To turn in
-To turn in	hantar
-Apakah profesion anda?	What profession are you in?
-What profession are you in?	Apakah profesion anda?
-Saya berada dalam gred lima.	I’m in the fifth grade.
-I’m in the fifth grade.	Saya berada dalam gred lima.
-Itu meja saya dan kerja rumah Ken.	That is my desk and Ken’s homework.
-That is my desk and Ken’s homework.	Itu meja saya dan kerja rumah Ken.
-Apakah gred anda?	What grade are you in?
-What grade are you in?	Apakah gred anda?
-Saya berada dalam tahun lima.	I’m in the fifth year.
-I’m in the fifth year.	Saya berada dalam tahun lima.
-Itu pemadam saya dan kerja rumah Ken.	That is my eraser and Ken’s homework.
-That is my eraser and Ken’s homework.	Itu pemadam saya dan kerja rumah Ken.
-Kamu mungkin akan mendapat kerja yang lebih baik selepas tamat sekolah.	After you graduate, you may get a better job.
-After you graduate, you may get a better job.	Kamu mungkin akan mendapat kerja yang lebih baik selepas tamat sekolah.
-Tolong jangan membuang pemadam-pemadam di dalam bilik darjah.	Please don’t throw erasers in the classroom.
-Please don’t throw erasers in the classroom.	Tolong jangan membuang pemadam-pemadam di dalam bilik darjah.
-Tuisyen itu murah tetapi kualiti kolej itu bagus.	The tuition is cheap, but the quality of the college is good.
-The tuition is cheap, but the quality of the college is good.	Tuisyen itu murah tetapi kualiti kolej itu bagus.
-Saya benci membuat kerja rumah sejak sekolah rendah.	Ever since elementary school, I hated doing homework.
-Ever since elementary school, I hated doing homework.	Saya benci membuat kerja rumah sejak sekolah rendah.
-Tuisyen adalah mahal tetapi kamu mungkin akan mendapat gaji yang lebih baik selepas tamat sekolah.	Tuition is expensive, but after you graduate you may get a better salary.
-Tuition is expensive, but after you graduate you may get a better salary.	Tuisyen adalah mahal tetapi kamu mungkin akan mendapat gaji yang lebih baik selepas tamat sekolah.
-Tuisyen itu mahal.	The tuition is expensive.
-The tuition is expensive.	Tuisyen itu mahal.
-Saya suka membuat kerja rumah sejak sekolah menengah.	Ever since high school, I liked doing homework.
-Ever since high school, I liked doing homework.	Saya suka membuat kerja rumah sejak sekolah menengah.
-Tolong jangan membuang kerusi-kerusi di dalam bilik darjah.	Please don’t throw chairs in the classroom.
-Please don’t throw chairs in the classroom.	Tolong jangan membuang kerusi-kerusi di dalam bilik darjah.
-Kami belajar di sekolah menengah yang sama.	We went to the same high school together.
-We went to the same high school together.	Kami belajar di sekolah menengah yang sama.
-Kami belajar di kolej yang sama.	We went to the same college together.
-We went to the same college together.	Kami belajar di kolej yang sama.
-Bagaimanakah anda kenal Erica?	How do you know Erica?
-How do you know Erica?	Bagaimanakah anda kenal Erica?
-Gaji anda bergantung kepada pekerjaan anda.	Your salary depends on your job.
-Your salary depends on your job.	Gaji anda bergantung kepada pekerjaan anda.
-Sila bawa kerja rumah anda apabila kamu datang ke sekolah.	When you come to school, please bring your homework.
-When you come to school, please bring your homework.	Sila bawa kerja rumah anda apabila kamu datang ke sekolah.
-Sila bawa kerja rumah anda apabila kamu datang ke kerja.	When you come to work, please bring your homework.
-When you come to work, please bring your homework.	Sila bawa kerja rumah anda apabila kamu datang ke kerja.
-Kamu pelajar apa?	What kind of student are you?
-What kind of student are you?	Kamu pelajar apa?
-Saya pelajar yang jahat.	I’m a bad student.
-I’m a bad student.	Saya pelajar yang jahat.
-Bolehkah saya lulus dalam kelas anda jika saya menghantar semua kerja rumah saya yang lewat.	If I turn in all of my late homework, do you think I can still pass your class?
-If I turn in all of my late homework, do you think I can still pass your class?	Bolehkah saya lulus dalam kelas anda jika saya menghantar semua kerja rumah saya yang lewat.
-Saya pelajar universiti.	I’m a university student.
-I’m a university student.	Saya pelajar universiti.
-Lulus atau gagal dalam kelas saya bergantung kepada berapa banyak kerja yang kamu buat.	Passing or failing my class depends on how much work you do.
-Passing or failing my class depends on how much work you do.	Lulus atau gagal dalam kelas saya bergantung kepada berapa banyak kerja yang kamu buat.
-Saya pelajar kolej.	I’m a college student.
-I’m a college student.	Saya pelajar kolej.
-Saya pelajar yang baik.	I’m a good student.
-I’m a good student.	Saya pelajar yang baik.
-bahaya	Dangerous
-Dangerous	bahaya
-bersara	To retire
-To retire	bersara
-ahli politik	Politician
-Politician	ahli politik
-cikgu	Teacher
-Teacher	cikgu
-perniagaan	Business
-Business	perniagaan
-doktor gigi	Dentist
-Dentist	doktor gigi
-doktor	doctor
-doctor	doktor
-peguam	Lawyer
-Lawyer	peguam
-chef	Chef
-Chef	chef
-profesion	Profession
-Profession	profesion
-paderi	Pastor
-Pastor	paderi
-juru bank	Banker
-Banker	juru bank
-imam	imam
-imam	imam
-jurutera	Engineer
-Engineer	jurutera
-polis	Police
-Police	polis
-ahli bomba	Firefighter
-Firefighter	ahli bomba
-bos	Boss
-Boss	bos
-petani	Farmer
-Farmer	petani
-kebenaran	Truth
-Truth	kebenaran
-belajar	To study
-To study	belajar
-jururawat	Nurse
-Nurse	jururawat
-penting	Important
-Important	penting
-tentera	Military
-Military	tentera
-Apakah profesion anda?	What is your profession?
-What is your profession?	Apakah profesion anda?
-Saya bekerja sebagai seorang juru bank.	I work as a banker.
-I work as a banker.	Saya bekerja sebagai seorang juru bank.
-Saya bekerja sebagai seorang ahli bomba.	I work as a firefighter.
-I work as a firefighter.	Saya bekerja sebagai seorang ahli bomba.
-Apakah pekerjaan anda?	What is your work?
-What is your work?	Apakah pekerjaan anda?
-Saya seorang guru.	I’m a teacher.
-I’m a teacher.	Saya seorang guru.
-Saya seorang doktor.	I’m a doctor.
-I’m a doctor.	Saya seorang doktor.
-Ahli tentera biasanya mempunyai profesion yang lebih bahaya berbanding dengan peguam.	Military members usually have more dangerous professions than lawyers.
-Military members usually have more dangerous professions than lawyers.	Ahli tentera biasanya mempunyai profesion yang lebih bahaya berbanding dengan peguam.
-Kamu tidak patut menjadi paderi jika duit adalah penting kepada kamu.	If money is important to you, then you should not be a pastor.
-If money is important to you, then you should not be a pastor.	Kamu tidak patut menjadi paderi jika duit adalah penting kepada kamu.
-Kamu patut menjadi seorang peguam jika kebenaran adalah penting kepada kamu.	If truth is important to you, then you should be a lawyer.
-If truth is important to you, then you should be a lawyer.	Kamu patut menjadi seorang peguam jika kebenaran adalah penting kepada kamu.
-Petani-petani mendapat gaji yang bagus.	Farmers have good salaries.
-Farmers have good salaries.	Petani-petani mendapat gaji yang bagus.
-Gaji cikgu-cikgu adalah teruk tetapi pekerjaan mereka adalah penting.	Teachers have bad salaries, but their work is important.
-Teachers have bad salaries, but their work is important.	Gaji cikgu-cikgu adalah teruk tetapi pekerjaan mereka adalah penting.
-Polis biasanya mempunyai profesion yang lebih bahaya berbanding dengan peguam.	Police officers usually have more dangerous professions than lawyers.
-Police officers usually have more dangerous professions than lawyers.	Polis biasanya mempunyai profesion yang lebih bahaya berbanding dengan peguam.
-Bos saya seorang doktor yang terkenal.	My boss is a famous doctor.
-My boss is a famous doctor.	Bos saya seorang doktor yang terkenal.
-Seorang penipu ialah seseorang yang tidak bercakap benar.	A liar is a person who does not speak the truth.
-A liar is a person who does not speak the truth.	Seorang penipu ialah seseorang yang tidak bercakap benar.
-Apakah yang sedang anda belajar?	What are you studying?
-What are you studying?	Apakah yang sedang anda belajar?
-Saya sedang belajar untuk menjadi seorang jururawat.	I’m studying to be a nurse.
-I’m studying to be a nurse.	Saya sedang belajar untuk menjadi seorang jururawat.
-Saya sedang belajar untuk menjadi seorang petani.	I’m studying to be a farmer.
-I’m studying to be a farmer.	Saya sedang belajar untuk menjadi seorang petani.
-Bos saya seorang chef yang terkenal.	My boss is a famous chef.
-My boss is a famous chef.	Bos saya seorang chef yang terkenal.
-Saya mahu menjadi seorang jurutera selepas tamat sekolah.	I want to be an engineer after I graduate.
-I want to be an engineer after I graduate.	Saya mahu menjadi seorang jurutera selepas tamat sekolah.
-Saya perlukan seorang doktor secepat mungkin.	I need a doctor as soon as possible.
-I need a doctor as soon as possible.	Saya perlukan seorang doktor secepat mungkin.
-Saya mahu bersara selepas tamat sekolah.	I want to be retired after I graduate.
-I want to be retired after I graduate.	Saya mahu bersara selepas tamat sekolah.
-Saya perlukan seorang doktor gigi secepat mungkin.	I need a dentist as soon as possible.
-I need a dentist as soon as possible.	Saya perlukan seorang doktor gigi secepat mungkin.
-Apakah jenis profesion yang anda mahu selepas tamat sekolah?	What kind of profession do you want after you graduate?
-What kind of profession do you want after you graduate?	Apakah jenis profesion yang anda mahu selepas tamat sekolah?
-Saya mahu menjadi seorang juru bank selepas tamat sekolah.	I want to be a banker after I graduate.
-I want to be a banker after I graduate.	Saya mahu menjadi seorang juru bank selepas tamat sekolah.
-Apakah jenis pekerjaan yang anda mahu selepas tamat sekolah?	What kind of work do you want after you graduate?
-What kind of work do you want after you graduate?	Apakah jenis pekerjaan yang anda mahu selepas tamat sekolah?
-undang-undang	Law
-Law	undang-undang
-geografi	Geography
-Geography	geografi
-matematik	Mathematics
-Mathematics	matematik
-sejarah	history
-history	sejarah
-sains	Science
-Science	sains
-psikologi	Psychology
-Psychology	psikologi
-belajar	to learn
-to learn	belajar
-ubat	Medicine
-Medicine	ubat
-terburuk	Worst
-Worst	terburuk
-khusus	Major
-Major	khusus
-musik	Music
-Music	musik
-terbaik	Best
-Best	terbaik
-mata pelajaran	Subject
-Subject	mata pelajaran
-sains komputer	Computer Science
-Computer Science	sains komputer
-sekolah perniagaan	Trade school
-Trade school	sekolah perniagaan
-agama	religion
-religion	agama
-bacaan	reading
-reading	bacaan
-seni bina	Architecture
-Architecture	seni bina
-perisian komputer	software
-software	perisian komputer
-kejuruteraan	engineering
-engineering	kejuruteraan
-tulisan	writing
-writing	tulisan
-politik	Politics
-Politics	politik
-kesusasteraan	literature
-literature	kesusasteraan
-pendidikan	education
-education	pendidikan
-Apakah yang ingin kamu belajar di kolej?	What do you want to study in college?
-What do you want to study in college?	Apakah yang ingin kamu belajar di kolej?
-Apakah yang ingin kamu belajar di sekolah perdagangan?	What do you want to study in trade school?
-What do you want to study in trade school?	Apakah yang ingin kamu belajar di sekolah perdagangan?
-Apakah yang akan kamu belajar di sekolah perdagangan?	What will you study in trade school?
-What will you study in trade school?	Apakah yang akan kamu belajar di sekolah perdagangan?
-Saya akan belajar sains komputer.	I will study computer science.
-I will study computer science.	Saya akan belajar sains komputer.
-Apakah yang akan kamu belajar di kolej?	What will you study in college?
-What will you study in college?	Apakah yang akan kamu belajar di kolej?
-Saya telah belajar mengenai agama.	I studied religion.
-I studied religion.	Saya telah belajar mengenai agama.
-Saya belajar tentang pendidikan di universiti selama dua tahun.	I studied education for two years at a university.
-I studied education for two years at a university.	Saya belajar tentang pendidikan di universiti selama dua tahun.
-Mata pelajaran apakah yang kamu suka?	What subject do you like?
-What subject do you like?	Mata pelajaran apakah yang kamu suka?
-Saya belajar kesusasteraan	I study literature.
-I study literature.	Saya belajar kesusasteraan
-Saya mengajar psikologi.	I teach psychology.
-I teach psychology.	Saya mengajar psikologi.
-Saya mengajar kesusasteraan.	I teach literature.
-I teach literature.	Saya mengajar kesusasteraan.
-Apakah yang sedang kamu belajar?	What are you studying?
-What are you studying?	Apakah yang sedang kamu belajar?
-Saya belajar psikologi.	I study psychology.
-I study psychology.	Saya belajar psikologi.
-Saya belajar tentang perubatan di universiti selama dua tahun.	I studied medicine for two years at a university.
-I studied medicine for two years at a university.	Saya belajar tentang perubatan di universiti selama dua tahun.
-Apakah mata pelajaran khusus anda?	What did you major in?
-What did you major in?	Apakah mata pelajaran khusus anda?
-Saya juga berkhusus dalam matematik.	I also majored in math.
-I also majored in math.	Saya juga berkhusus dalam matematik.
-Mata pelajaran terbaik saya ialah politik.	My best subject is politics.
-My best subject is politics.	Mata pelajaran terbaik saya ialah politik.
-Apakah mata pelajaran terbaik anda?	What is your best subject?
-What is your best subject?	Apakah mata pelajaran terbaik anda?
-Apakah mata pelajaran terburuk anda?	What's your worst subject?
-What's your worst subject?	Apakah mata pelajaran terburuk anda?
-Mata pelajaran terburuk saya ialah sains.	My worst subject is science.
-My worst subject is science.	Mata pelajaran terburuk saya ialah sains.
-Saya juga berkhusus dalam kejuruteraan.	I also majored in engineering.
-I also majored in engineering.	Saya juga berkhusus dalam kejuruteraan.
-Saya ingin belajar lebih banyak cara-cara membantu orang.	I want to learn how to help people more.
-I want to learn how to help people more.	Saya ingin belajar lebih banyak cara-cara membantu orang.
-Saya sedang belajar psikologi kerana saya ingin belajar lebih banyak cara-cara membantu orang.	I’m studying psychology because I want to learn how to help people more.
-I’m studying psychology because I want to learn how to help people more.	Saya sedang belajar psikologi kerana saya ingin belajar lebih banyak cara-cara membantu orang.
-Saya sedang mempelajari kursus perubatan.	I’m studying medicine.
-I’m studying medicine.	Saya sedang mempelajari kursus perubatan.
-Saya ingin belajar mengenai perniagaan.	I want to study business.
-I want to study business.	Saya ingin belajar mengenai perniagaan.
-Saya ingin belajar mengenai politik dengan lebih mendalam.	I want to learn more about politics.
-I want to learn more about politics.	Saya ingin belajar mengenai politik dengan lebih mendalam.
-Saya sedang mempelajari kursus perisian komputer.	I’m studying software.
-I’m studying software.	Saya sedang mempelajari kursus perisian komputer.
-Saya ingin belajar mengenai perisian komputer dengan lebih mendalam.	I want to learn more about software.
-I want to learn more about software.	Saya ingin belajar mengenai perisian komputer dengan lebih mendalam.
-Saya ingin belajar mengenai pendidikan.	I want to study education.
-I want to study education.	Saya ingin belajar mengenai pendidikan.
-jujur	honest
-honest	jujur
-purata	average
-average	purata
-mahir	skilled
-skilled	mahir
-tidak jujur	dishonest
-dishonest	tidak jujur
-perkataan	word
-word	perkataan
-tidak mahir	Unskilled
-Unskilled	tidak mahir
-tidak berminat	uninterested
-uninterested	tidak berminat
-benci	To hate
-To hate	benci
-dinaik pangkat	to get promoted
-to get promoted	dinaik pangkat
-berguna	Useful
-Useful	berguna
-berpengalaman	Experienced
-Experienced	berpengalaman
-kegemaran	Favorite
-Favorite	kegemaran
-tidak berguna	Useless
-Useless	tidak berguna
-tidak berpengalaman	inexperienced
-inexperienced	tidak berpengalaman
-dipecat	To get fired
-To get fired	dipecat
-berlengah-lengah	To procrastinate
-To procrastinate	berlengah-lengah
-pengalaman	Experience
-Experience	pengalaman
-resume	resume
-resume	resume
-paling	Most
-Most	paling
-paling kurang	Least
-Least	paling kurang
-rajin	hard working
-hard working	rajin
-risau	To worry
-To worry	risau
-malas	Lazy
-Lazy	malas
-Saya paling berminat dalam agama.	I’m most interested in religion.
-I’m most interested in religion.	Saya paling berminat dalam agama.
-Saya paling benci matematik.	I hate math the most.
-I hate math the most.	Saya paling benci matematik.
-Saya tidak mahir dalam musik.	I’m unskilled in music.
-I’m unskilled in music.	Saya tidak mahir dalam musik.
-Saya mahir dalam musik.	I’m skilled in music.
-I’m skilled in music.	Saya mahir dalam musik.
-Saya paling tidak berminat dalam agama.	I’m most uninterested in religion.
-I’m most uninterested in religion.	Saya paling tidak berminat dalam agama.
-Saya mahir dalam apa-apa.	I’m unskilled in nothing.
-I’m unskilled in nothing.	Saya mahir dalam apa-apa.
-Saya tidak mahir dalam apa-apa.	I’m skilled in nothing.
-I’m skilled in nothing.	Saya tidak mahir dalam apa-apa.
-Mata pelajaran apakah yang kamu paling berpengalaman?	What subject are you most experienced in?
-What subject are you most experienced in?	Mata pelajaran apakah yang kamu paling berpengalaman?
-Mata pelajaran apakah yang paling kamu minati?	What subject are you most interested in?
-What subject are you most interested in?	Mata pelajaran apakah yang paling kamu minati?
-Saya paling suka matematik.	I love math the most.
-I love math the most.	Saya paling suka matematik.
-Erica juga adalah bintang pop yang saya paling minati.	Erica is my most favorite pop star also.
-Erica is my most favorite pop star also.	Erica juga adalah bintang pop yang saya paling minati.
-Kamu tidak patut tidur di tempat kerja kerana kamu akan dipecat.	You shouldn’t sleep at work because you will get fired.
-You shouldn’t sleep at work because you will get fired.	Kamu tidak patut tidur di tempat kerja kerana kamu akan dipecat.
-Dia seorang ahli politik yang jujur.	He’s an honest politician.
-He’s an honest politician.	Dia seorang ahli politik yang jujur.
-Dia seorang ahli politik yang tidak jujur.	He’s a dishonest politician.
-He’s a dishonest politician.	Dia seorang ahli politik yang tidak jujur.
-Kamu tidak patut berlengah-lengah.	You shouldn’t procrastinate.
-You shouldn’t procrastinate.	Kamu tidak patut berlengah-lengah.
-Erica juga adalah bintang pop yang paling kurang diminati saya.	Erica is my least favorite pop star also.
-Erica is my least favorite pop star also.	Erica juga adalah bintang pop yang paling kurang diminati saya.
-Apakah maksud rajin?	What does hard working mean?
-What does hard working mean?	Apakah maksud rajin?
-"Apakah maksud perkataan ""resume""?"	"What does the word ""resume"" mean?"
-"What does the word ""resume"" mean?"	"Apakah maksud perkataan ""resume""?"
-Tidak berguna ialah kata lawan berguna.	Useless is the opposite of useful.
-Useless is the opposite of useful.	Tidak berguna ialah kata lawan berguna.
-Resume adalah sekeping kertas yang mengandungi sejarah dan pengalaman kerja anda.	A resume is a paper on your work history and experience.
-A resume is a paper on your work history and experience.	Resume adalah sekeping kertas yang mengandungi sejarah dan pengalaman kerja anda.
-Rajin bermaksud tidak malas.	Hard working means not lazy.
-Hard working means not lazy.	Rajin bermaksud tidak malas.
-Apakah kata lawan berguna?	What is the opposite of useful?
-What is the opposite of useful?	Apakah kata lawan berguna?
-Kamu akan dinaik pangkat jika kamu rajin.	If you are hard working, you will get promoted.
-If you are hard working, you will get promoted.	Kamu akan dinaik pangkat jika kamu rajin.
-Saya tidak risau.	I don’t worry.
-I don’t worry.	Saya tidak risau.
-Kamu patut bekerja dan bukannya risau.	Instead of worrying, you should work.
-Instead of worrying, you should work.	Kamu patut bekerja dan bukannya risau.
-Kamu akan diupah jika kamu rajin.	If you are hard working, you will get hired.
-If you are hard working, you will get hired.	Kamu akan diupah jika kamu rajin.
-Kamu patut berdoa dan bukannya risau.	Instead of worrying, you should pray.
-Instead of worrying, you should pray.	Kamu patut berdoa dan bukannya risau.
-Saya tidak berlengah-lengah.	I don’t procrastinate.
-I don’t procrastinate.	Saya tidak berlengah-lengah.
-temuduga	Interview
-Interview	temuduga
-sehari	Per day
-Per day	sehari
-cuti	Vacation
-Vacation	cuti
-sakit	Sick
-Sick	sakit
-melawat	To visit
-To visit	melawat
-selalu	Always
-Always	selalu
-kerap	Often
-Often	kerap
-kadang kala	Sometimes
-Sometimes	kadang kala
-seminggu	Per week
-Per week	seminggu
-memberus gigi	Brush teeth
-Brush teeth	memberus gigi
-e-mel	Email
-Email	e-mel
-tiket	Ticket
-Ticket	tiket
-menge-mel	to email
-to email	menge-mel
-sekali	Once
-Once	sekali
-mencuci baju	To do laundry
-To do laundry	mencuci baju
-merancang	To plan
-To plan	merancang
-dua kali	Twice
-Twice	dua kali
-jarang	Rarely
-Rarely	jarang
-tidak pernah	Never
-Never	tidak pernah
-kali	Times
-Times	kali
-Berapa kalikah anda memeriksa e-mel sehari?	How many times per day do you check your email?
-How many times per day do you check your email?	Berapa kalikah anda memeriksa e-mel sehari?
-Saya memberus gigi saya sekali seminggu.	I brush my teeth once a week.
-I brush my teeth once a week.	Saya memberus gigi saya sekali seminggu.
-Saya memeriksa e-mel saya tiga kali seminggu.	I check my email three times a week.
-I check my email three times a week.	Saya memeriksa e-mel saya tiga kali seminggu.
-Saya memberus gigi saya tiga kali seminggu.	I brush my teeth three times per week.
-I brush my teeth three times per week.	Saya memberus gigi saya tiga kali seminggu.
-Berapa kalikah anda memberus gigi sehari?	How many times per day do you brush your teeth?
-How many times per day do you brush your teeth?	Berapa kalikah anda memberus gigi sehari?
-Berapa kalikah anda makan sehari?	How many times per day do you eat?
-How many times per day do you eat?	Berapa kalikah anda makan sehari?
-Saya memeriksa e-mel saya sekali seminggu.	I check my email once per week.
-I check my email once per week.	Saya memeriksa e-mel saya sekali seminggu.
-Berapakah harganya untuk seorang?	How much is it per person?
-How much is it per person?	Berapakah harganya untuk seorang?
-Berapakah harganya untuk sebulan?	How much is it per month?
-How much is it per month?	Berapakah harganya untuk sebulan?
-Saya sering mencuci baju saya sendiri.	I often do my laundry.
-I often do my laundry.	Saya sering mencuci baju saya sendiri.
-Tujuh dolar seorang.	It’s seven dollars per person.
-It’s seven dollars per person.	Tujuh dolar seorang.
-Saya selalu mencuci baju saya sendiri.	I always do my laundry.
-I always do my laundry.	Saya selalu mencuci baju saya sendiri.
-Saya tidak pernah mencuci baju saya sendiri.	I never do my laundry.
-I never do my laundry.	Saya tidak pernah mencuci baju saya sendiri.
-Berapakah harga satu tiket?	How much is it per ticket?
-How much is it per ticket?	Berapakah harga satu tiket?
-Tujuh dolar satu tiket.	It’s seven dollars per ticket.
-It’s seven dollars per ticket.	Tujuh dolar satu tiket.
-Biasanya, saya mencuci baju saya sendiri.	I usually do my laundry.
-I usually do my laundry.	Biasanya, saya mencuci baju saya sendiri.
-Saya jarang mencuci baju saya sendiri.	I rarely do my laundry.
-I rarely do my laundry.	Saya jarang mencuci baju saya sendiri.
-Sila menghubungi saya untuk merancang temuduga kita.	Please call me to plan our interview.
-Please call me to plan our interview.	Sila menghubungi saya untuk merancang temuduga kita.
-Berapa kerapkah anda berjumpa dengan doktor?	How often do you visit a doctor?
-How often do you visit a doctor?	Berapa kerapkah anda berjumpa dengan doktor?
-Saya jarang berjumpa dengan doktor.	I rarely visit a doctor when I’m sick.
-I rarely visit a doctor when I’m sick.	Saya jarang berjumpa dengan doktor.
-Saya perlu pergi ke temuduga selepas memberus gigi saya.	After I brush my teeth, I have to go to an interview.
-After I brush my teeth, I have to go to an interview.	Saya perlu pergi ke temuduga selepas memberus gigi saya.
-Sila e-mel saya untuk merancang temuduga kita.	Please email me to plan our interview.
-Please email me to plan our interview.	Sila e-mel saya untuk merancang temuduga kita.
-Kadang kala saya berjumpa dengan doktor apabila saya sakit.	I sometimes visit a doctor when I’m sick.
-I sometimes visit a doctor when I’m sick.	Kadang kala saya berjumpa dengan doktor apabila saya sakit.
-Saya tidak pernah berjumpa dengan doktor apabila saya sakit.	I never visit a doctor when I’m sick.
-I never visit a doctor when I’m sick.	Saya tidak pernah berjumpa dengan doktor apabila saya sakit.
-Berapa kerapkah kamu melawat nenekmu yang berada di hospital?	How often do you visit your grandmother in the hospital?
-How often do you visit your grandmother in the hospital?	Berapa kerapkah kamu melawat nenekmu yang berada di hospital?
-Berapa kerapkah kamu melawat makcikmu yang berada di hospital?	How often do you visit your aunt in the hospital?
-How often do you visit your aunt in the hospital?	Berapa kerapkah kamu melawat makcikmu yang berada di hospital?
-Saya pergi dua kali seminggu.	I go twice a week.
-I go twice a week.	Saya pergi dua kali seminggu.
-Saya menelefon emak saya yang berada di India empat kali setahun.	I call my mother in India four times a year.
-I call my mother in India four times a year.	Saya menelefon emak saya yang berada di India empat kali setahun.
-Biasanya, saya mengguna span untuk mencuci kereta saya.	I usually use a sponge to clean my car.
-I usually use a sponge to clean my car.	Biasanya, saya mengguna span untuk mencuci kereta saya.
-Saya melawat pakcik saya yang berada di hospital tiga kali sebulan.	I visit my uncle in the hospital three times a month.
-I visit my uncle in the hospital three times a month.	Saya melawat pakcik saya yang berada di hospital tiga kali sebulan.
-Saya jarang mengguna span untuk mencuci kereta saya.	I rarely use a sponge to clean my car.
-I rarely use a sponge to clean my car.	Saya jarang mengguna span untuk mencuci kereta saya.
-Pada pendapat saya, Ken sangat cerdik tetapi dia malas.	I think Ken is very smart, but he’s lazy.
-I think Ken is very smart, but he’s lazy.	Pada pendapat saya, Ken sangat cerdik tetapi dia malas.
-Pada pendapat kamu, adakah Erica itu baik hati?	Do you think that Erica is kind?
-Do you think that Erica is kind?	Pada pendapat kamu, adakah Erica itu baik hati?
-Saya hendak makan makanan Itali dan pergi bersenam selepas itu.	I want to eat Italian food, and then go exercising.
-I want to eat Italian food, and then go exercising.	Saya hendak makan makanan Itali dan pergi bersenam selepas itu.
-Pada pendapat kamu, adakah Erica itu jahat?	Do you think that Erica is mean?
-Do you think that Erica is mean?	Pada pendapat kamu, adakah Erica itu jahat?
-Apa yang ingin kamu buat untuk harjadi kamu esok?	What do you want to do for your birthday tomorrow?
-What do you want to do for your birthday tomorrow?	Apa yang ingin kamu buat untuk harjadi kamu esok?
-Pada pendapat saya, Ken sangat baik hati tetapi dia malas.	I think Ken is very kind, but he’s lazy.
-I think Ken is very kind, but he’s lazy.	Pada pendapat saya, Ken sangat baik hati tetapi dia malas.
-Saya hendak makan makanan Cina dan pergi membeli-belah selepas itu.	I want to eat Chinese food, and then go shopping.
-I want to eat Chinese food, and then go shopping.	Saya hendak makan makanan Cina dan pergi membeli-belah selepas itu.
-Apa yang ingin kamu buat untuk harjadi kamu hari ini?	What do you want to do for your birthday today?
-What do you want to do for your birthday today?	Apa yang ingin kamu buat untuk harjadi kamu hari ini?
-Tetapi saya tidak dapat membayar kerana saya lupa membawa dompet saya.	But I can’t pay because I forgot my wallet.
-But I can’t pay because I forgot my wallet.	Tetapi saya tidak dapat membayar kerana saya lupa membawa dompet saya.
-Mari kita makan di restoran yang bagus kerana hari ini ulang tahun perkahwinan datuk dan nenek kamu.	Let’s eat at a nice restaurant because it’s your grandparents anniversary.
-Let’s eat at a nice restaurant because it’s your grandparents anniversary.	Mari kita makan di restoran yang bagus kerana hari ini ulang tahun perkahwinan datuk dan nenek kamu.
-Apa yang hendak kamu makan untuk makan malam pada hari Rabu?	What do you want to eat for dinner on Wednesday?
-What do you want to eat for dinner on Wednesday?	Apa yang hendak kamu makan untuk makan malam pada hari Rabu?
-Hari ini ulang tahun perkahwinan ibubapa saya.	It’s my parents anniversary.
-It’s my parents anniversary.	Hari ini ulang tahun perkahwinan ibubapa saya.
-Tetapi kita tidak dapat membayar kerana ia terlalu mahal.	But we can’t pay because it will be too expensive.
-But we can’t pay because it will be too expensive.	Tetapi kita tidak dapat membayar kerana ia terlalu mahal.
-Apa yang hendak kamu makan untuk makan tengahari pada hari Selasa?	What do you want to eat for lunch on Tuesday?
-What do you want to eat for lunch on Tuesday?	Apa yang hendak kamu makan untuk makan tengahari pada hari Selasa?
-Jangan risau kerana saya akan membayar setengah bil itu.	Don’t worry, because I’ll pay for half of the bill.
-Don’t worry, because I’ll pay for half of the bill.	Jangan risau kerana saya akan membayar setengah bil itu.
-Saya akan membayar untuk kesemuanya.	I’ll pay for everything.
-I’ll pay for everything.	Saya akan membayar untuk kesemuanya.
-Sila ke mari.	Please come here.
-Please come here.	Sila ke mari.
-Apakah yang kamu ingin saya buat?	What do you want me to do?
-What do you want me to do?	Apakah yang kamu ingin saya buat?
-Sila hantar kerja rumah anda.	Please turn in your homework.
-Please turn in your homework.	Sila hantar kerja rumah anda.
-Apakah yang kamu ingin saya bawa?	What do you want me to bring?
-What do you want me to bring?	Apakah yang kamu ingin saya bawa?
-Saya tidak memerlukan apa-apa sekarang, terima-kasih.	I don’t need anything now, thank you.
-I don’t need anything now, thank you.	Saya tidak memerlukan apa-apa sekarang, terima-kasih.
-Sila bawa kerja rumah anda.	Please bring your homework.
-Please bring your homework.	Sila bawa kerja rumah anda.
-Boleh saya bantu?	Can I help you?
-Can I help you?	Boleh saya bantu?
-Sila pergi.	Please go away.
-Please go away.	Sila pergi.
-Saya tidak memerlukan bantuan sekarang, terima-kasih.	I don’t need help now, thank you.
-I don’t need help now, thank you.	Saya tidak memerlukan bantuan sekarang, terima-kasih.
-gigi	Teeth
-Teeth	gigi
-kepala	Head
-Head	kepala
-botak	bald
-bald	botak
-telinga	Ear
-Ear	telinga
-mulut	Mouth
-Mouth	mulut
-mata	Eye
-Eye	mata
-paru-paru	Lungs
-Lungs	paru-paru
-hidung	Nose
-Nose	hidung
-siku	Elbow
-Elbow	siku
-menjijikkan	Disgusting
-Disgusting	menjijikkan
-luka	Wound
-Wound	luka
-lutut	Knee
-Knee	lutut
-terhiris	Cut
-Cut	terhiris
-pinggul	Hip
-Hip	pinggul
-rahang	jaw
-jaw	rahang
-alat kelamin	Genitals
-Genitals	alat kelamin
-muka	Face
-Face	muka
-lengan	Arm
-Arm	lengan
-kaki	Foot
-Foot	kaki
-lidah	Tongue
-Tongue	lidah
-kuku	Fingernail
-Fingernail	kuku
-payudara	Breast
-Breast	payudara
-dada	Chest
-Chest	dada
-jari kaki	Toe
-Toe	jari kaki
-Hidung saya patah.	I broke my nose.
-I broke my nose.	Hidung saya patah.
-Sila tunjukkan jari kaki anda kepada saya.	Please show me your feet.
-Please show me your feet.	Sila tunjukkan jari kaki anda kepada saya.
-Sila tutup mata anda.	Please close your eyes.
-Please close your eyes.	Sila tutup mata anda.
-Sila tunjukkan luka anda kepada saya.	Please show me your wound.
-Please show me your wound.	Sila tunjukkan luka anda kepada saya.
-Apakah masalahnya dengan siku anda?	What is wrong with your elbow?
-What is wrong with your elbow?	Apakah masalahnya dengan siku anda?
-Apakah masalahnya dengan jari kaki anda?	What is wrong with your toe?
-What is wrong with your toe?	Apakah masalahnya dengan jari kaki anda?
-Rahang saya patah.	I broke my jaw.
-I broke my jaw.	Rahang saya patah.
-Sila buka mulut anda.	Please open your mouth.
-Please open your mouth.	Sila buka mulut anda.
-Sila tutup mulut anda.	Please close your mouth.
-Please close your mouth.	Sila tutup mulut anda.
-Sila buka mata anda.	Please open your eyes.
-Please open your eyes.	Sila buka mata anda.
-Tangan saya kotor.	My hands are dirty.
-My hands are dirty.	Tangan saya kotor.
-Dada saya bermasalah.	I have a problem with my chest.
-I have a problem with my chest.	Dada saya bermasalah.
-Lidah saya terluka.	I have a cut on my tongue.
-I have a cut on my tongue.	Lidah saya terluka.
-Gigi kamu putih.	Your teeth are white.
-Your teeth are white.	Gigi kamu putih.
-Tangan saya bersih.	My hands are clean.
-My hands are clean.	Tangan saya bersih.
-Telinga kamu merah.	Your ears are red.
-Your ears are red.	Telinga kamu merah.
-Gigi saya bermasalah.	I have a problem with my tooth.
-I have a problem with my tooth.	Gigi saya bermasalah.
-Luka di atas lutut kamu menjijikkan.	The wound on your knee is disgusting.
-The wound on your knee is disgusting.	Luka di atas lutut kamu menjijikkan.
-Kamu ada kesan luka di atas kepala kamu.	You have a cut on your head.
-You have a cut on your head.	Kamu ada kesan luka di atas kepala kamu.
-Apa masalahnya dengan kamu?	What is wrong with you?
-What is wrong with you?	Apa masalahnya dengan kamu?
-Lengan dia terluka.	He cut his arm.
-He cut his arm.	Lengan dia terluka.
-Apa masalahnya dengan Ken?	What is wrong with Ken?
-What is wrong with Ken?	Apa masalahnya dengan Ken?
-Lengan dia patah.	He broke his arm.
-He broke his arm.	Lengan dia patah.
-Tahukah kamu?	Did you know?
-Did you know?	Tahukah kamu?
-darah	Blood
-Blood	darah
-kuping	Scab
-Scab	kuping
-bahu	Shoulder
-Shoulder	bahu
-cantik	Beautiful
-Beautiful	cantik
-otot	Muscle
-Muscle	otot
-rambut	Hair
-Hair	rambut
-leher	Neck
-Neck	leher
-melukai	To hurt
-To hurt	melukai
-belakang	Back
-Back	belakang
-tidak hadir	To miss
-To miss	tidak hadir
-kotoran	Dirt
-Dirt	kotoran
-pergelangan tangan	Wrists
-Wrists	pergelangan tangan
-kaki	Leg (Also foot)
-Leg (Also foot)	kaki
-tangan	Hand
-Hand	tangan
-jari	Finger
-Finger	jari
-buntut	Butt
-Butt	buntut
-urutan	Massage
-Massage	urutan
-gatal	Itchy
-Itchy	gatal
-kulit	Skin
-Skin	kulit
-kesan parut	Scar
-Scar	kesan parut
-mengurut	To massage
-To massage	mengurut
-peha	Thigh
-Thigh	peha
-tulang	Bone
-Bone	tulang
-menggaru	To itch
-To itch	menggaru
-Rambut kamu cantik.	Your hair is beautiful.
-Your hair is beautiful.	Rambut kamu cantik.
-Kamu mempunyai tangan yang baik.	You have good hands.
-You have good hands.	Kamu mempunyai tangan yang baik.
-Kamu mempunyai tangan yang besar.	You have big hands.
-You have big hands.	Kamu mempunyai tangan yang besar.
-Kamu ada darah di belakangmu.	You have blood on your back.
-You have blood on your back.	Kamu ada darah di belakangmu.
-Leher kamu cantik.	Your neck is beautiful.
-Your neck is beautiful.	Leher kamu cantik.
-Kamu mempunyai otot yang baik.	You have good muscles.
-You have good muscles.	Kamu mempunyai otot yang baik.
-Kamu mempunyai otot yang besar.	You have big muscles.
-You have big muscles.	Kamu mempunyai otot yang besar.
-Kamu ada kotoran di lehermu.	You have dirt on your neck.
-You have dirt on your neck.	Kamu ada kotoran di lehermu.
-Otot buntut saya sakit.	My butt muscles hurt.
-My butt muscles hurt.	Otot buntut saya sakit.
-Otot bahu saya sakit.	My shoulder muscles hurt.
-My shoulder muscles hurt.	Otot bahu saya sakit.
-Leher saya gatal.	My neck is itchy.
-My neck is itchy.	Leher saya gatal.
-Kuping saya gatal.	My scab is itchy.
-My scab is itchy.	Kuping saya gatal.
-Saya telah melakukan senaman kaki hari ini.	I did leg exercises today.
-I did leg exercises today.	Saya telah melakukan senaman kaki hari ini.
-Saya telah melakukan senaman untuk belakang saya hari ini.	I did back exercises today.
-I did back exercises today.	Saya telah melakukan senaman untuk belakang saya hari ini.
-Erica tidak hadir untuk kerja kerana lengan dia patah.	Erica missed work because she broke her arm.
-Erica missed work because she broke her arm.	Erica tidak hadir untuk kerja kerana lengan dia patah.
-Mengapa Erica tidak hadir ke kelas semalam?	Why did Erica miss class yesterday?
-Why did Erica miss class yesterday?	Mengapa Erica tidak hadir ke kelas semalam?
-Jari saya terluka dipotong pisau.	I hurt my finger with a knife.
-I hurt my finger with a knife.	Jari saya terluka dipotong pisau.
-Saya terluka jariku dengan sebilah pisau.	I cut my finger with a knife.
-I cut my finger with a knife.	Saya terluka jariku dengan sebilah pisau.
-Bagaimanakah jari kamu terluka?	How did you hurt your finger?
-How did you hurt your finger?	Bagaimanakah jari kamu terluka?
-Erica tidak hadir untuk kerja kerana jari dia patah.	Erica missed work because she broke her finger.
-Erica missed work because she broke her finger.	Erica tidak hadir untuk kerja kerana jari dia patah.
-Kuping di atas peha kamu itu menjijikkan.	The scab on your thigh is disgusting.
-The scab on your thigh is disgusting.	Kuping di atas peha kamu itu menjijikkan.
-Kamu mahu urutan lengan yang percuma?	Do you want a free arm massage?
-Do you want a free arm massage?	Kamu mahu urutan lengan yang percuma?
-Kamu mahu urutan leher yang percuma?	Do you want a free shoulder massage?
-Do you want a free shoulder massage?	Kamu mahu urutan leher yang percuma?
-Bolehkah kamu menggaru leher saya?	Could you please itch my neck?
-Could you please itch my neck?	Bolehkah kamu menggaru leher saya?
-Kuping di atas bahu kamu itu menjijikkan.	The scab on your shoulder is disgusting.
-The scab on your shoulder is disgusting.	Kuping di atas bahu kamu itu menjijikkan.
-Bolehkah kamu mengurut leher saya?	Could you please massage my neck?
-Could you please massage my neck?	Bolehkah kamu mengurut leher saya?
-tekanan	Stress
-Stress	tekanan
-sakit	Ache
-Ache	sakit
-jatuh	To fall
-To fall	jatuh
-demam	Fever
-Fever	demam
-bau	To smell
-To smell	bau
-sakit kerongkong	Sore throat
-Sore throat	sakit kerongkong
-Jika kamu hendak merokok lain kali, merokok di luar kerana ia berbau busuk.	If you are going to smoke, next time do it outside because it stinks.
-If you are going to smoke, next time do it outside because it stinks.	Jika kamu hendak merokok lain kali, merokok di luar kerana ia berbau busuk.
-Kerongkong saya sakit.	I had a sore throat.
-I had a sore throat.	Kerongkong saya sakit.
-Saya loya.	I had nausea.
-I had nausea.	Saya loya.
-Saya selsema.	I had a cold.
-I had a cold.	Saya selsema.
-Mengapakah kamu tidak datang ke parti saya semalam?	Why did you miss my birthday party yesterday?
-Why did you miss my birthday party yesterday?	Mengapakah kamu tidak datang ke parti saya semalam?
-Jika kulit kamu terselar, kamu mungkin ternyahhidrat.	If you have a sunburn you might be dehydrated.
-If you have a sunburn you might be dehydrated.	Jika kulit kamu terselar, kamu mungkin ternyahhidrat.
-Jika kamu pening, kamu mungkin ternyahhidrat.	If you have dizziness you might be dehydrated.
-If you have dizziness you might be dehydrated.	Jika kamu pening, kamu mungkin ternyahhidrat.
 Jari saya dicederakan pintu itu.	I bruised my finger in the door.
 I bruised my finger in the door.	Jari saya dicederakan pintu itu.
 Kamu ok?	Are you okay?
