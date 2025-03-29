@@ -1516,216 +1516,112 @@ Kereta saya murah tetapi berkualiti buruk.	My car was cheap but bad quality.
 Berapakah harga kereta anda?	How much was your car?
 Kereta saya murah tetapi berkualiti baik.	My car was cheap but good quality.
 Berapakah faedahnya jika saya mengambil pinjaman sepuluh ribu dolar?	How much interest is it if I get a ten thousand dollar loan?
-
-
-
-
-
-How much interest is it if I get a ten thousand dollar loan?	Berapakah faedahnya jika saya mengambil pinjaman sepuluh ribu dolar?
 Adakah ia lebih murah untuk membayar bil telefon bulanan atau tahunan?	Is it cheaper to pay the phone bill monthly or yearly?
-Is it cheaper to pay the phone bill monthly or yearly?	Adakah ia lebih murah untuk membayar bil telefon bulanan atau tahunan?
 Ada kontrak mingguan?	Is there a weekly contract?
-Is there a weekly contract?	Ada kontrak mingguan?
 Kamu boleh membeli pelan mingguan itu.	You may buy the weekly plan.
-You may buy the weekly plan.	Kamu boleh membeli pelan mingguan itu.
 Ada kontrak mingguan tetapi ia adalah lebih mahal.	There is a weekly contract, but it’s more expensive.
-There is a weekly contract, but it’s more expensive.	Ada kontrak mingguan tetapi ia adalah lebih mahal.
 Tiga puluh lima euro ok ke?	Is thirty five euros okay?
-Is thirty five euros okay?	Tiga puluh lima euro ok ke?
 Ada kontrak bulanan?	Is there a monthly contract?
-Is there a monthly contract?	Ada kontrak bulanan?
 Kamu boleh membeli pelan bulanan tetapi pelan tahunan adalah lebih murah.	You may buy the monthly contract, but the yearly contract is cheaper.
-You may buy the monthly contract, but the yearly contract is cheaper.	Kamu boleh membeli pelan bulanan tetapi pelan tahunan adalah lebih murah.
 Bolehkah harga itu dikurangkan?	Is it possible to reduce the price?
-Is it possible to reduce the price?	Bolehkah harga itu dikurangkan?
 Tidak, itu mustahil.	No, that is not possible.
-No, that is not possible.	Tidak, itu mustahil.
 Bayaran bulanan adalah dua puluh lapan dolar.	The monthly payment would be twenty eight dollars.
-The monthly payment would be twenty eight dollars.	Bayaran bulanan adalah dua puluh lapan dolar.
 Berapakah bayaran bulanan itu?	How much is the monthly payment?
-How much is the monthly payment?	Berapakah bayaran bulanan itu?
 Jika kamu membeli pelan ini, bayaran tahunan akan menjadi tiga puluh dua euro.	If you were to buy this plan, the yearly payment would be thirty two euros.
-If you were to buy this plan, the yearly payment would be thirty two euros.	Jika kamu membeli pelan ini, bayaran tahunan akan menjadi tiga puluh dua euro.
 Bolehkah kami membayar secara berasingan?	Could we pay separate please?
-Could we pay separate please?	Bolehkah kami membayar secara berasingan?
 Bolehkah kami membayar sekali?	Could we pay together please?
-Could we pay together please?	Bolehkah kami membayar sekali?
 Kamu akan membayar secara berasingan atau sekaligus?	Will you pay separate or together?
-Will you pay separate or together?	Kamu akan membayar secara berasingan atau sekaligus?
 Sila baca dan sain di sini.	Please read and sign here.
-Please read and sign here.	Sila baca dan sain di sini.
 Kami hendak membayar secara berasingan.	We want to pay separate.
-We want to pay separate.	Kami hendak membayar secara berasingan.
 Patutkah saya memberi tip?	Should I give a tip?
-Should I give a tip?	Patutkah saya memberi tip?
 Saya ingin bertanya tentang kad kredit.	I have a question about getting a credit card.
-I have a question about getting a credit card.	Saya ingin bertanya tentang kad kredit.
 Saya ingin bertanya tentang pinjaman.	I have a question about getting a contract.
-I have a question about getting a contract.	Saya ingin bertanya tentang pinjaman.
 Kami hendak membayar sekaligus.	We want to pay together.
-We want to pay together.	Kami hendak membayar sekaligus.
 Dalam budaya Asia, tip biasanya tidak diberi.	In the Asian culture, tips are not usually given.
-In the Asian culture, tips are not usually given.	Dalam budaya Asia, tip biasanya tidak diberi.
 memesan	To order
-To order	memesan
 pusat membeli-belah	Mall
-Mall	pusat membeli-belah
 kedai elektronik	Electronics store
-Electronics store	kedai elektronik
 kedai runcit	Grocery store
-Grocery store	kedai runcit
 membeli	To buy
-To buy	membeli
 sesuatu	Something
-Something	sesuatu
 makanan segera	Fast food
-Fast food	makanan segera
 internet	Internet
-Internet	internet
 dompet	Purse/Wallet
-Purse/Wallet	dompet
 makanan Cina	Chinese food
-Chinese food	makanan Cina
 belum	Not yet
-Not yet	belum
 tempat	Somewhere
-Somewhere	tempat
 mengembalikan	To refund
-To refund	mengembalikan
 makanan Itali	Italian food
-Italian food	makanan Itali
 membeli-belah	To shop
-To shop	membeli-belah
 membuat keputusan	To decide
-To decide	membuat keputusan
 pasar	Market
-Market	pasar
 lambat	Slow
-Slow	lambat
 kedai serbaneka	Convenience Store
-Convenience Store	kedai serbaneka
 kedai	Store
-Store	kedai
 kedai gula-gula	Candy Store
-Candy Store	kedai gula-gula
 stesen minyak	Gas station
-Gas station	stesen minyak
 Saya belum membuat keputusan lagi.	I have not yet decided.
-I have not yet decided.	Saya belum membuat keputusan lagi.
 Saya sudah membuat keputusan.	I have decided.
-I have decided.	Saya sudah membuat keputusan.
 Dia hendak memesan pizza.	She wants to order a pizza.
-She wants to order a pizza.	Dia hendak memesan pizza.
 Sudahkah kamu memutuskan untuk membeli apa?	Have you decided what you want to buy?
-Have you decided what you want to buy?	Sudahkah kamu memutuskan untuk membeli apa?
 Saya hendak membeli makanan Cina.	I want to buy Chinese food.
-I want to buy Chinese food.	Saya hendak membeli makanan Cina.
 Sudahkah kamu memutuskan untuk memesan apa?	Have you decided what you want to order?
-Have you decided what you want to order?	Sudahkah kamu memutuskan untuk memesan apa?
 Saya hendak memesan makanan Cina.	I want to order Chinese food.
-I want to order Chinese food.	Saya hendak memesan makanan Cina.
 Ken tidak mahu makanan Cina.	Ken does not want Chinese food.
-Ken does not want Chinese food.	Ken tidak mahu makanan Cina.
 Ken tidak mahu makanan Itali.	Ken does not want Italian food.
-Ken does not want Italian food.	Ken tidak mahu makanan Itali.
 Saya hendak makan makanan Cina.	I want to eat Chinese food.
-I want to eat Chinese food.	Saya hendak makan makanan Cina.
 Mari kita pergi ke kedai runcit.	Let’s go to the grocery store.
-Let’s go to the grocery store.	Mari kita pergi ke kedai runcit.
 Saya tidak lapar lagi kerana saya baru sahaja makan.	I’m not yet hungry because I ate recently.
-I’m not yet hungry because I ate recently.	Saya tidak lapar lagi kerana saya baru sahaja makan.
 Mari kita membuat keputusan atas restoran yang mana.	Let’s decide on a restaurant.
-Let’s decide on a restaurant.	Mari kita membuat keputusan atas restoran yang mana.
 Mari kita pergi ke pasar.	Let’s go to the market.
-Let’s go to the market.	Mari kita pergi ke pasar.
 Saya tidak suka tempat ini.	I don’t like this place.
-I don’t like this place.	Saya tidak suka tempat ini.
 Ia adalah lebih murah untuk memesan dari internet.	If you were to order it on the internet, it would be cheaper.
-If you were to order it on the internet, it would be cheaper.	Ia adalah lebih murah untuk memesan dari internet.
 Saya tidak suka pusat membeli-belah ini.	I don’t like this mall.
-I don’t like this mall.	Saya tidak suka pusat membeli-belah ini.
 Beli dari internet.	Buy it on the internet.
-Buy it on the internet.	Beli dari internet.
 Bolehkah saya mengembalikan ini?	May I refund this please?
-May I refund this please?	Bolehkah saya mengembalikan ini?
 Bolehkah saya membeli ini?	May I buy this please?
-May I buy this please?	Bolehkah saya membeli ini?
 Ya, tetapi kamu mungkin perlu menunggu lebih lama kerana pos adalah lebih lambat.	Yes, but perhaps you would have to wait longer because mail is slower.
-Yes, but perhaps you would have to wait longer because mail is slower.	Ya, tetapi kamu mungkin perlu menunggu lebih lama kerana pos adalah lebih lambat.
 Saya hendak makan benda lain.	I want to eat something else.
-I want to eat something else.	Saya hendak makan benda lain.
 Jom ke tempat lain.	Let’s go somewhere else.
-Let’s go somewhere else.	Jom ke tempat lain.
 Saya baru sahaja makan di pusat membeli-belah tetapi saya masih lapar.	I recently ate at the mall, but I’m still hungry.
-I recently ate at the mall, but I’m still hungry.	Saya baru sahaja makan di pusat membeli-belah tetapi saya masih lapar.
 Berapakah harga dompet itu	How much is the purse?
-How much is the purse?	Berapakah harga dompet itu
 Saya hendak membeli sesuatu dari kedai gula-gula itu.	I want to buy something from the candy store.
-I want to buy something from the candy store.	Saya hendak membeli sesuatu dari kedai gula-gula itu.
 Saya hendak membeli sesuatu dari stesen minyak itu.	I want to buy something from the gas station.
-I want to buy something from the gas station.	Saya hendak membeli sesuatu dari stesen minyak itu.
 cermin mata	glasses
-glasses	cermin mata
 telur	Eggs
-Eggs	telur
 kertas	Paper
-Paper	kertas
 dandanan	Makeup
-Makeup	dandanan
 memakai	To wear
-To wear	memakai
 susu	Milk
-Milk	susu
 kamera	Camera
-Camera	kamera
 baju	Shirt
-Shirt	baju
 komputer	Computer
-Computer	komputer
 hadiah	Gift
-Gift	hadiah
 gula-gula	Candy
-Candy	gula-gula
 topi	Hat
-Hat	topi
 bateri	Battery
-Battery	bateri
 buku	Book
-Book	buku
 seluar	Pants
-Pants	seluar
 kasut	Shoes
-Shoes	kasut
 jam tangan	Watch
-Watch	jam tangan
 deodoran	Deodorant
-Deodorant	deodoran
-bijirin	Ceral
-Ceral	bijirin
+bijirin	Cereal
 pakaian	Clothes
-Clothes	pakaian
 memakai	To put on
-To put on	memakai
 sarung kaki	Socks
-Socks	sarung kaki
 fon kepala	Headphones
-Headphones	fon kepala
 minyak wangi	Perfume
-Perfume	minyak wangi
 Cermin mata itu berharga dua puluh tujuh euro.	Those glasses cost twenty seven euros.
-Those glasses cost twenty seven euros.	Cermin mata itu berharga dua puluh tujuh euro.
 Minta maaf, di manakah kertas-kertas itu?	Excuse me, where are the papers please?
-Excuse me, where are the papers please?	Minta maaf, di manakah kertas-kertas itu?
 Minta maaf. Berapakah harga dandanan ini?	Excuse me. How much is this makeup?
-Excuse me. How much is this makeup?	Minta maaf. Berapakah harga dandanan ini?
 Telur itu berharga dua puluh tujuh euro.	Those eggs cost twenty seven euros.
-Those eggs cost twenty seven euros.	Telur itu berharga dua puluh tujuh euro.
 Minta maaf. Berapakah harga kamera ini?	Excuse me. How much is this camera?
-Excuse me. How much is this camera?	Minta maaf. Berapakah harga kamera ini?
 Minta maaf, di manakah baju-baju itu?	Excuse me, where are the shirts please?
-Excuse me, where are the shirts please?	Minta maaf, di manakah baju-baju itu?
 Saya tidak tahu kerana saya tidak bekerja di sini.	I don’t know, because I don’t work here.
-I don’t know, because I don’t work here.	Saya tidak tahu kerana saya tidak bekerja di sini.
+
+<=========================================== Got Up To Here ==========================================================>
+
+
 Bagaimana dengan beberapa pasang seluar yang baik?	How about some good pants?
 How about some good pants?	Bagaimana dengan beberapa pasang seluar yang baik?
 Kamu hendak membeli komputer yang mahal atau murah?	Do you want to buy an expensive or a cheap computer?
