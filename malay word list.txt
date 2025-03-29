@@ -1618,224 +1618,116 @@ Telur itu berharga dua puluh tujuh euro.	Those eggs cost twenty seven euros.
 Minta maaf. Berapakah harga kamera ini?	Excuse me. How much is this camera?
 Minta maaf, di manakah baju-baju itu?	Excuse me, where are the shirts please?
 Saya tidak tahu kerana saya tidak bekerja di sini.	I don’t know, because I don’t work here.
+Bagaimana dengan beberapa pasang seluar yang baik?	How about some good pants?
+Kamu hendak membeli komputer yang mahal atau murah?	Do you want to buy an expensive or a cheap computer?
+Kamu hendak membeli topi yang mahal atau topi yang murah?	Do you want to buy an expensive or a cheap hat?
+Saya hendak membeli susu untuk emak saya.	I want to buy milk for my mother.
+Hadiah jenis apakah yang hendak kamu beli?	What kind of gift do you want to buy?
+Bagaimana dengan beberapa pasang kasut yang baik?	How about some good shoes?
+Saya hendak membeli gula-gula untuk emak saya.	I want to buy candy for my mother.
+Pada pendapat kamu, apa yang patut saya beli untuk harijadi isteri saya?	What do you think I should buy my wife for her birthday?
+Saya perlu memakai pakaian saya.	I need to put on my clothes.
+Saya tidak suka mengguna deodoran.	I don’t like to use deodorant.
+Saya tidak suka memakai sarung kaki.	I don’t like to wear socks.
+Saya tidak suka memakai earfon.	I don’t like to wear head phones.
+Tulis nama anda atas bateri itu dengan pen.	Write your name in pen on the battery.
+Saya tidak suka menggunakan kosmetik.	I don’t like to use makeup.
+Tulis nama anda atas bijirin itu dengan pen.	Write your name in pen on the cereal.
+Tulis nama anda atas buku itu dengan pen.	Write your name in pen on the book.
+Saya tidak suka mengguna minyak wangi.	I don’t like to use perfume.
+Saya perlu memakai jam tangan saya.	I need to put on my watch.
+kentang goreng	french fries
+alkohol	alcohol
+bir	Beer
+menu	Menu
+nasi	Rice
+wain	Wine
+jus	Juice
+kek	Cake
+makan malam	dinner
+sarapan pagi	breakfast
+daging babi	Pork
+makan tengahari	Lunch
+daging	meat
+kad pengenalan	identification
+ikan	Fish
+daging lembu	Beef
+kopi	Coffee
+roti	Bread
+coklat	Chocolate
+makanan ringan	snack
+lesen memandu	Driving licence
+sandwich	Sandwich
+menghidangkan	To serve
+salad	Salad
+pasta	Pasta
+Apa yang hendak kamu makan?	What do you want to eat?
+Apa yang kamu hendak minum?	What do you want to drink?
+Saya mahu ikan dan susu dengan sandwich.	I’ll have the fish and milk with a sandwich please.
+Inginkah kamu mencuba nasi itu?	Would you like to try the rice?
+Bolehkah saya menerima kentang goreng?	May I have a french fry please?
+Bolehkah saya menerima sepotong kek?	May I have a cake please?
+Saya mahu ikan dan susu dengan kopi.	I’ll have the fish and milk with a coffee please.
+Sila tunjukkan lesen memandu anda.	Please show me your driver's license.
+Kami tidak memberi alkohol kepada sesiapa yang lebih muda daripada lapan belas tahun.	We don’t serve alcohol to anyone younger than eighteen.
+Mengapa kamu perlu melihat lesen memandu saya?	Why do you need to see my drivers license?
+Ini bir kamu.	Here is your beer.
+Ini minuman kamu.	Here is your drink.
+Sila tunjukkan kad pengenalan anda.	Please show me your identification.
+Mengapa kamu perlu melihat kad pengenalan saya?	Why do you need to see my identification?
+Saya tidak makan coklat.	I don’t eat chocolate.
+Bolehkah saya minum jus epal?	May I have some apple juice please?
+Saya hendak bir untuk makan malam.	I want a beer for dinner.
+Saya hendak bir untuk makan tengahari.	I want a beer for lunch.
+Saya tidak makan daging.	I don’t eat meat.
+Bolehkah saya minum jus oren?	May I have some orange juice please?
+Saya tidak makan roti.	I don’t eat bread.
+Saya hendak bir untuk sarapan pagi.	I want a beer for breakfast.
+Saya tidak makan salad.	I don’t eat salad.
+Saya mahu wain.	I want a wine please.
+Bir ialah minuman yang mempunyai alkohol di dalamnya.	A beer is a drink with alcohol in it.
+Saya hendak memesan ikan dengan roti.	I want to order the fish with bread please.
+"Apakah maksud perkataan ""bir""?"	What does the word “beer” mean?
+Saya hendak memesan ikan dengan daging lembu.	I want to order the fish with beef please.
+Saya hendak memesan ikan degan jus.	I want to order the fish with juice please.
+bau	Smell
+tidak ada apa-apa	nothing
+gula	sugar
+garam	salt
+rasa	Taste
+madu	Honey
+lada	pepper
+kesemuanya	Everything
+sos tomato	ketchup
+buah-buahan	Fruits
+sebaliknya	Instead
+sayur-sayuran	Vegetables
+bergantung kepada	To depend on
+sudah tentu	Of course
+sejuk	Cold
+panas	Hot
+mustard	Mustard
+sederhana	Medium
+besar	Large
+keju	Cheese
+dahsyat	Terrible
+masam	Sour
+manis	Sweet
+Pasta saya terlalu banyak.	My pasta is too large.
+Sayur saya terlalu masin.	My vegetables have too much salt.
+Kita sudah kehabisan sos tomato.	We are all out of ketchup.
+Saya mahu satu salad besar.	May I please have a large salad?
+Pasta saya terlalu panas.	My pasta is too hot.
+Saya mahu satu salad sederhana.	May I please have a medium salad?
+Bolehkah saya memesan satu salad kecil?	May I please have a small salad?
+Sayur saya tidak cukup masin	My vegetables have not enough salt.
+Sudah tentu ia percuma.	Of course it’s free.
+Kita sudah kehabisan keju.	We are all out of cheese.
+Sebaliknya, bolehkah saya memesan secawan kopi?	May I have some coffee instead?
+Adakah ia percuma?	Is it free?
 
 <=========================================== Got Up To Here ==========================================================>
 
-
-Bagaimana dengan beberapa pasang seluar yang baik?	How about some good pants?
-How about some good pants?	Bagaimana dengan beberapa pasang seluar yang baik?
-Kamu hendak membeli komputer yang mahal atau murah?	Do you want to buy an expensive or a cheap computer?
-Do you want to buy an expensive or a cheap computer?	Kamu hendak membeli komputer yang mahal atau murah?
-Kamu hendak membeli topi yang mahal atau topi yang murah?	Do you want to buy an expensive or a cheap hat?
-Do you want to buy an expensive or a cheap hat?	Kamu hendak membeli topi yang mahal atau topi yang murah?
-Saya hendak membeli susu untuk emak saya.	I want to buy milk for my mother.
-I want to buy milk for my mother.	Saya hendak membeli susu untuk emak saya.
-Hadiah jenis apakah yang hendak kamu beli?	What kind of gift do you want to buy?
-What kind of gift do you want to buy?	Hadiah jenis apakah yang hendak kamu beli?
-Bagaimana dengan beberapa pasang kasut yang baik?	How about some good shoes?
-How about some good shoes?	Bagaimana dengan beberapa pasang kasut yang baik?
-Saya hendak membeli gula-gula untuk emak saya.	I want to buy candy for my mother.
-I want to buy candy for my mother.	Saya hendak membeli gula-gula untuk emak saya.
-Pada pendapat kamu, apa yang patut saya beli untuk harijadi isteri saya?	What do you think I should buy my wife for her birthday?
-What do you think I should buy my wife for her birthday?	Pada pendapat kamu, apa yang patut saya beli untuk harijadi isteri saya?
-Saya perlu memakai pakaian saya.	I need to put on my clothes.
-I need to put on my clothes.	Saya perlu memakai pakaian saya.
-Saya tidak suka mengguna deodoran.	I don’t like to use deodorant.
-I don’t like to use deodorant.	Saya tidak suka mengguna deodoran.
-Saya tidak suka memakai sarung kaki.	I don’t like to wear socks.
-I don’t like to wear socks.	Saya tidak suka memakai sarung kaki.
-Saya tidak suka memakai earfon.	I don’t like to wear head phones.
-I don’t like to wear head phones.	Saya tidak suka memakai earfon.
-Tulis nama anda atas bateri itu dengan pen.	Write your name in pen on the battery.
-Write your name in pen on the battery.	Tulis nama anda atas bateri itu dengan pen.
-Saya tidak suka menggunakan kosmetik.	I don’t like to use makeup.
-I don’t like to use makeup.	Saya tidak suka menggunakan kosmetik.
-Tulis nama anda atas bijirin itu dengan pen.	Write your name in pen on the cereal.
-Write your name in pen on the cereal.	Tulis nama anda atas bijirin itu dengan pen.
-Tulis nama anda atas buku itu dengan pen.	Write your name in pen on the book.
-Write your name in pen on the book.	Tulis nama anda atas buku itu dengan pen.
-Saya tidak suka mengguna minyak wangi.	I don’t like to use perfume.
-I don’t like to use perfume.	Saya tidak suka mengguna minyak wangi.
-Saya perlu memakai jam tangan saya.	I need to put on my watch.
-I need to put on my watch.	Saya perlu memakai jam tangan saya.
-kentang goreng	french fries
-french fries	kentang goreng
-alkohol	alcohol
-alcohol	alkohol
-bir	Beer
-Beer	bir
-menu	Menu
-Menu	menu
-nasi	Rice
-Rice	nasi
-wain	Wine
-Wine	wain
-jus	Juice
-Juice	jus
-kek	Cake
-Cake	kek
-makan malam	dinner
-dinner	makan malam
-sarapan pagi	breakfast
-breakfast	sarapan pagi
-daging babi	Pork
-Pork	daging babi
-makan tengahari	Lunch
-Lunch	makan tengahari
-daging	meat
-meat	daging
-kad pengenalan	identification
-identification	kad pengenalan
-ikan	FIsh
-FIsh	ikan
-daging lembu	Beef
-Beef	daging lembu
-kopi	
-	kopi
-roti	Bread
-Bread	roti
-coklat	Chocolate
-Chocolate	coklat
-makanan ringan	snack
-snack	makanan ringan
-lesen memandu	
-	lesen memandu
-sandwich	Sandwich
-Sandwich	sandwich
-menghidangkan	To serve
-To serve	menghidangkan
-salad	Salad
-Salad	salad
-pasta	Pasta
-Pasta	pasta
-Apa yang hendak kamu makan?	What do you want to eat?
-What do you want to eat?	Apa yang hendak kamu makan?
-Apa yang kamu hendak minum?	What do you want to drink?
-What do you want to drink?	Apa yang kamu hendak minum?
-Saya mahu ikan dan susu dengan sandwich.	I’ll have the fish and milk with a sandwich please.
-I’ll have the fish and milk with a sandwich please.	Saya mahu ikan dan susu dengan sandwich.
-Inginkah kamu mencuba nasi itu?	Would you like to try the rice?
-Would you like to try the rice?	Inginkah kamu mencuba nasi itu?
-Bolehkah saya menerima kentang goreng?	May I have a french fry please?
-May I have a french fry please?	Bolehkah saya menerima kentang goreng?
-Bolehkah saya menerima sepotong kek?	May I have a cake please?
-May I have a cake please?	Bolehkah saya menerima sepotong kek?
-Saya mahu ikan dan susu dengan kopi.	I’ll have the fish and milk with a coffee please.
-I’ll have the fish and milk with a coffee please.	Saya mahu ikan dan susu dengan kopi.
-Sila tunjukkan lesen memandu anda.	Please show me your driver's license.
-Please show me your driver's license.	Sila tunjukkan lesen memandu anda.
-Kami tidak memberi alkohol kepada sesiapa yang lebih muda daripada lapan belas tahun.	We don’t serve alcohol to anyone younger than eighteen.
-We don’t serve alcohol to anyone younger than eighteen.	Kami tidak memberi alkohol kepada sesiapa yang lebih muda daripada lapan belas tahun.
-Mengapa kamu perlu melihat lesen memandu saya?	Why do you need to see my drivers license?
-Why do you need to see my drivers license?	Mengapa kamu perlu melihat lesen memandu saya?
-Ini bir kamu.	Here is your beer.
-Here is your beer.	Ini bir kamu.
-Ini minuman kamu.	Here is your drink.
-Here is your drink.	Ini minuman kamu.
-Sila tunjukkan kad pengenalan anda.	Please show me your identification.
-Please show me your identification.	Sila tunjukkan kad pengenalan anda.
-Mengapa kamu perlu melihat kad pengenalan saya?	Why do you need to see my identification?
-Why do you need to see my identification?	Mengapa kamu perlu melihat kad pengenalan saya?
-Saya tidak makan coklat.	I don’t eat chocolate.
-I don’t eat chocolate.	Saya tidak makan coklat.
-Bolehkah saya minum jus epal?	May I have some apple juice please?
-May I have some apple juice please?	Bolehkah saya minum jus epal?
-Saya hendak bir untuk makan malam.	I want a beer for dinner.
-I want a beer for dinner.	Saya hendak bir untuk makan malam.
-Saya hendak bir untuk makan tengahari.	I want a beer for lunch.
-I want a beer for lunch.	Saya hendak bir untuk makan tengahari.
-Saya tidak makan daging.	I don’t eat meat.
-I don’t eat meat.	Saya tidak makan daging.
-Bolehkah saya minum jus oren?	May I have some orange juice please?
-May I have some orange juice please?	Bolehkah saya minum jus oren?
-Saya tidak makan roti.	I don’t eat bread.
-I don’t eat bread.	Saya tidak makan roti.
-Saya hendak bir untuk sarapan pagi.	I want a beer for breakfast.
-I want a beer for breakfast.	Saya hendak bir untuk sarapan pagi.
-Saya tidak makan salad.	I don’t eat salad.
-I don’t eat salad.	Saya tidak makan salad.
-Saya mahu wain.	I want a wine please.
-I want a wine please.	Saya mahu wain.
-Bir ialah minuman yang mempunyai alkohol di dalamnya.	A beer is a drink with alcohol in it.
-A beer is a drink with alcohol in it.	Bir ialah minuman yang mempunyai alkohol di dalamnya.
-Saya hendak memesan ikan dengan roti.	I want to order the fish with bread please.
-I want to order the fish with bread please.	Saya hendak memesan ikan dengan roti.
-"Apakah maksud perkataan ""bir""?"	What does the word “beer” mean?
-What does the word “beer” mean?	"Apakah maksud perkataan ""bir""?"
-Saya hendak memesan ikan dengan daging lembu.	I want to order the fish with beef please.
-I want to order the fish with beef please.	Saya hendak memesan ikan dengan daging lembu.
-Saya hendak memesan ikan degan jus.	I want to order the fish with juice please.
-I want to order the fish with juice please.	Saya hendak memesan ikan degan jus.
-bau	Smell
-Smell	bau
-tidak ada apa-apa	nothing
-nothing	tidak ada apa-apa
-gula	sugar
-sugar	gula
-garam	salt
-salt	garam
-rasa	Taste
-Taste	rasa
-madu	Honey
-Honey	madu
-lada	pepper
-pepper	lada
-kesemuanya	Everything
-Everything	kesemuanya
-sos tomato	ketchup
-ketchup	sos tomato
-buah-buahan	Fruits
-Fruits	buah-buahan
-sebaliknya	Instead
-Instead	sebaliknya
-sayur-sayuran	Vegetables
-Vegetables	sayur-sayuran
-bergantung kepada	To depend on
-To depend on	bergantung kepada
-sudah tentu	Of course
-Of course	sudah tentu
-sejuk	Cold
-Cold	sejuk
-panas	Hot
-Hot	panas
-mustard	Mustard
-Mustard	mustard
-sederhana	Medium
-Medium	sederhana
-besar	Large
-Large	besar
-keju	Cheese
-Cheese	keju
-dahsyat	Terrible
-Terrible	dahsyat
-masam	Sour
-Sour	masam
-manis	Sweet
-Sweet	manis
-Pasta saya terlalu banyak.	My pasta is too large.
-My pasta is too large.	Pasta saya terlalu banyak.
-Sayur saya terlalu masin.	My vegetables have too much salt.
-My vegetables have too much salt.	Sayur saya terlalu masin.
-Kita sudah kehabisan sos tomato.	We are all out of ketchup.
-We are all out of ketchup.	Kita sudah kehabisan sos tomato.
-Saya mahu satu salad besar.	May I please have a large salad?
-May I please have a large salad?	Saya mahu satu salad besar.
-Pasta saya terlalu panas.	My pasta is too hot.
-My pasta is too hot.	Pasta saya terlalu panas.
-Saya mahu satu salad sederhana.	May I please have a medium salad?
-May I please have a medium salad?	Saya mahu satu salad sederhana.
-Bolehkah saya memesan satu salad kecil?	May I please have a small salad?
-May I please have a small salad?	Bolehkah saya memesan satu salad kecil?
-Sayur saya tidak cukup masin	My vegetables have not enough salt.
-My vegetables have not enough salt.	Sayur saya tidak cukup masin
-Sudah tentu ia percuma.	Of course it’s free.
-Of course it’s free.	Sudah tentu ia percuma.
-Kita sudah kehabisan keju.	We are all out of cheese.
-We are all out of cheese.	Kita sudah kehabisan keju.
-Sebaliknya, bolehkah saya memesan secawan kopi?	May I have some coffee instead?
-May I have some coffee instead?	Sebaliknya, bolehkah saya memesan secawan kopi?
-Adakah ia percuma?	Is it free?
-Is it free?	Adakah ia percuma?
 Sebaliknya, bolehkah saya memesan mustard?	May I have some mustard instead?
 May I have some mustard instead?	Sebaliknya, bolehkah saya memesan mustard?
 Kita sudah kehabisan garam.	We are all out of salt.
