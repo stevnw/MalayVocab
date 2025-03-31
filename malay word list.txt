@@ -2075,9 +2075,6 @@ kuping	Scab
 bahu	Shoulder
 cantik	Beautiful
 otot	Muscle
-
-
-
 rambut	Hair
 leher	Neck
 melukai	To hurt
@@ -2136,185 +2133,98 @@ Saya selsema.	I had a cold.
 Mengapakah kamu tidak datang ke parti saya semalam?	Why did you miss my birthday party yesterday?
 Jika kulit kamu terselar, kamu mungkin ternyahhidrat.	If you have a sunburn you might be dehydrated.
 Jika kamu pening, kamu mungkin ternyahhidrat.	If you have dizziness you might be dehydrated.
+Jari saya dicederakan pintu itu.	I bruised my finger in the door.
+Kamu ok?	Are you okay?
+Bolehkah saya tidak datang ke kerja esok?	Is it okay to miss work tomorrow?
+Tangan saya dicederakan pintu itu.	I bruised my hand in the door.
+Kepala saya kadang kala sakit.	My head sometimes hurts.
+Saya terjatuh dan jari saya patah.	I fell and broke my finger.
+Kamu akan mendapat kanser paru-paru jika kamu merokok.	If you smoke cigarettes you might get lung cancer.
+Kepala saya jarang sakit.	My head rarely hurts.
+Saya tersandung dan jatuh.	I stumbled and fell.
+saya terjatuh dan lengan saya patah.	I fell and broke my arm.
+Kamu mungkin akan mendapat kanser kerongkong.	You might get throat cancer.
+Kepala saya selalu sakit.	My head often hurts.
+Kepala saya sakit teruk.	I have severe pain in my head.
+Kepala saya sakit sedikit.	I have slight pain in my head.
+Rokok kamu berbau busuk.	Your cigarettes smell bad.
+Saya cirit-birit sedikit.	I have slight diarrhea.
+Rokok kamu berbau harum.	Your cigarettes smell good.
+Saya cirit-birit teruk.	I have severe diarrhea.
+Saya tidak ada cirit-birit.	I have no diarrhea.
+meregangkan	To stretch
+ais	Ice
+merasa	To feel
+pelindung matahari	Sunscreen
+probabiliti	Probability
+tinggal di rumah	To stay home
+mencuci	To wash
+vitamin C	Vitamin C
+meningkatkan	To increase
+diet	to diet
+pembalut	Bandage
+sakit	Pain
+hamil	Pregnant
+tisu	Tissue
+berbaring	To lay down
+berehat	To relax
+bengkak	Swelling
+dadah	Drugs
+ibuprofen	Ibuprofen
+Kamu patut berehat jika kamu sakit kerongkong.	If you have a sore throat, you should relax.
+Kenapa belakang kamu sakit?	Why does your back hurt?
+Saya perlu berbaring.	I have to lay down.
+Saya rasa saya akan jatuh sakit.	I feel like I’m getting sick.
+Saya perlu tinggal di rumah.	I have to stay home.
+Ambil ibuprofen untuk mengurangkan bengkak.	Take ibuprofen to reduce swelling.
+Kamu patut makan ubat.	You should take medicine.
+Apa yang doktor kata?	What did the doctor say?
+Doktor kata harus berdiet dan meregangkan otot untuk mengurangkan tekanan.	The doctor said to go on a diet and stretch to reduce stress.
+Saya selsema, adakah ok jika saya tidak bekerja hari ini?	Is it okay to miss work today because I have a cold?
+Kamu patut mencuci mukamu selalu.	You should wash your face often.
+Itulah yang kamu patut buat.	Then that is what you should do.
+Regangkan otot untuk mengurangkan sakit belakang.	Stretch to reduce back pain.
+Oleh kerana perut saya sakit teruk, bolehkah saya tinggal di rumah?	Since I have severe stomach pain, is it okay to stay home from work?
+Kamu patut mencuci tanganmu selalu supaya kamu tidak akan jatuh sakit.	You should wash your hands often so that you don’t get sick.
+Dadah akan meningkatkan kemungkinan anda mendapat kanser.	Drugs increase your probability of getting cancer.
+Bolehkah saya mengambil ais?	May I please have ice?
+Bolehkah saya mengambil satu pembalut?	May I please have a bandage?
+Bolehkah saya mengambil satu tisu?	May I please have a tissue?
+Merokok akan meningkatkan kemungkinan anda mendapat kanser.	Smoking increases your probability of getting cancer.
+Saya terpaksa tinggal di rumah.	I had to stay home.
+Oleh sebab saya sakit, saya tidak pergi ke sekolah dan terpaksa tinggal di rumah.	Since I got sick, I had to stay home from school.
+Saya perlukan ubat cirit-birit.	I need diarrhea medicine please.
+Kamu patut berbaring supaya kamu rasa lebih baik.	You should lay down to feel better.
+Sila berehat jika kamu rasa sakit.	If you feel sick, please relax.
+Saya mahu kamu tidur.	I want you to sleep.
+Saya mahu kamu berehat.	I want you to relax.
+Sila minum air jika kamu rasa sakit.	If you feel sick, please drink water.
+Saya perlukan ubat sakit.	I need pain medicine please.
+mati	Dead
+tegap	Muscular
+kurus	Thin
+pucat	Pale
+kulit perang	Tan
+hidup	Alive
+gemuk	Overweight
+berambut perang muda	Blonde
+tinggi	Tall
+pendek	Short
+penyakit	Disease
+menjadi	To become
+menggambarkan	To describe
+rupa	Appearance
+tidak sihat	Unhealthy
+postur	Posture
+hodoh	Ugly
+sihat	Healthy
+Kenapa Ken begitu kurus?	Why is Ken so thin?
+Dia sangat muda.	He’s very young.
+Saya rasa dia berpenyakit	I think she has a disease.
 
 <=========================================== Got Up To Here ==========================================================>
 
-Jari saya dicederakan pintu itu.	I bruised my finger in the door.
-I bruised my finger in the door.	Jari saya dicederakan pintu itu.
-Kamu ok?	Are you okay?
-Are you okay?	Kamu ok?
-Bolehkah saya tidak datang ke kerja esok?	Is it okay to miss work tomorrow?
-Is it okay to miss work tomorrow?	Bolehkah saya tidak datang ke kerja esok?
-Tangan saya dicederakan pintu itu.	I bruised my hand in the door.
-I bruised my hand in the door.	Tangan saya dicederakan pintu itu.
-Kepala saya kadang kala sakit.	My head sometimes hurts.
-My head sometimes hurts.	Kepala saya kadang kala sakit.
-Saya terjatuh dan jari saya patah.	I fell and broke my finger.
-I fell and broke my finger.	Saya terjatuh dan jari saya patah.
-Kamu akan mendapat kanser paru-paru jika kamu merokok.	If you smoke cigarettes you might get lung cancer.
-If you smoke cigarettes you might get lung cancer.	Kamu akan mendapat kanser paru-paru jika kamu merokok.
-Kepala saya jarang sakit.	My head rarely hurts.
-My head rarely hurts.	Kepala saya jarang sakit.
-Saya tersandung dan jatuh.	I stumbled and fell.
-I stumbled and fell.	Saya tersandung dan jatuh.
-saya terjatuh dan lengan saya patah.	I fell and broke my arm.
-I fell and broke my arm.	saya terjatuh dan lengan saya patah.
-Kamu mungkin akan mendapat kanser kerongkong.	You might get throat cancer.
-You might get throat cancer.	Kamu mungkin akan mendapat kanser kerongkong.
-Kepala saya selalu sakit.	My head often hurts.
-My head often hurts.	Kepala saya selalu sakit.
-Kepala saya sakit teruk.	I have severe pain in my head.
-I have severe pain in my head.	Kepala saya sakit teruk.
-Kepala saya sakit sedikit.	I have slight pain in my head.
-I have slight pain in my head.	Kepala saya sakit sedikit.
-Rokok kamu berbau busuk.	Your cigarettes smell bad.
-Your cigarettes smell bad.	Rokok kamu berbau busuk.
-Saya cirit-birit sedikit.	I have slight diarrhea.
-I have slight diarrhea.	Saya cirit-birit sedikit.
-Rokok kamu berbau harum.	Your cigarettes smell good.
-Your cigarettes smell good.	Rokok kamu berbau harum.
-Saya cirit-birit teruk.	I have severe diarrhea.
-I have severe diarrhea.	Saya cirit-birit teruk.
-Saya tidak ada cirit-birit.	I have no diarrhea.
-I have no diarrhea.	Saya tidak ada cirit-birit.
-meregangkan	To stretch
-To stretch	meregangkan
-ais	Ice
-Ice	ais
-merasa	To feel
-To feel	merasa
-pelindung matahari	Sunscreen
-Sunscreen	pelindung matahari
-probabiliti	Probability
-Probability	probabiliti
-tinggal di rumah	To stay home
-To stay home	tinggal di rumah
-mencuci	To wash
-To wash	mencuci
-vitamin C	Vitamin C
-Vitamin C	vitamin C
-meningkatkan	To increase
-To increase	meningkatkan
-diet	to diet
-to diet	diet
-pembalut	Bandage
-Bandage	pembalut
-sakit	Pain
-Pain	sakit
-hamil	Pregnant
-Pregnant	hamil
-tisu	Tissue
-Tissue	tisu
-berbaring	To lay down
-To lay down	berbaring
-berehat	To relax
-To relax	berehat
-bengkak	Swelling
-Swelling	bengkak
-dadah	Drugs
-Drugs	dadah
-ibuprofen	Ibuprofen
-Ibuprofen	ibuprofen
-Kamu patut berehat jika kamu sakit kerongkong.	If you have a sore throat, you should relax.
-If you have a sore throat, you should relax.	Kamu patut berehat jika kamu sakit kerongkong.
-Kenapa belakang kamu sakit?	Why does your back hurt?
-Why does your back hurt?	Kenapa belakang kamu sakit?
-Saya perlu berbaring.	I have to lay down.
-I have to lay down.	Saya perlu berbaring.
-Saya rasa saya akan jatuh sakit.	I feel like I’m getting sick.
-I feel like I’m getting sick.	Saya rasa saya akan jatuh sakit.
-Saya perlu tinggal di rumah.	I have to stay home.
-I have to stay home.	Saya perlu tinggal di rumah.
-Ambil ibuprofen untuk mengurangkan bengkak.	Take ibuprofen to reduce swelling.
-Take ibuprofen to reduce swelling.	Ambil ibuprofen untuk mengurangkan bengkak.
-Kamu patut makan ubat.	You should take medicine.
-You should take medicine.	Kamu patut makan ubat.
-Apa yang doktor kata?	What did the doctor say?
-What did the doctor say?	Apa yang doktor kata?
-Doktor kata harus berdiet dan meregangkan otot untuk mengurangkan tekanan.	The doctor said to go on a diet and stretch to reduce stress.
-The doctor said to go on a diet and stretch to reduce stress.	Doktor kata harus berdiet dan meregangkan otot untuk mengurangkan tekanan.
-Saya selsema, adakah ok jika saya tidak bekerja hari ini?	Is it okay to miss work today because I have a cold?
-Is it okay to miss work today because I have a cold?	Saya selsema, adakah ok jika saya tidak bekerja hari ini?
-Kamu patut mencuci mukamu selalu.	You should wash your face often.
-You should wash your face often.	Kamu patut mencuci mukamu selalu.
-Itulah yang kamu patut buat.	Then that is what you should do.
-Then that is what you should do.	Itulah yang kamu patut buat.
-Regangkan otot untuk mengurangkan sakit belakang.	Stretch to reduce back pain.
-Stretch to reduce back pain.	Regangkan otot untuk mengurangkan sakit belakang.
-Oleh kerana perut saya sakit teruk, bolehkah saya tinggal di rumah?	Since I have severe stomach pain, is it okay to stay home from work?
-Since I have severe stomach pain, is it okay to stay home from work?	Oleh kerana perut saya sakit teruk, bolehkah saya tinggal di rumah?
-Kamu patut mencuci tanganmu selalu supaya kamu tidak akan jatuh sakit.	You should wash your hands often so that you don’t get sick.
-You should wash your hands often so that you don’t get sick.	Kamu patut mencuci tanganmu selalu supaya kamu tidak akan jatuh sakit.
-Dadah akan meningkatkan kemungkinan anda mendapat kanser.	Drugs increase your probability of getting cancer.
-Drugs increase your probability of getting cancer.	Dadah akan meningkatkan kemungkinan anda mendapat kanser.
-Bolehkah saya mengambil ais?	May I please have ice?
-May I please have ice?	Bolehkah saya mengambil ais?
-Bolehkah saya mengambil satu pembalut?	May I please have a bandage?
-May I please have a bandage?	Bolehkah saya mengambil satu pembalut?
-Bolehkah saya mengambil satu tisu?	May I please have a tissue?
-May I please have a tissue?	Bolehkah saya mengambil satu tisu?
-Merokok akan meningkatkan kemungkinan anda mendapat kanser.	Smoking increases your probability of getting cancer.
-Smoking increases your probability of getting cancer.	Merokok akan meningkatkan kemungkinan anda mendapat kanser.
-Saya terpaksa tinggal di rumah.	I had to stay home.
-I had to stay home.	Saya terpaksa tinggal di rumah.
-Oleh sebab saya sakit, saya tidak pergi ke sekolah dan terpaksa tinggal di rumah.	Since I got sick, I had to stay home from school.
-Since I got sick, I had to stay home from school.	Oleh sebab saya sakit, saya tidak pergi ke sekolah dan terpaksa tinggal di rumah.
-Saya perlukan ubat cirit-birit.	I need diarrhea medicine please.
-I need diarrhea medicine please.	Saya perlukan ubat cirit-birit.
-Kamu patut berbaring supaya kamu rasa lebih baik.	You should lay down to feel better.
-You should lay down to feel better.	Kamu patut berbaring supaya kamu rasa lebih baik.
-Sila berehat jika kamu rasa sakit.	If you feel sick, please relax.
-If you feel sick, please relax.	Sila berehat jika kamu rasa sakit.
-Saya mahu kamu tidur.	I want you to sleep.
-I want you to sleep.	Saya mahu kamu tidur.
-Saya mahu kamu berehat.	I want you to relax.
-I want you to relax.	Saya mahu kamu berehat.
-Sila minum air jika kamu rasa sakit.	If you feel sick, please drink water.
-If you feel sick, please drink water.	Sila minum air jika kamu rasa sakit.
-Saya perlukan ubat sakit.	I need pain medicine please.
-I need pain medicine please.	Saya perlukan ubat sakit.
-mati	Dead
-Dead	mati
-tegap	Muscular
-Muscular	tegap
-kurus	Thin
-Thin	kurus
-pucat	Pale
-Pale	pucat
-kulit perang	Tan
-Tan	kulit perang
-hidup	Alive
-Alive	hidup
-gemuk	Overweight
-Overweight	gemuk
-berambut perang muda	Blonde
-Blonde	berambut perang muda
-tinggi	Tall
-Tall	tinggi
-pendek	Short
-Short	pendek
-penyakit	Disease
-Disease	penyakit
-menjadi	To become
-To become	menjadi
-menggambarkan	To describe
-To describe	menggambarkan
-rupa	Appearance
-Appearance	rupa
-tidak sihat	Unhealthy
-Unhealthy	tidak sihat
-postur	Posture
-Posture	postur
-hodoh	Ugly
-Ugly	hodoh
-sihat	Healthy
-Healthy	sihat
-Kenapa Ken begitu kurus?	Why is Ken so thin?
-Why is Ken so thin?	Kenapa Ken begitu kurus?
-Dia sangat muda.	He’s very young.
-He’s very young.	Dia sangat muda.
-Saya rasa dia berpenyakit	I think she has a disease.
-I think she has a disease.	Saya rasa dia berpenyakit
+
 Kamu sedikit gemuk.	You are a little overweight.
 You are a little overweight.	Kamu sedikit gemuk.
 Kamu sangat gemuk.	You are very overweight.
