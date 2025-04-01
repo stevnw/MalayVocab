@@ -2221,942 +2221,473 @@ sihat	Healthy
 Kenapa Ken begitu kurus?	Why is Ken so thin?
 Dia sangat muda.	He’s very young.
 Saya rasa dia berpenyakit	I think she has a disease.
+Kamu sedikit gemuk.	You are a little overweight.
+Kamu sangat gemuk.	You are very overweight.
+Dia sangat pendek.	He’s very short.
+Kenapa Ken begitu gemuk?	Why is Ken so overweight?
+Sila gambarkan rambut Ken.	Please describe Ken’s hair.
+Merokok adalah sihat.	It’s healthy to smoke.
+Sila gambarkan ketinggian Ken.	Please describe Ken’s height.
+Senaman baik untuk kesihatan.	It’s healthy to exercise.
+Sila gambarkan rupa Ken.	Please describe Ken’s appearance.
+Merokok adalah tidak sihat.	It’s unhealthy to smoke.
+Tidak, bukan begitu.	No, it isn’t.
+Saya hendak menjadi lebih kurus tetapi saya tidak mahu makan dengan sihatnya ataupun bersenam.	I want to get thinner, but I don’t want to eat healthy or exercise.
+Kamu kelihatan seperti kamu sudah bertambah gemuk.	You look like you got more overweight.
+Bagaimana rupa saya?	How do I look?
+Apakah pendapat kamu tentang rupa saya?	How do you think I look?
+Kamu kelihatan seperti kamu sudah bertambah kurus.	You look like you got thinner.
+Erica kelihatan seperti dia sudah menjadi lebih sakit.	Erica looks like she became more unhealthy.
+Erica kelihatan seperti dia sudah bertambah pucat.	Erica looks like she became more pale.
+Kamu kelihatan seperti kamu sudah bertambah tua.	You look like you got older.
+Erica mempunyai penglihatan yang lemah.	Erica has bad eyes.
+Apakah warna rambutnya?	What color is his hair?
+Erica mempunyai penglihatan yang baik.	Erica has good eyes.
+Saya menjadi marah apabila dia kata saya sangat gemuk.	I got angry when she said I was overweight.
+Dia kata saya hodoh.	He said I was ugly.
+Ken mempunyai rambut panjang berwarna perang.	Ken has long brown hair.
+Ken mempunyai rambut pendek berwarna perang.	Ken has short brown hair.
+ambulans	Ambulance
+hospital	Hospital
+bergegas-gegas	To hurry
+dahi	Forehead
+kecederaan	Injury
+berdiri	To stand
+kebakaran	Fire
+sakit jantung	heart attack
+strok	Stroke
+bibir	Lip
+kencing manis	Diabetic
+pipi	Cheek
+menghantar	To take
+tulang yang patah	Broken bone
+kekejangan haid	menstrual cramp
+mati	To die
+kecemasan	Emergency
+berdarah	To bleed
+bernafas	To breathe
+aduh!	Ouch
+Bibir anda sedang berdarah.	Your lip is bleeding.
+Sila hantar saya ke hospital sekarang.	Please take me to the hospital now.
+Hubungi hospital sekarang.	Call the hospital now.
+Pipi anda sedang berdarah.	Your cheek is bleeding.
+Hubungi ambulans sekarang.	Call an ambulance now.
+Hubungi polis sekarang.	Call the police now.
+Saya memerlukan doktor kerana saya tercedera.	I need a doctor because I have an injury.
+Kamu patut pergi ke hospital sekarang jika kamu rasa kamu terkena strok.	If you think you’re having a stroke, you should go to the hospital now.
+Saya rasa saya terkena strok.	I think I’m having a stroke.
+Kamu patut pergi ke hospital sekarang.	You should go to the hospital now.
+Saya rasa saya diserang sakit jantung.	I think I’m having a heart attack.
+Saya memerlukan doktor kerana kecemasan.	I need a doctor because I have an emergency.
+Tulang saya patah.	I have a broken bone.
+Tahukah kamu bahawa lehermu sedang berdarah?	Did you know that your neck is bleeding?
+Tahukah kamu bahawa dahimu sedang berdarah?	Did you know that your forehead is bleeding?
+Jangan risau, kamu tidak akan mati.	Don’t worry, you’re not going to die.
+Saya tidak mahu mati.	I don’t want to die.
+Tidak, saya tidak tahu.	No, I did not know.
+Saya tidak mahu bergegas-gegas.	I don’t want to hurry.
+Tahukah kamu bahawa dahimu lebam?	Did you know that your forehead is bruised?
+Tahukah kamu bahawa lehermu lebam?	Did you know that your neck is bruised?
+Oleh kerana jari saya patah, saya perlu pergi ke hospital.	Since I broke my finger, I had to go to the hospital.
+Saya sedang berdarah.	I’m bleeding.
+Saya nazak	I’m dying.
+Oleh kerana hidung saya patah, saya perlu pergi ke hospital.	Since I broke my nose, I had to go to the hospital.
+Susah untuk bernafas.	It’s hard to breathe.
+Susah untuk berdiri.	It’s hard to stand.
+Saya dalam kesakitan.	I’m in pain.
+Saya sedang bergegas.	I’m hurrying.
+kuda	Horse
+unta	Camel
+kapal terbang	Plane
+berjalan	To walk
+basikal	Bicycle
+memandu	To drive
+terbang	To fly
+penerbangan	Flight
+lori	Truck
+keretapi	Train
+cepat	Fast
+kapal	Ship
+paling cepat	Fastest
+berlari	To run
+bas	Bus
+lebih cepat	faster
+berenang	To swim
+barangkali	Probably
+jet	Jet
+cara	Way
+menunggang	To ride
+perahu	Boat
+sudah tentu	definitely
+teksi	Taxi
+Adakah kereta ataupun kapal adalah lebih cepat?	Is a car or a ship faster?
+Adakah kereta ataupun berjalan kaki adalah lebih cepat?	Is a car or walking faster?
+Barangkali ia adalah lebih cepat.	It would probably be faster.
+Barangkali ia adalah lebih lambat jika saya memandu ke sana.	If I were to drive there it would probably be slower.
+Sudah tentu kapal terbang adalah lebih cepat daripada keretapi.	An airplane is definitely faster than a train.
+Kamu patut menaiki keretapi kerana ia adalah lebih cepat.	You should take a train because it’s faster.
+Barangkali kapal terbang adalah lebih cepat daripada keretapi.	An airplane is probably faster than a train.
+Kamu patut menaiki keretapi kerana ia adalah lebih murah.	You should take a train because it’s cheaper.
+Penerbangan saya lewat.	My flight was late.
+Kadang kala saya suka berenang.	I like to swim sometimes.
+Saya akan menunggang unta ke sekolah.	I’ll ride the camel to school.
+Penerbangan saya awal.	My flight was early.
+Saya akan menunggang kuda ke sekolah.	I’ll ride the horse to school.
+Saya akan menaiki teksi ke Paris.	I’m going to take a taxi to Paris.
+Saya akan menaiki kapal terbang ke Paris.	I’m going to take an airplane to Paris.
+Kadang kala saya suka berlari.	I like to run sometimes.
+Kita patut pergi bersama-sama.	We should go together.
+Awak tidak patut menaiki bas jika awak boleh berjalan ke situ.	You shouldn’t take a bus if you can walk there.
+Patutkah kita menaiki keretapi yang sama ke Rusia?	Should we ride the same train to Russia?
+Awak patut menaiki jet.	You should take a jet.
+Kita patut naik bersama-sama.	We should ride together.
+Oleh sebab saya terlepas perahu saya, saya terpaksa berenang ke sini.	Since I missed the boat I had to swim here.
+Saya terlepas penerbangan saya.	I missed my flight.
+Patutkah kita menaiki bas yang sama?	Should we ride the same bus?
+Apakah cara yang termurah untuk pergi ke situ?	What is the cheapest way to go?
+Cara yang paling cepat ialah dengan menaiki teksi tetapi ia juga adalah cara yang termahal.	The fastest way to go is by taxi, but it’s also the most expensive way.
+Cara yang termurah ialah dengan berjalan kaki tetapi ia juga adalah cara yang terlambat.	The cheapest way to go is to walk, but it is also the slowest way.
+Cara yang paling cepat ialah dengan menaiki kapal terbang.	The fastest way is by plane.
+Apakah cara yang paling cepat untuk sampai ke Paris?	What is the fastest way to get to Paris?
+New York	New York
+untuk sampai ke	To get into
+suatu hari nanti	Sometime
+Tokyo	Tokyo
+Amerika Utara	North America
+Amerika Selatan	South America
+bandar yang kecil	Small town
+paspot	Passport
+Beijing	Beijing
+bandar	City
+negara	Country
+Asia	Asia
+Afrika	Africa
+dibesarkan	To raise
+China	China
+London	London
+India	India
+Los Angeles	Los Angeles
+Amerika	The United States
+Eropah	Europe
+kemudian	Then
+Jerman	Germany
+Di manakah London?	Where is London?
+Naik keretapi ke Tokyo.	Take a train to Tokyo.
+Bagaimanakah kamu pergi ke Jerman?	How did you get to Germany?
+Saya menaiki kapal terbang ke Afrika.	I took an airplane to Africa.
+China ialah sebuah negara yang besar dalam Asia.	China is a large country in Asia.
+Naik keretapi ke Beijing.	Take a train to Beijing.
+Saya menaiki kapal terbang ke Los Angeles.	I took an airplane to Los Angeles.
+Bagaimanakah kamu pergi ke Los Angeles?	How did you get to Los Angeles?
+Populasi Amerika ialah kira-kira tiga ratus juta.	The population of the United States is about three hundred million.
+Boleh saya memeriksa pasport anda?	May I have your passport please?
+Ia mengambil masa kira-kira lima jam untuk sampai ke Jerman dari sini.	It takes about five hours by airplane to get to Germany from here.
+Boleh saya memeriksa beg anda?	May I have your bag please?
+Apakah populasi Los Angeles?	What is the population of Los Angeles?
+Kira-kira berapa lamakah yang akan diambil untuk sampai ke Amerika Selatan dari Amerika Utara?	About how long does it take to get to South America from North America?
+Ya, saya pernah ke London.	Yes, I have been to London.
+Ya, saya pernah ke Los Angeles.	Yes, I have been to Los Angeles.
+Pernahkah kamu ke Beijing?	Have you ever been to Beijing?
+Pernahkah kamu ke Amerika?	Have you ever been to the United States?
+Tidak, saya tidak pernah ke Eropah tetapi saya ingin ke situ suatu hari nanti.	No, I have never been to Europe, but I want to go sometime.
+Tidak, saya tidak pernah ke New York tetapi saya ingin ke situ suatu hari nanti.	No, I have never been to New York, but I want to go sometime.
+Saya berasal dari satu bandar yang kecil dekat dengan London.	I’m from a small town near London.
+Kamu berasal dari mana?	Where are you from?
+Beijing ialah satu bandar dalam Asia.	Beijing is a city in Asia.
+Saya dilahirkan dan dibesarkan di China.	I was born in New York and raised in China.
+Di manakah kamu dilahirkan?	Where were you born?
+Di manakah kamu dibesarkan?	Where were you raised?
+Dia dilahirkan di Afrika dan kemudiannya berpindah ke India dalam tahun dua ribu sepuluh.	She was born in Africa and then moved to India in two thousand ten.
+di	At
+beredar	To leave
+luar	Out
+telefon awam	public telephone
+berhenti	To stop/Stop
+sampai	To arrive
+ke	To
+selamat datang	Welcome
+pintu	Gate
+pertukaran wang	Money exchange
+pergi	To travel
+bertukar	to transfer
+barat	West
+timurtimur	East
+utara	North
+selatan	South
+arah	direction
+visa	Visa
+masuk	To enter
+Bilakah kamu meninggalkan Los Angeles?	When did you leave Los Angeles?
+Saya sampai empat hari yang lalu.	I arrived four days ago.
+Bilakah kamu sampai di Los Angeles?	When did you arrive in Los Angeles?
+Ke manakah patut saya pergi?	Where should I go?
+Bilakah kamu datang ke Los Angeles?	When did you come to Los Angeles?
+Saya pergi empat hari yang lalu.	I went four days ago.
+Saya datang empat hari yang lalu.	I came four days ago.
+Pergi ke timur laut.	Go north east.
+Kita akan sampai ke Eropah pada lima belas haribulan.	We will arrive to Europe on the fifteenth.
+Bilakah kamu akan sampai ke Beijing?	When will you arrive in Beijing?
+Pergi ke barat laut.	Go north west.
+Kita akan pergi ke Eropah pada lima belas haribulan.	We will leave to Europe on the fifteenth.
+Bilakah kamu akan pergi ke Beijing?	When will you leave Beijing?
+Saya tidah boleh pergi ke Amerika tanpa pasport dan visa.	You can’t come to the United States without a passport and a visa.
+Kamu tidak boleh pergi ke India.	You can’t travel to India.
+Berhenti dalam masa lima minit.	Stop in five minutes.
+Ke mari dalam masa lima minit.	Come in five minutes.
+Di manakah pengurup wang itu?	Where is the money exchange please?
+Beredar dalam masa lima minit.	Leave in five minutes.
+Masuk pintu timur.	Enter through the east gate.
+Masuk pintu barat.	Enter through the west gate.
+Di manakah telefon awam?	Where is the public telephone please?
+Bertukar di Los Angeles untuk pergi ke India.	Transfer in Los Angeles to get to India.
+Pergi ke selatan.	Go south.
+Arah yang manakah patut saya pergi?	Which direction should I go?
+Pandu timur ke Jerman.	Drive east to Germany.
+Bagaimanakah patut saya pergi ke Beijing?	How should I go to Beijing?
+Pergi ke utara.	Go north.
+Bertukar di London untuk pergi ke India.	Transfer in London to get to India.
+Pergi timur ke Jerman.	Travel east to Germany.
+bising	Noisy
+kedutaan	Embassy
+perhentian bas	Bus stop
+ateis	Atheist
+pejabat pos	Post office
+bunyi	Noise
+stesen	Station
+penganut agama Hindu	Hindu
+tingkat keempat	Fourth floor
+lapangan terbang	Airport
+bank	Bank
+bangunan	Building
+taman	Park
+penganut agama Buddha	Buddhist
+penganut agama Islam	Muslim
+pencemaran	Pollution
+penganut agama Kristian	Christian
+kuil	Temple
+ke arah	Toward
+perpustakaan	Library
+tempat letak kereta	Parking lot
+gereja	Church
+panggung wayang	Movie theater
+ke dalam	Into
+Mahukah kamu pergi ke kuil bersama-sama dengan saya?	Do you want to go to temple with me?
+Tidak, saya penganut agama Buddha.	No, I’m Buddhist.
+Saya telah pergi ke satu taman di Rusia.	I went to a park in Russia.
+Saya telah pergi ke satu ladang di Rusia.	I went to a farm in Russia.
+Mahukah kamu pergi ke gereja bersama-sama dengan saya?	Do you want to go to church with me?
+Tidak, saya penganut agama Hindu.	No, I’m Hindu.
+Naik bas untuk pergi ke stesen bas.	Take a bus to the bus station.
+Di bangunan yang manakah kedutaan itu berada?	Which building is the embassy in?
+Di tingkat berapakah kedutaan itu berada?	Which floor is the embassy at?
+Naik bas untuk pergi ke perpustakaan.	Take a bus to the library.
+Elektronik berada di tingkat keempat.	The electronics are on the fourth floor.
+Di stesen yang manakah kedutaan itu berada?	Which station is the embassy at?
+Elektronik berada di tingkat ketujuh.	The electronics are on the seventh floor.
+Itu ialah bangunan Kristian	That is a Christian building.
+Itu ialah gereja Kristian.	That is a Christian church.
+Bangunan apakah itu?	What kind of building is that?
+Panggung wayang itu ialah tempat di mana orang pergi untuk menonton wayang.	A theater is a place where people go to watch movies.
+Ayah saya seorang penganut agama Islam.	My father is a Muslim.
+Apakah itu panggung wayang?	What is a theater?
+Ibu saya seorang ateis tetapi ayah saya seorang penganut agama Hindu.	My mother is an atheist, but my father is a Hindu.
+Di manakah stesen keretapi itu?	Where is the train station please?
+Di manakah kedutaan itu?	Where is the embassy please?
+Pergi ke arah lapangan terbang.	Go towards the airport.
+Saya tidak suka akan lapangan terbang kerana ia bising.	I don’t like the airport, because it’s noisy.
+Saya tidak suka akan perhentian bas kerana ia bising.	I don’t like the bus stop, because it’s noisy.
+Pergi ke arah pejabat pos.	Go towards the post office.
+lampu isyarat	Traffic light
+ruang dewan	Hallway
+jambatan	Bridge
+selekoh	Corner
+melepasi	Past
+dilarang meletak kereta	No parking
+menyeberangi	To cross
+trafik	Traffic
+kanan	Right
+kemalangan	Accident
+kawasan	Area
+kiri	Left
+tangga	Stairs
+atas	Up/ Over
+bawah	Down/Under
+bukit	Hill
+berhati-hati	Caution
+berikutnya	Next
+tanda berhenti	Stop sign
+terakhir	Last
+sungai	River
+eskalator	escalator
+lif	Lift/Elevator
+Ada kesesakan lalu lintas.	There was traffic.
+Saya terlambat kerana saya tidak dapat menyeberangi jambatan itu.	I’m late because I could not cross the bridge.
+Saya terlambat kerana ada kemalangan.	I was late because there was an accident.
+Saya tidak lewat.	I’m not late.
+Mengapa anda lewat?	Why are you late?
+Kerana terdapat tanda berhenti.	Because there was a stop sign.
+Pergi ke kiri melepasi eskalator dan selepas itu pergi terus.	Go left past the escalator and then go straight.
+Turuni bukit itu dan selepas itu pergi ke kanan.	Go down the hill and then go right.
+Pergi ke dalam ruang dewan itu.	Go to the hallway.
+Pergi terus.	Go straight.
+Turuni eskalator itu dan selepas itu pergi ke kiri.	Go down the escalator and then go left.
+Menyeberangi jambatan itu.	Cross the bridge.
+Pergi ke selekoh itu dan kemudian menyeberangi sungai itu.	Go to the corner and then cross the bridge.
+Saya akan berasa sangat gembira jika Erica datang melawat.	If Erica were to visit, I would be very happy.
+Itu adalah kawasan yang bagus kerana tidak begitu bising.	That's a nice area because there isn't much noise.
+Tidak banyak pencemaran di situ.	There isn't much pollution.
+Saya akan berasa sangat sedih jika kamu ditimpa kemalangan.	If you were to get in an accident, I would be very sad.
+Itu adalah kawasan yang bagus.	That's a nice area.
+Ada banyak kesesakan lalu lintas.	There's a lot of traffic.
+Pergi ke kiri selepas selekoh itu.	Go left after the corner.
+Di manakah eskalator?	Where is the escalator, please?
+Naik tangga itu dan belok kiri selepas lif itu.	Go up the stairs and turn left after the elevator.
+Di manakah lif?	Where is the elevator, please?
+kilometer	kilometer
+melalui	through
+pintu masuk	Entrance
+batu	Mile
+keluar	Exit
+tiket keretapi	Train pass
+peta	Map
+sekeliling	around
+terus	straight
+tanjakan	Ramp
+jalan	Street
+belakang	Back
+merentasi	Across
+menunjuk	To show
+tiket bas	Bus pass
+turun	Off
+tengah	Middle
+Saya akan tunjukkan kepada kamu.	I will show you.
+Sila membawa saya.	Please take me.
+Minta maaf, di manakah pejabat pos?	Excuse me, where is the post office?
+Minta maaf, di manakah saya boleh membeli peta?	Excuse me, where may I buy a map?
+Minta maaf, di manakah saya boleh membeli bir?	Excuse me, where may I buy a beer?
+Minta maaf, di manakah saya boleh membeli tiket keretapi?	Excuse me, where may I buy a bus pass?
+Sila datang bersama saya.	Come with me, please.
+Sila tunjukkan kepada saya.	Please show me.
+Turuni jalan itu dan seberangi jambatan itu.	Go down the street and cross the bridge.
+Mahukah kamu datang bersama dengan saya untuk membeli tiket keretapi?	Do you want to come with me to buy a train pass?
+Naik tanjakan itu dan lalui jambatan itu.	Go up the ramp and under the bridge.
+Pergi melalui pintu masuk yang di tengah dan kemudian itu pergi terus.	Go in through the middle entrance and then go straight.
+Pergi melalui pintu keluar yang di tengah dan kemudan itu naik tangga.	Go out through the middle exit and then go up the stairs.
+Belok di selekoh kanan yang berikutnya.	Take the next right.
+Dua ratus meter ke bank itu.	It’s two hundred meters to the bank.
+Berapa kilometerkah untuk pergi ke New York?	How many kilometers is it to New York?
+Berapa kilometerkah satu batu?	How many kilometers are there in twelve miles?
+Enam puluh dua batu ialah kira-kira seratus kilometer.	Sixty two miles is about one hundred kilometers.
+Lima puluh meter ke bank itu.	It’s fifty meters to the bank.
+Turuni tangga itu dan kemudian belok di selekoh kanan yang kedua.	Go down the stairs and then take the second right.
+Berapa meterkah untuk pergi ke New York?	How many meters is it to New York?
+Satu batu ialah satu perpuluhan enam kilometer.	There are one point six kilometers in one mile.
+Turun dari keretapi di perhentian yang keempat dalam Tokyo.	Get off the train on the fourth stop in Tokyo.
+Selamat pulang.	Welcome back.
+Saya akan balik tidak lama lagi.	I’ll be back soon.
+Saya dah balik.	I’m back.
+kolam	Pool
+seronok	Fun
+menonton	To watch
+rancangan televisyen	Television Show
+bermain	To play
+pantai	beach
+wayang	Movie
+telanjang	Naked
+melukis	To draw
+melayari internet	To surf the internet
+bodoh	Stupid
+majalah	Magazine
+meluncur air	To surf
+menakutkan	Scary
+membuang masa	To waste time
+tidur sekejap	Nap
+mendaki	To hike
+sendirian	Alone
+alat mainan	Toy
+permainan video	Video game
+Apakah pendapat kamu tentang rancangan televisyen itu?	What did you think of the television show?
+Apakah pendapat kamu tentang filem itu?	What did you think of the movie?
+Apakah yang kamu suka buat untuk berseronok?	What do you like to do for fun?
+Saya suka pergi ke pantai.	I like to go to the beach.
+Pada pendapat saya, filem itu membosankan.	I thought that movie was boring.
+Pada pendapat saya, filem itu menakutkan.	I thought that movie was scary.
+Saya suka menonton televisyen.	I like to watch television.
+Saya perlu menghabiskan kerja rumah saya sebelum saya pergi mendaki.	I have to finish my homework before I go hiking.
+Jangan risau dengan kerja rumah awak.	Don’t worry about your homework.
+Apabila saya sampai ke rumah, saya akan tidur sekejap dan pergi bersenam selepas itu.	When I get home I will take a nap and then go exercise.
+Saya perlu menghabiskan kerja saya sebelum saya pergi mendaki	I have to finish my work before I go hiking.
+Jom pergi meluncur air hujung minggu ini.	Let’s go surfing this weekend.
+Biarkan kerja rumah awak.	Forget about your homework.
+Jom pergi mendaki hujung minggu ini.	Let’s go hiking this weekend.
+Apabila saya sampai ke rumah, saya akan tidur sekejap dan melayari internet selepas itu.	When I get home I will take a nap and then go surf the internet.
+Saya sudah menghabiskan kerja rumah saya.	I finished my homework.
+Ia bodoh.	It was stupid.
+Kamu patut membuat kerja rumahmu dan bukannya melayari internet.	Instead of surfing the internet you should do your homework.
+Saya seronok bersama kamu di pantai itu minggu lepas.	I had fun with you last week at the beach.
+Adakah ia seronok?	Was it fun?
+Jangan membuang masa kamu dengan menonton rancangan televisyen yang bodoh.	Don’t waste time watching stupid television shows.
+Ia seronok.	It was fun.
+Saya benci untuk pergi mendaki bersendirian.	I hate going hiking alone.
+Saya suka tidur sekejap selepas bersenam.	After I exercise I like to take a nap.
+Saya suka membaca buku selepas bersenam.	After I exercise I like to read a book.
+Saya tidak suka pergi ke pantai kerana ia membosankan.	I don’t like to go to the beach, because it’s boring.
+Saya tidak suka pergi ke pantai kerana ia jauh.	I don’t like to go to the beach, because it’s far away.
+Mahukah kamu pergi ke kolam renang minggu ini?	Do you want to go to the pool this week?
+menang	To win
+kalah	To lose
+seri	To tie
+catur	Chess
+besbol	Baseball
+permainan papan	Board game
+kemenangan	Victory
+bersiar-siar	To sightsee
+bola sepak	Soccer
+permainan kad	Card game
+temu janji	Date
+parti	Party
+menari	To dance
+konsert	Concert
+Apa yang hendak kamu lakukan?	What do you want to do?
+Mahukah kamu bermain bola sepak?	Do you want to play soccer?
+Siapa menang dalam pertandingan besbol itu?	Who won the baseball game?
+Siapa menang dalam pertandingan bola sepak itu?	Who won the soccer game?
+Apa yang patut kita lakukan?	What should we do?
+Mahukah kamu pergi bersiar-siar?	Do you want to go sightseeing?
+Awak selalu menang.	You always win.
+Kita seri.	We tied.
+Kita kalah.	We lost.
+Erica adalah lebih mahir daripada saya dalam bola sepak.	Erica is better than me at soccer.
+Adakah kamu menang?	Did you win?
+Erica adalah lebih teruk daripada saya dalam bola sepak.	Erica is worse than me at soccer.
+Adakah kamu kalah?	Did you lose?
+Kita menang.	We won.
+Sudikah kamu pergi ke konsert bersama-sama dengan kami?	Do you want to go to a concert with us?
+Dia hendak pergi ke parti.	He wanted to go to a party.
+Ken kata dia hendak pergi menari tetapi dia sakit.	Ken said that he wanted to go dancing, but he was sick.
+Saya sudah bertanya Ken jika dia hendak pergi ke konsert.	I asked Ken if he wanted to go to a concert.
+Apa yang dia katakan?	What did he say?
+Ken kata dia sibuk.	Ken said that he was busy.
+Saya tidak boleh pergi ke parti kerana jari saya sakit.	I can’t go to the party, because I have a hurt finger.
+Saya tidak boleh pergi ke konsert.	I can’t go to the concert.
+Itu temu janji yang teruk.	It was a bad date.
+Jari saya patah.	I have a broken finger.
+Saya ingin pergi mengurut dan bukannya ke parti.	I want to get a massage instead of going to a party.
+Itu temu janji yang baik.	It was a good date.
+Saya ingin pergi mengurut dan bukannya ke konsert.	I want to get a massage instead of going to a concert.
+lembah	valley
+gambar	Picture
+zoo	Zoo
+Buddha	Buddha
+Allah	Allah
+mempercayai	To believe
+Jesus	Jesus
+padang pasir	Desert
+bernasib baik	Fortunate
+rumput	Grass
 
 <=========================================== Got Up To Here ==========================================================>
 
-
-Kamu sedikit gemuk.	You are a little overweight.
-You are a little overweight.	Kamu sedikit gemuk.
-Kamu sangat gemuk.	You are very overweight.
-You are very overweight.	Kamu sangat gemuk.
-Dia sangat pendek.	He’s very short.
-He’s very short.	Dia sangat pendek.
-Kenapa Ken begitu gemuk?	Why is Ken so overweight?
-Why is Ken so overweight?	Kenapa Ken begitu gemuk?
-Sila gambarkan rambut Ken.	Please describe Ken’s hair.
-Please describe Ken’s hair.	Sila gambarkan rambut Ken.
-Merokok adalah sihat.	It’s healthy to smoke.
-It’s healthy to smoke.	Merokok adalah sihat.
-Sila gambarkan ketinggian Ken.	Please describe Ken’s height.
-Please describe Ken’s height.	Sila gambarkan ketinggian Ken.
-Senaman baik untuk kesihatan.	It’s healthy to exercise.
-It’s healthy to exercise.	Senaman baik untuk kesihatan.
-Sila gambarkan rupa Ken.	Please describe Ken’s appearance.
-Please describe Ken’s appearance.	Sila gambarkan rupa Ken.
-Merokok adalah tidak sihat.	It’s unhealthy to smoke.
-It’s unhealthy to smoke.	Merokok adalah tidak sihat.
-Tidak, bukan begitu.	No, it isn’t.
-No, it isn’t.	Tidak, bukan begitu.
-Saya hendak menjadi lebih kurus tetapi saya tidak mahu makan dengan sihatnya ataupun bersenam.	I want to get thinner, but I don’t want to eat healthy or exercise.
-I want to get thinner, but I don’t want to eat healthy or exercise.	Saya hendak menjadi lebih kurus tetapi saya tidak mahu makan dengan sihatnya ataupun bersenam.
-Kamu kelihatan seperti kamu sudah bertambah gemuk.	You look like you got more overweight.
-You look like you got more overweight.	Kamu kelihatan seperti kamu sudah bertambah gemuk.
-Bagaimana rupa saya?	How do I look?
-How do I look?	Bagaimana rupa saya?
-Apakah pendapat kamu tentang rupa saya?	How do you think I look?
-How do you think I look?	Apakah pendapat kamu tentang rupa saya?
-Kamu kelihatan seperti kamu sudah bertambah kurus.	You look like you got thinner.
-You look like you got thinner.	Kamu kelihatan seperti kamu sudah bertambah kurus.
-Erica kelihatan seperti dia sudah menjadi lebih sakit.	Erica looks like she became more unhealthy.
-Erica looks like she became more unhealthy.	Erica kelihatan seperti dia sudah menjadi lebih sakit.
-Erica kelihatan seperti dia sudah bertambah pucat.	Erica looks like she became more pale.
-Erica looks like she became more pale.	Erica kelihatan seperti dia sudah bertambah pucat.
-Kamu kelihatan seperti kamu sudah bertambah tua.	You look like you got older.
-You look like you got older.	Kamu kelihatan seperti kamu sudah bertambah tua.
-Erica mempunyai penglihatan yang lemah.	Erica has bad eyes.
-Erica has bad eyes.	Erica mempunyai penglihatan yang lemah.
-Apakah warna rambutnya?	What color is his hair?
-What color is his hair?	Apakah warna rambutnya?
-Erica mempunyai penglihatan yang baik.	Erica has good eyes.
-Erica has good eyes.	Erica mempunyai penglihatan yang baik.
-Saya menjadi marah apabila dia kata saya sangat gemuk.	I got angry when she said I was overweight.
-I got angry when she said I was overweight.	Saya menjadi marah apabila dia kata saya sangat gemuk.
-Dia kata saya hodoh.	He said I was ugly.
-He said I was ugly.	Dia kata saya hodoh.
-Ken mempunyai rambut panjang berwarna perang.	Ken has long brown hair.
-Ken has long brown hair.	Ken mempunyai rambut panjang berwarna perang.
-Ken mempunyai rambut pendek berwarna perang.	Ken has short brown hair.
-Ken has short brown hair.	Ken mempunyai rambut pendek berwarna perang.
-ambulans	Ambulance
-Ambulance	ambulans
-hospital	Hospital
-Hospital	hospital
-bergegas-gegas	To hurry
-To hurry	bergegas-gegas
-dahi	Forehead
-Forehead	dahi
-kecederaan	Injury
-Injury	kecederaan
-berdiri	To stand
-To stand	berdiri
-kebakaran	Fire
-Fire	kebakaran
-sakit jantung	heart attack
-heart attack	sakit jantung
-strok	Stroke
-Stroke	strok
-bibir	Lip
-Lip	bibir
-kencing manis	Diabetic
-Diabetic	kencing manis
-pipi	Cheek
-Cheek	pipi
-menghantar	To take
-To take	menghantar
-tulang yang patah	Broken bone
-Broken bone	tulang yang patah
-kekejangan haid	menstrual cramp
-menstrual cramp	kekejangan haid
-mati	To die
-To die	mati
-kecemasan	Emergency
-Emergency	kecemasan
-berdarah	To bleed
-To bleed	berdarah
-bernafas	To breathe
-To breathe	bernafas
-aduh!	Ouch
-Ouch	aduh!
-Bibir anda sedang berdarah.	Your lip is bleeding.
-Your lip is bleeding.	Bibir anda sedang berdarah.
-Sila hantar saya ke hospital sekarang.	Please take me to the hospital now.
-Please take me to the hospital now.	Sila hantar saya ke hospital sekarang.
-Hubungi hospital sekarang.	Call the hospital now.
-Call the hospital now.	Hubungi hospital sekarang.
-Pipi anda sedang berdarah.	Your cheek is bleeding.
-Your cheek is bleeding.	Pipi anda sedang berdarah.
-Hubungi ambulans sekarang.	Call an ambulance now.
-Call an ambulance now.	Hubungi ambulans sekarang.
-Hubungi polis sekarang.	Call the police now.
-Call the police now.	Hubungi polis sekarang.
-Saya memerlukan doktor kerana saya tercedera.	I need a doctor because I have an injury.
-I need a doctor because I have an injury.	Saya memerlukan doktor kerana saya tercedera.
-Kamu patut pergi ke hospital sekarang jika kamu rasa kamu terkena strok.	If you think you’re having a stroke, you should go to the hospital now.
-If you think you’re having a stroke, you should go to the hospital now.	Kamu patut pergi ke hospital sekarang jika kamu rasa kamu terkena strok.
-Saya rasa saya terkena strok.	I think I’m having a stroke.
-I think I’m having a stroke.	Saya rasa saya terkena strok.
-Kamu patut pergi ke hospital sekarang.	You should go to the hospital now.
-You should go to the hospital now.	Kamu patut pergi ke hospital sekarang.
-Saya rasa saya diserang sakit jantung.	I think I’m having a heart attack.
-I think I’m having a heart attack.	Saya rasa saya diserang sakit jantung.
-Saya memerlukan doktor kerana kecemasan.	I need a doctor because I have an emergency.
-I need a doctor because I have an emergency.	Saya memerlukan doktor kerana kecemasan.
-Tulang saya patah.	I have a broken bone.
-I have a broken bone.	Tulang saya patah.
-Tahukah kamu bahawa lehermu sedang berdarah?	Did you know that your neck is bleeding?
-Did you know that your neck is bleeding?	Tahukah kamu bahawa lehermu sedang berdarah?
-Tahukah kamu bahawa dahimu sedang berdarah?	Did you know that your forehead is bleeding?
-Did you know that your forehead is bleeding?	Tahukah kamu bahawa dahimu sedang berdarah?
-Jangan risau, kamu tidak akan mati.	Don’t worry, you’re not going to die.
-Don’t worry, you’re not going to die.	Jangan risau, kamu tidak akan mati.
-Saya tidak mahu mati.	I don’t want to die.
-I don’t want to die.	Saya tidak mahu mati.
-Tidak, saya tidak tahu.	No, I did not know.
-No, I did not know.	Tidak, saya tidak tahu.
-Saya tidak mahu bergegas-gegas.	I don’t want to hurry.
-I don’t want to hurry.	Saya tidak mahu bergegas-gegas.
-Tahukah kamu bahawa dahimu lebam?	Did you know that your forehead is bruised?
-Did you know that your forehead is bruised?	Tahukah kamu bahawa dahimu lebam?
-Tahukah kamu bahawa lehermu lebam?	Did you know that your neck is bruised?
-Did you know that your neck is bruised?	Tahukah kamu bahawa lehermu lebam?
-Oleh kerana jari saya patah, saya perlu pergi ke hospital.	Since I broke my finger, I had to go to the hospital.
-Since I broke my finger, I had to go to the hospital.	Oleh kerana jari saya patah, saya perlu pergi ke hospital.
-Saya sedang berdarah.	I’m bleeding.
-I’m bleeding.	Saya sedang berdarah.
-Saya nazak	I’m dying.
-I’m dying.	Saya nazak
-Oleh kerana hidung saya patah, saya perlu pergi ke hospital.	Since I broke my nose, I had to go to the hospital.
-Since I broke my nose, I had to go to the hospital.	Oleh kerana hidung saya patah, saya perlu pergi ke hospital.
-Susah untuk bernafas.	It’s hard to breathe.
-It’s hard to breathe.	Susah untuk bernafas.
-Susah untuk berdiri.	It’s hard to stand.
-It’s hard to stand.	Susah untuk berdiri.
-Saya dalam kesakitan.	I’m in pain.
-I’m in pain.	Saya dalam kesakitan.
-Saya sedang bergegas.	I’m hurrying.
-I’m hurrying.	Saya sedang bergegas.
-kuda	Horse
-Horse	kuda
-unta	Camel
-Camel	unta
-kapal terbang	Plane
-Plane	kapal terbang
-berjalan	To walk
-To walk	berjalan
-basikal	Bicycle
-Bicycle	basikal
-memandu	To drive
-To drive	memandu
-terbang	To fly
-To fly	terbang
-penerbangan	Flight
-Flight	penerbangan
-lori	Truck
-Truck	lori
-keretapi	Train
-Train	keretapi
-cepat	Fast
-Fast	cepat
-kapal	Ship
-Ship	kapal
-paling cepat	Fastest
-Fastest	paling cepat
-berlari	To run
-To run	berlari
-bas	Bus
-Bus	bas
-lebih cepat	faster
-faster	lebih cepat
-berenang	To swim
-To swim	berenang
-barangkali	Probably
-Probably	barangkali
-jet	Jet
-Jet	jet
-cara	Way
-Way	cara
-menunggang	To ride
-To ride	menunggang
-perahu	Boat
-Boat	perahu
-sudah tentu	definitely
-definitely	sudah tentu
-teksi	Taxi
-Taxi	teksi
-Adakah kereta ataupun kapal adalah lebih cepat?	Is a car or a ship faster?
-Is a car or a ship faster?	Adakah kereta ataupun kapal adalah lebih cepat?
-Adakah kereta ataupun berjalan kaki adalah lebih cepat?	Is a car or walking faster?
-Is a car or walking faster?	Adakah kereta ataupun berjalan kaki adalah lebih cepat?
-Barangkali ia adalah lebih cepat.	It would probably be faster.
-It would probably be faster.	Barangkali ia adalah lebih cepat.
-Barangkali ia adalah lebih lambat jika saya memandu ke sana.	If I were to drive there it would probably be slower.
-If I were to drive there it would probably be slower.	Barangkali ia adalah lebih lambat jika saya memandu ke sana.
-Sudah tentu kapal terbang adalah lebih cepat daripada keretapi.	An airplane is definitely faster than a train.
-An airplane is definitely faster than a train.	Sudah tentu kapal terbang adalah lebih cepat daripada keretapi.
-Kamu patut menaiki keretapi kerana ia adalah lebih cepat.	You should take a train because it’s faster.
-You should take a train because it’s faster.	Kamu patut menaiki keretapi kerana ia adalah lebih cepat.
-Barangkali kapal terbang adalah lebih cepat daripada keretapi.	An airplane is probably faster than a train.
-An airplane is probably faster than a train.	Barangkali kapal terbang adalah lebih cepat daripada keretapi.
-Kamu patut menaiki keretapi kerana ia adalah lebih murah.	You should take a train because it’s cheaper.
-You should take a train because it’s cheaper.	Kamu patut menaiki keretapi kerana ia adalah lebih murah.
-Penerbangan saya lewat.	My flight was late.
-My flight was late.	Penerbangan saya lewat.
-Kadang kala saya suka berenang.	I like to swim sometimes.
-I like to swim sometimes.	Kadang kala saya suka berenang.
-Saya akan menunggang unta ke sekolah.	I’ll ride the camel to school.
-I’ll ride the camel to school.	Saya akan menunggang unta ke sekolah.
-Penerbangan saya awal.	My flight was early.
-My flight was early.	Penerbangan saya awal.
-Saya akan menunggang kuda ke sekolah.	I’ll ride the horse to school.
-I’ll ride the horse to school.	Saya akan menunggang kuda ke sekolah.
-Saya akan menaiki teksi ke Paris.	I’m going to take a taxi to Paris.
-I’m going to take a taxi to Paris.	Saya akan menaiki teksi ke Paris.
-Saya akan menaiki kapal terbang ke Paris.	I’m going to take an airplane to Paris.
-I’m going to take an airplane to Paris.	Saya akan menaiki kapal terbang ke Paris.
-Kadang kala saya suka berlari.	I like to run sometimes.
-I like to run sometimes.	Kadang kala saya suka berlari.
-Kita patut pergi bersama-sama.	We should go together.
-We should go together.	Kita patut pergi bersama-sama.
-Awak tidak patut menaiki bas jika awak boleh berjalan ke situ.	You shouldn’t take a bus if you can walk there.
-You shouldn’t take a bus if you can walk there.	Awak tidak patut menaiki bas jika awak boleh berjalan ke situ.
-Patutkah kita menaiki keretapi yang sama ke Rusia?	Should we ride the same train to Russia?
-Should we ride the same train to Russia?	Patutkah kita menaiki keretapi yang sama ke Rusia?
-Awak patut menaiki jet.	You should take a jet.
-You should take a jet.	Awak patut menaiki jet.
-Kita patut naik bersama-sama.	We should ride together.
-We should ride together.	Kita patut naik bersama-sama.
-Oleh sebab saya terlepas perahu saya, saya terpaksa berenang ke sini.	Since I missed the boat I had to swim here.
-Since I missed the boat I had to swim here.	Oleh sebab saya terlepas perahu saya, saya terpaksa berenang ke sini.
-Saya terlepas penerbangan saya.	I missed my flight.
-I missed my flight.	Saya terlepas penerbangan saya.
-Patutkah kita menaiki bas yang sama?	Should we ride the same bus?
-Should we ride the same bus?	Patutkah kita menaiki bas yang sama?
-Apakah cara yang termurah untuk pergi ke situ?	What is the cheapest way to go?
-What is the cheapest way to go?	Apakah cara yang termurah untuk pergi ke situ?
-Cara yang paling cepat ialah dengan menaiki teksi tetapi ia juga adalah cara yang termahal.	The fastest way to go is by taxi, but it’s also the most expensive way.
-The fastest way to go is by taxi, but it’s also the most expensive way.	Cara yang paling cepat ialah dengan menaiki teksi tetapi ia juga adalah cara yang termahal.
-Cara yang termurah ialah dengan berjalan kaki tetapi ia juga adalah cara yang terlambat.	The cheapest way to go is to walk, but it is also the slowest way.
-The cheapest way to go is to walk, but it is also the slowest way.	Cara yang termurah ialah dengan berjalan kaki tetapi ia juga adalah cara yang terlambat.
-Cara yang paling cepat ialah dengan menaiki kapal terbang.	The fastest way is by plane.
-The fastest way is by plane.	Cara yang paling cepat ialah dengan menaiki kapal terbang.
-Apakah cara yang paling cepat untuk sampai ke Paris?	What is the fastest way to get to Paris?
-What is the fastest way to get to Paris?	Apakah cara yang paling cepat untuk sampai ke Paris?
-New York	New York
-New York	New York
-untuk sampai ke	To get into
-To get into	untuk sampai ke
-suatu hari nanti	Sometime
-Sometime	suatu hari nanti
-Tokyo	Tokyo
-Tokyo	Tokyo
-Amerika Utara	North America
-North America	Amerika Utara
-Amerika Selatan	South America
-South America	Amerika Selatan
-bandar yang kecil	Small town
-Small town	bandar yang kecil
-paspot	Passport
-Passport	paspot
-Beijing	Beijing
-Beijing	Beijing
-bandar	City
-City	bandar
-negara	Country
-Country	negara
-Asia	Asia
-Asia	Asia
-Afrika	Africa
-Africa	Afrika
-dibesarkan	To raise
-To raise	dibesarkan
-China	China
-China	China
-London	London
-London	London
-India	India
-India	India
-Los Angeles	Los Angeles
-Los Angeles	Los Angeles
-Amerika	The United States
-The United States	Amerika
-Eropah	Europe
-Europe	Eropah
-kemudian	Then
-Then	kemudian
-Jerman	Germany
-Germany	Jerman
-Di manakah London?	Where is London?
-Where is London?	Di manakah London?
-Naik keretapi ke Tokyo.	Take a train to Tokyo.
-Take a train to Tokyo.	Naik keretapi ke Tokyo.
-Bagaimanakah kamu pergi ke Jerman?	How did you get to Germany?
-How did you get to Germany?	Bagaimanakah kamu pergi ke Jerman?
-Saya menaiki kapal terbang ke Afrika.	I took an airplane to Africa.
-I took an airplane to Africa.	Saya menaiki kapal terbang ke Afrika.
-China ialah sebuah negara yang besar dalam Asia.	China is a large country in Asia.
-China is a large country in Asia.	China ialah sebuah negara yang besar dalam Asia.
-Naik keretapi ke Beijing.	Take a train to Beijing.
-Take a train to Beijing.	Naik keretapi ke Beijing.
-Saya menaiki kapal terbang ke Los Angeles.	I took an airplane to Los Angeles.
-I took an airplane to Los Angeles.	Saya menaiki kapal terbang ke Los Angeles.
-Bagaimanakah kamu pergi ke Los Angeles?	How did you get to Los Angeles?
-How did you get to Los Angeles?	Bagaimanakah kamu pergi ke Los Angeles?
-Populasi Amerika ialah kira-kira tiga ratus juta.	The population of the United States is about three hundred million.
-The population of the United States is about three hundred million.	Populasi Amerika ialah kira-kira tiga ratus juta.
-Boleh saya memeriksa pasport anda?	May I have your passport please?
-May I have your passport please?	Boleh saya memeriksa pasport anda?
-Ia mengambil masa kira-kira lima jam untuk sampai ke Jerman dari sini.	It takes about five hours by airplane to get to Germany from here.
-It takes about five hours by airplane to get to Germany from here.	Ia mengambil masa kira-kira lima jam untuk sampai ke Jerman dari sini.
-Boleh saya memeriksa beg anda?	May I have your bag please?
-May I have your bag please?	Boleh saya memeriksa beg anda?
-Apakah populasi Los Angeles?	What is the population of Los Angeles?
-What is the population of Los Angeles?	Apakah populasi Los Angeles?
-Kira-kira berapa lamakah yang akan diambil untuk sampai ke Amerika Selatan dari Amerika Utara?	About how long does it take to get to South America from North America?
-About how long does it take to get to South America from North America?	Kira-kira berapa lamakah yang akan diambil untuk sampai ke Amerika Selatan dari Amerika Utara?
-Ya, saya pernah ke London.	Yes, I have been to London.
-Yes, I have been to London.	Ya, saya pernah ke London.
-Ya, saya pernah ke Los Angeles.	Yes, I have been to Los Angeles.
-Yes, I have been to Los Angeles.	Ya, saya pernah ke Los Angeles.
-Pernahkah kamu ke Beijing?	Have you ever been to Beijing?
-Have you ever been to Beijing?	Pernahkah kamu ke Beijing?
-Pernahkah kamu ke Amerika?	Have you ever been to the United States?
-Have you ever been to the United States?	Pernahkah kamu ke Amerika?
-Tidak, saya tidak pernah ke Eropah tetapi saya ingin ke situ suatu hari nanti.	No, I have never been to Europe, but I want to go sometime.
-No, I have never been to Europe, but I want to go sometime.	Tidak, saya tidak pernah ke Eropah tetapi saya ingin ke situ suatu hari nanti.
-Tidak, saya tidak pernah ke New York tetapi saya ingin ke situ suatu hari nanti.	No, I have never been to New York, but I want to go sometime.
-No, I have never been to New York, but I want to go sometime.	Tidak, saya tidak pernah ke New York tetapi saya ingin ke situ suatu hari nanti.
-Saya berasal dari satu bandar yang kecil dekat dengan London.	I’m from a small town near London.
-I’m from a small town near London.	Saya berasal dari satu bandar yang kecil dekat dengan London.
-Kamu berasal dari mana?	Where are you from?
-Where are you from?	Kamu berasal dari mana?
-Beijing ialah satu bandar dalam Asia.	Beijing is a city in Asia.
-Beijing is a city in Asia.	Beijing ialah satu bandar dalam Asia.
-Saya dilahirkan dan dibesarkan di China.	I was born in New York and raised in China.
-I was born in New York and raised in China.	Saya dilahirkan dan dibesarkan di China.
-Di manakah kamu dilahirkan?	Where were you born?
-Where were you born?	Di manakah kamu dilahirkan?
-Di manakah kamu dibesarkan?	Where were you raised?
-Where were you raised?	Di manakah kamu dibesarkan?
-Dia dilahirkan di Afrika dan kemudiannya berpindah ke India dalam tahun dua ribu sepuluh.	She was born in Africa and then moved to India in two thousand ten.
-She was born in Africa and then moved to India in two thousand ten.	Dia dilahirkan di Afrika dan kemudiannya berpindah ke India dalam tahun dua ribu sepuluh.
-di	At
-At	di
-beredar	To leave
-To leave	beredar
-luar	Out
-Out	luar
-telefon awam	public telephone
-public telephone	telefon awam
-berhenti	To stop/Stop
-To stop/Stop	berhenti
-sampai	To arrive
-To arrive	sampai
-ke	To
-To	ke
-selamat datang	Welcome
-Welcome	selamat datang
-pintu	Gate
-Gate	pintu
-pertukaran wang	Money exchange
-Money exchange	pertukaran wang
-pergi	To travel
-To travel	pergi
-bertukar	to transfer
-to transfer	bertukar
-barat	West
-West	barat
-timurtimur	East
-East	timurtimur
-utara	North
-North	utara
-selatan	South
-South	selatan
-arah	direction
-direction	arah
-visa	Visa
-Visa	visa
-masuk	To enter
-To enter	masuk
-BIlakah kamu meninggalkan Los Angeles?	When did you leave Los Angeles?
-When did you leave Los Angeles?	BIlakah kamu meninggalkan Los Angeles?
-Saya sampai empat hari yang lalu.	I arrived four days ago.
-I arrived four days ago.	Saya sampai empat hari yang lalu.
-Bilakah kamu sampai di Los Angeles?	When did you arrive in Los Angeles?
-When did you arrive in Los Angeles?	Bilakah kamu sampai di Los Angeles?
-Ke manakah patut saya pergi?	Where should I go?
-Where should I go?	Ke manakah patut saya pergi?
-Bilakah kamu datang ke Los Angeles?	When did you come to Los Angeles?
-When did you come to Los Angeles?	Bilakah kamu datang ke Los Angeles?
-Saya pergi empat hari yang lalu.	I went four days ago.
-I went four days ago.	Saya pergi empat hari yang lalu.
-Saya datang empat hari yang lalu.	I came four days ago.
-I came four days ago.	Saya datang empat hari yang lalu.
-Pergi ke timur laut.	Go north east.
-Go north east.	Pergi ke timur laut.
-Kita akan sampai ke Eropah pada lima belas haribulan.	We will arrive to Europe on the fifteenth.
-We will arrive to Europe on the fifteenth.	Kita akan sampai ke Eropah pada lima belas haribulan.
-Bilakah kamu akan sampai ke Beijing?	When will you arrive in Beijing?
-When will you arrive in Beijing?	Bilakah kamu akan sampai ke Beijing?
-Pergi ke barat laut.	Go north west.
-Go north west.	Pergi ke barat laut.
-Kita akan pergi ke Eropah pada lima belas haribulan.	We will leave to Europe on the fifteenth.
-We will leave to Europe on the fifteenth.	Kita akan pergi ke Eropah pada lima belas haribulan.
-Bilakah kamu akan pergi ke Beijing?	When will you leave Beijing?
-When will you leave Beijing?	Bilakah kamu akan pergi ke Beijing?
-Saya tidah boleh pergi ke Amerika tanpa pasport dan visa.	You can’t come to the United States without a passport and a visa.
-You can’t come to the United States without a passport and a visa.	Saya tidah boleh pergi ke Amerika tanpa pasport dan visa.
-Kamu tidak boleh pergi ke India.	You can’t travel to India.
-You can’t travel to India.	Kamu tidak boleh pergi ke India.
-Berhenti dalam masa lima minit.	Stop in five minutes.
-Stop in five minutes.	Berhenti dalam masa lima minit.
-Ke mari dalam masa lima minit.	Come in five minutes.
-Come in five minutes.	Ke mari dalam masa lima minit.
-Di manakah pengurup wang itu?	Where is the money exchange please?
-Where is the money exchange please?	Di manakah pengurup wang itu?
-Beredar dalam masa lima minit.	Leave in five minutes.
-Leave in five minutes.	Beredar dalam masa lima minit.
-Masuk pintu timur.	Enter through the east gate.
-Enter through the east gate.	Masuk pintu timur.
-Masuk pintu barat.	Enter through the west gate.
-Enter through the west gate.	Masuk pintu barat.
-Di manakah telefon awam?	Where is the public telephone please?
-Where is the public telephone please?	Di manakah telefon awam?
-Bertukar di Los Angeles untuk pergi ke India.	Transfer in Los Angeles to get to India.
-Transfer in Los Angeles to get to India.	Bertukar di Los Angeles untuk pergi ke India.
-Pergi ke selatan.	Go south.
-Go south.	Pergi ke selatan.
-Arah yang manakah patut saya pergi?	Which direction should I go?
-Which direction should I go?	Arah yang manakah patut saya pergi?
-Pandu timur ke Jerman.	Drive east to Germany.
-Drive east to Germany.	Pandu timur ke Jerman.
-Bagaimanakah patut saya pergi ke Beijing?	How should I go to Beijing?
-How should I go to Beijing?	Bagaimanakah patut saya pergi ke Beijing?
-Pergi ke utara.	Go north.
-Go north.	Pergi ke utara.
-Bertukar di London untuk pergi ke India.	Transfer in London to get to India.
-Transfer in London to get to India.	Bertukar di London untuk pergi ke India.
-Pergi timur ke Jerman.	Travel east to Germany.
-Travel east to Germany.	Pergi timur ke Jerman.
-bising	Noisy
-Noisy	bising
-kedutaan	Embassy
-Embassy	kedutaan
-perhentian bas	Bus stop
-Bus stop	perhentian bas
-ateis	Atheist
-Atheist	ateis
-pejabat pos	Post office
-Post office	pejabat pos
-bunyi	Noise
-Noise	bunyi
-stesen	Station
-Station	stesen
-penganut agama Hindu	Hindu
-Hindu	penganut agama Hindu
-tingkat keempat	Fourth floor
-Fourth floor	tingkat keempat
-lapangan terbang	Airport
-Airport	lapangan terbang
-bank	Bank
-Bank	bank
-bangunan	Building
-Building	bangunan
-taman	Park
-Park	taman
-penganut agama Buddha	Buddhist
-Buddhist	penganut agama Buddha
-penganut agama Islam	Muslim
-Muslim	penganut agama Islam
-pencemaran	Pollution
-Pollution	pencemaran
-penganut agama Kristian	Christian
-Christian	penganut agama Kristian
-kuil	Temple
-Temple	kuil
-ke arah	Toward
-Toward	ke arah
-perpustakaan	Library
-Library	perpustakaan
-tempat letak kereta	Parking lot
-Parking lot	tempat letak kereta
-gereja	Church
-Church	gereja
-panggung wayang	Movie theater
-Movie theater	panggung wayang
-ke dalam	Into
-Into	ke dalam
-Mahukah kamu pergi ke kuil bersama-sama dengan saya?	Do you want to go to temple with me?
-Do you want to go to temple with me?	Mahukah kamu pergi ke kuil bersama-sama dengan saya?
-Tidak, saya penganut agama Buddha.	No, I’m Buddhist.
-No, I’m Buddhist.	Tidak, saya penganut agama Buddha.
-Saya telah pergi ke satu taman di Rusia.	I went to a park in Russia.
-I went to a park in Russia.	Saya telah pergi ke satu taman di Rusia.
-Saya telah pergi ke satu ladang di Rusia.	I went to a farm in Russia.
-I went to a farm in Russia.	Saya telah pergi ke satu ladang di Rusia.
-Mahukah kamu pergi ke gereja bersama-sama dengan saya?	Do you want to go to church with me?
-Do you want to go to church with me?	Mahukah kamu pergi ke gereja bersama-sama dengan saya?
-Tidak, saya penganut agama Hindu.	No, I’m Hindu.
-No, I’m Hindu.	Tidak, saya penganut agama Hindu.
-Naik bas untuk pergi ke stesen bas.	Take a bus to the bus station.
-Take a bus to the bus station.	Naik bas untuk pergi ke stesen bas.
-Di bangunan yang manakah kedutaan itu berada?	Which building is the embassy in?
-Which building is the embassy in?	Di bangunan yang manakah kedutaan itu berada?
-Di tingkat berapakah kedutaan itu berada?	Which floor is the embassy at?
-Which floor is the embassy at?	Di tingkat berapakah kedutaan itu berada?
-Naik bas untuk pergi ke perpustakaan.	Take a bus to the library.
-Take a bus to the library.	Naik bas untuk pergi ke perpustakaan.
-Elektronik berada di tingkat keempat.	The electronics are on the fourth floor.
-The electronics are on the fourth floor.	Elektronik berada di tingkat keempat.
-Di stesen yang manakah kedutaan itu berada?	Which station is the embassy at?
-Which station is the embassy at?	Di stesen yang manakah kedutaan itu berada?
-Elektronik berada di tingkat ketujuh.	The electronics are on the seventh floor.
-The electronics are on the seventh floor.	Elektronik berada di tingkat ketujuh.
-Itu ialah bangunan Kristian	That is a Christian building.
-That is a Christian building.	Itu ialah bangunan Kristian
-Itu ialah gereja Kristian.	That is a Christian church.
-That is a Christian church.	Itu ialah gereja Kristian.
-Bangunan apakah itu?	What kind of building is that?
-What kind of building is that?	Bangunan apakah itu?
-Panggung wayang itu ialah tempat di mana orang pergi untuk menonton wayang.	A theater is a place where people go to watch movies.
-A theater is a place where people go to watch movies.	Panggung wayang itu ialah tempat di mana orang pergi untuk menonton wayang.
-Ayah saya seorang penganut agama Islam.	My father is a Muslim.
-My father is a Muslim.	Ayah saya seorang penganut agama Islam.
-Apakah itu panggung wayang?	What is a theater?
-What is a theater?	Apakah itu panggung wayang?
-Ibu saya seorang ateis tetapi ayah saya seorang penganut agama Hindu.	My mother is an atheist, but my father is a Hindu.
-My mother is an atheist, but my father is a Hindu.	Ibu saya seorang ateis tetapi ayah saya seorang penganut agama Hindu.
-Di manakah stesen keretapi itu?	Where is the train station please?
-Where is the train station please?	Di manakah stesen keretapi itu?
-Di manakah kedutaan itu?	Where is the embassy please?
-Where is the embassy please?	Di manakah kedutaan itu?
-Pergi ke arah lapangan terbang.	Go towards the airport.
-Go towards the airport.	Pergi ke arah lapangan terbang.
-Saya tidak suka akan lapangan terbang kerana ia bising.	I don’t like the airport, because it’s noisy.
-I don’t like the airport, because it’s noisy.	Saya tidak suka akan lapangan terbang kerana ia bising.
-Saya tidak suka akan perhentian bas kerana ia bising.	I don’t like the bus stop, because it’s noisy.
-I don’t like the bus stop, because it’s noisy.	Saya tidak suka akan perhentian bas kerana ia bising.
-Pergi ke arah pejabat pos.	Go towards the post office.
-Go towards the post office.	Pergi ke arah pejabat pos.
-lampu isyarat	Traffic light
-Traffic light	lampu isyarat
-ruang dewan	Hallway
-Hallway	ruang dewan
-jambatan	Bridge
-Bridge	jambatan
-selekoh	Corner
-Corner	selekoh
-melepasi	Past
-Past	melepasi
-dilarang meletak kereta	No parking
-No parking	dilarang meletak kereta
-menyeberangi	To cross
-To cross	menyeberangi
-trafik	Traffic
-Traffic	trafik
-kanan	Right
-Right	kanan
-kemalangan	Accident
-Accident	kemalangan
-kawasan	Area
-Area	kawasan
-kiri	Left
-Left	kiri
-tangga	Stairs
-Stairs	tangga
-atas	Up/ Over
-Up/ Over	atas
-bawah	Down/Under
-Down/Under	bawah
-bukit	Hill
-Hill	bukit
-berhati-hati	Caution
-Caution	berhati-hati
-berikutnya	Next
-Next	berikutnya
-tanda berhenti	Stop sign
-Stop sign	tanda berhenti
-terakhir	Last
-Last	terakhir
-sungai	River
-River	sungai
-eskalator	escalator
-escalator	eskalator
-lif	Lift/Elevator
-Lift/Elevator	lif
-Ada kesesakan lalu lintas.	There was traffic.
-There was traffic.	Ada kesesakan lalu lintas.
-Saya terlambat kerana saya tidak dapat menyeberangi jambatan itu.	I’m late because I could not cross the bridge.
-I’m late because I could not cross the bridge.	Saya terlambat kerana saya tidak dapat menyeberangi jambatan itu.
-Saya terlambat kerana ada kemalangan.	I was late because there was an accident.
-I was late because there was an accident.	Saya terlambat kerana ada kemalangan.
-Saya tidak lewat.	I’m not late.
-I’m not late.	Saya tidak lewat.
-Mengapa anda lewat?	Why are you late?
-Why are you late?	Mengapa anda lewat?
-Kerana terdapat tanda berhenti.	Because there was a stop sign.
-Because there was a stop sign.	Kerana terdapat tanda berhenti.
-Pergi ke kiri melepasi eskalator dan selepas itu pergi terus.	Go left past the escalator and then go straight.
-Go left past the escalator and then go straight.	Pergi ke kiri melepasi eskalator dan selepas itu pergi terus.
-Turuni bukit itu dan selepas itu pergi ke kanan.	Go down the hill and then go right.
-Go down the hill and then go right.	Turuni bukit itu dan selepas itu pergi ke kanan.
-Pergi ke dalam ruang dewan itu.	Go to the hallway.
-Go to the hallway.	Pergi ke dalam ruang dewan itu.
-Pergi terus.	Go straight.
-Go straight.	Pergi terus.
-Turuni eskalator itu dan selepas itu pergi ke kiri.	Go down the escalator and then go left.
-Go down the escalator and then go left.	Turuni eskalator itu dan selepas itu pergi ke kiri.
-Menyeberangi jambatan itu.	Cross the bridge.
-Cross the bridge.	Menyeberangi jambatan itu.
-Pergi ke selekoh itu dan kemudian menyeberangi sungai itu.	Go to the corner and then cross the bridge.
-Go to the corner and then cross the bridge.	Pergi ke selekoh itu dan kemudian menyeberangi sungai itu.
-Saya akan berasa sangat gembira jika Erica datang melawat.	If Erica were to visit, I would be very happy.
-If Erica were to visit, I would be very happy.	Saya akan berasa sangat gembira jika Erica datang melawat.
-Itu adalah kawasan yang bagus kerana tidak begitu bising.	That's a nice area because there isn't much noise.
-That's a nice area because there isn't much noise.	Itu adalah kawasan yang bagus kerana tidak begitu bising.
-Tidak banyak pencemaran di situ.	There isn't much pollution.
-There isn't much pollution.	Tidak banyak pencemaran di situ.
-Saya akan berasa sangat sedih jika kamu ditimpa kemalangan.	If you were to get in an accident, I would be very sad.
-If you were to get in an accident, I would be very sad.	Saya akan berasa sangat sedih jika kamu ditimpa kemalangan.
-Itu adalah kawasan yang bagus.	That's a nice area.
-That's a nice area.	Itu adalah kawasan yang bagus.
-Ada banyak kesesakan lalu lintas.	There's a lot of traffic.
-There's a lot of traffic.	Ada banyak kesesakan lalu lintas.
-Pergi ke kiri selepas selekoh itu.	Go left after the corner.
-Go left after the corner.	Pergi ke kiri selepas selekoh itu.
-Di manakah eskalator?	Where is the escalator, please?
-Where is the escalator, please?	Di manakah eskalator?
-Naik tangga itu dan belok kiri selepas lif itu.	Go up the stairs and turn left after the elevator.
-Go up the stairs and turn left after the elevator.	Naik tangga itu dan belok kiri selepas lif itu.
-Di manakah lif?	Where is the elevator, please?
-Where is the elevator, please?	Di manakah lif?
-Naik tangga itu dan belok kanan selepas lif itu.	Go up the stairs and turn right after the elevator.
-Go up the stairs and turn right after the elevator.	Naik tangga itu dan belok kanan selepas lif itu.
-Pergi ke kiri selepas tanda berhenti itu.	Go left after the stop sign.
-Go left after the stop sign.	Pergi ke kiri selepas tanda berhenti itu.
-kilometer	kilometer
-kilometer	kilometer
-melalui	through
-through	melalui
-pintu masuk	Entrance
-Entrance	pintu masuk
-batu	Mile
-Mile	batu
-keluar	Exit
-Exit	keluar
-tiket keretapi	Train pass
-Train pass	tiket keretapi
-peta	Map
-Map	peta
-sekeliling	around
-around	sekeliling
-terus	straight
-straight	terus
-tanjakan	Ramp
-Ramp	tanjakan
-jalan	Street
-Street	jalan
-belakang	Back
-Back	belakang
-merentasi	Across
-Across	merentasi
-menunjuk	To show
-To show	menunjuk
-tiket bas	Bus pass
-Bus pass	tiket bas
-turun	Off
-Off	turun
-tengah	Middle
-Middle	tengah
-Saya akan tunjukkan kepada kamu.	I will show you.
-I will show you.	Saya akan tunjukkan kepada kamu.
-Sila membawa saya.	Please take me.
-Please take me.	Sila membawa saya.
-Minta maaf, di manakah pejabat pos?	Excuse me, where is the post office?
-Excuse me, where is the post office?	Minta maaf, di manakah pejabat pos?
-Minta maaf, di manakah saya boleh membeli peta?	Excuse me, where may I buy a map?
-Excuse me, where may I buy a map?	Minta maaf, di manakah saya boleh membeli peta?
-Minta maaf, di manakah saya boleh membeli bir?	Excuse me, where may I buy a beer?
-Excuse me, where may I buy a beer?	Minta maaf, di manakah saya boleh membeli bir?
-Minta maaf, di manakah saya boleh membeli tiket keretapi?	Excuse me, where may I buy a bus pass?
-Excuse me, where may I buy a bus pass?	Minta maaf, di manakah saya boleh membeli tiket keretapi?
-Sila datang bersama saya.	Come with me, please.
-Come with me, please.	Sila datang bersama saya.
-Sila tunjukkan kepada saya.	Please show me.
-Please show me.	Sila tunjukkan kepada saya.
-Turuni jalan itu dan seberangi jambatan itu.	Go down the street and cross the bridge.
-Go down the street and cross the bridge.	Turuni jalan itu dan seberangi jambatan itu.
-Mahukah kamu datang bersama dengan saya untuk membeli tiket keretapi?	Do you want to come with me to buy a train pass?
-Do you want to come with me to buy a train pass?	Mahukah kamu datang bersama dengan saya untuk membeli tiket keretapi?
-Naik tanjakan itu dan lalui jambatan itu.	Go up the ramp and under the bridge.
-Go up the ramp and under the bridge.	Naik tanjakan itu dan lalui jambatan itu.
-Pergi melalui pintu masuk yang di tengah dan kemudian itu pergi terus.	Go in through the middle entrance and then go straight.
-Go in through the middle entrance and then go straight.	Pergi melalui pintu masuk yang di tengah dan kemudian itu pergi terus.
-Pergi melalui pintu keluar yang di tengah dan kemudan itu naik tangga.	Go out through the middle exit and then go up the stairs.
-Go out through the middle exit and then go up the stairs.	Pergi melalui pintu keluar yang di tengah dan kemudan itu naik tangga.
-Belok di selekoh kanan yang berikutnya.	Take the next right.
-Take the next right.	Belok di selekoh kanan yang berikutnya.
-Dua ratus meter ke bank itu.	It’s two hundred meters to the bank.
-It’s two hundred meters to the bank.	Dua ratus meter ke bank itu.
-Berapa kilometerkah untuk pergi ke New York?	How many kilometers is it to New York?
-How many kilometers is it to New York?	Berapa kilometerkah untuk pergi ke New York?
-Berapa kilometerkah satu batu?	How many kilometers are there in twelve miles?
-How many kilometers are there in twelve miles?	Berapa kilometerkah satu batu?
-Enam puluh dua batu ialah kira-kira seratus kilometer.	Sixty two miles is about one hundred kilometers.
-Sixty two miles is about one hundred kilometers.	Enam puluh dua batu ialah kira-kira seratus kilometer.
-Lima puluh meter ke bank itu.	It’s fifty meters to the bank.
-It’s fifty meters to the bank.	Lima puluh meter ke bank itu.
-Turuni tangga itu dan kemudian belok di selekoh kanan yang kedua.	Go down the stairs and then take the second right.
-Go down the stairs and then take the second right.	Turuni tangga itu dan kemudian belok di selekoh kanan yang kedua.
-Berapa meterkah untuk pergi ke New York?	How many meters is it to New York?
-How many meters is it to New York?	Berapa meterkah untuk pergi ke New York?
-Satu batu ialah satu perpuluhan enam kilometer.	There are one point six kilometers in one mile.
-There are one point six kilometers in one mile.	Satu batu ialah satu perpuluhan enam kilometer.
-Turun dari keretapi di perhentian yang keempat dalam Tokyo.	Get off the train on the fourth stop in Tokyo.
-Get off the train on the fourth stop in Tokyo.	Turun dari keretapi di perhentian yang keempat dalam Tokyo.
-Selamat pulang.	Welcome back.
-Welcome back.	Selamat pulang.
-Saya akan balik tidak lama lagi.	I’ll be back soon.
-I’ll be back soon.	Saya akan balik tidak lama lagi.
-Saya dah balik.	I’m back.
-I’m back.	Saya dah balik.
-kolam	Pool
-Pool	kolam
-seronok	Fun
-Fun	seronok
-menonton	To watch
-To watch	menonton
-rancangan televisyen	Television Show
-Television Show	rancangan televisyen
-bermain	To play
-To play	bermain
-pantai	beach
-beach	pantai
-wayang	Movie
-Movie	wayang
-telanjang	Naked
-Naked	telanjang
-melukis	To draw
-To draw	melukis
-melayari internet	To surf the internet
-To surf the internet	melayari internet
-bodoh	Stupid
-Stupid	bodoh
-majalah	Magazine
-Magazine	majalah
-meluncur air	To surf
-To surf	meluncur air
-menakutkan	Scary
-Scary	menakutkan
-membuang masa	To waste time
-To waste time	membuang masa
-tidur sekejap	Nap
-Nap	tidur sekejap
-mendaki	To hike
-To hike	mendaki
-sendirian	Alone
-Alone	sendirian
-alat mainan	Toy
-Toy	alat mainan
-permainan video	Video game
-Video game	permainan video
-Apakah pendapat kamu tentang rancangan televisyen itu?	What did you think of the television show?
-What did you think of the television show?	Apakah pendapat kamu tentang rancangan televisyen itu?
-Apakah pendapat kamu tentang filem itu?	What did you think of the movie?
-What did you think of the movie?	Apakah pendapat kamu tentang filem itu?
-Apakah yang kamu suka buat untuk berseronok?	What do you like to do for fun?
-What do you like to do for fun?	Apakah yang kamu suka buat untuk berseronok?
-Saya suka pergi ke pantai.	I like to go to the beach.
-I like to go to the beach.	Saya suka pergi ke pantai.
-Pada pendapat saya, filem itu membosankan.	I thought that movie was boring.
-I thought that movie was boring.	Pada pendapat saya, filem itu membosankan.
-Pada pendapat saya, filem itu menakutkan.	I thought that movie was scary.
-I thought that movie was scary.	Pada pendapat saya, filem itu menakutkan.
-Saya suka menonton televisyen.	I like to watch television.
-I like to watch television.	Saya suka menonton televisyen.
-Saya perlu menghabiskan kerja rumah saya sebelum saya pergi mendaki.	I have to finish my homework before I go hiking.
-I have to finish my homework before I go hiking.	Saya perlu menghabiskan kerja rumah saya sebelum saya pergi mendaki.
-Jangan risau dengan kerja rumah awak.	Don’t worry about your homework.
-Don’t worry about your homework.	Jangan risau dengan kerja rumah awak.
-Apabila saya sampai ke rumah, saya akan tidur sekejap dan pergi bersenam selepas itu.	When I get home I will take a nap and then go exercise.
-When I get home I will take a nap and then go exercise.	Apabila saya sampai ke rumah, saya akan tidur sekejap dan pergi bersenam selepas itu.
-Saya perlu menghabiskan kerja saya sebelum saya pergi mendaki	I have to finish my work before I go hiking.
-I have to finish my work before I go hiking.	Saya perlu menghabiskan kerja saya sebelum saya pergi mendaki
-Jom pergi meluncur air hujung minggu ini.	Let’s go surfing this weekend.
-Let’s go surfing this weekend.	Jom pergi meluncur air hujung minggu ini.
-Biarkan kerja rumah awak.	Forget about your homework.
-Forget about your homework.	Biarkan kerja rumah awak.
-Jom pergi mendaki hujung minggu ini.	Let’s go hiking this weekend.
-Let’s go hiking this weekend.	Jom pergi mendaki hujung minggu ini.
-Apabila saya sampai ke rumah, saya akan tidur sekejap dan melayari internet selepas itu.	When I get home I will take a nap and then go surf the internet.
-When I get home I will take a nap and then go surf the internet.	Apabila saya sampai ke rumah, saya akan tidur sekejap dan melayari internet selepas itu.
-Saya sudah menghabiskan kerja rumah saya.	I finished my homework.
-I finished my homework.	Saya sudah menghabiskan kerja rumah saya.
-Ia bodoh.	It was stupid.
-It was stupid.	Ia bodoh.
-Kamu patut membuat kerja rumahmu dan bukannya melayari internet.	Instead of surfing the internet you should do your homework.
-Instead of surfing the internet you should do your homework.	Kamu patut membuat kerja rumahmu dan bukannya melayari internet.
-Saya seronok bersama kamu di pantai itu minggu lepas.	I had fun with you last week at the beach.
-I had fun with you last week at the beach.	Saya seronok bersama kamu di pantai itu minggu lepas.
-Adakah ia seronok?	Was it fun?
-Was it fun?	Adakah ia seronok?
-Jangan membuang masa kamu dengan menonton rancangan televisyen yang bodoh.	Don’t waste time watching stupid television shows.
-Don’t waste time watching stupid television shows.	Jangan membuang masa kamu dengan menonton rancangan televisyen yang bodoh.
-Ia seronok.	It was fun.
-It was fun.	Ia seronok.
-Saya benci untuk pergi mendaki bersendirian.	I hate going hiking alone.
-I hate going hiking alone.	Saya benci untuk pergi mendaki bersendirian.
-Saya suka tidur sekejap selepas bersenam.	After I exercise I like to take a nap.
-After I exercise I like to take a nap.	Saya suka tidur sekejap selepas bersenam.
-Saya suka membaca buku selepas bersenam.	After I exercise I like to read a book.
-After I exercise I like to read a book.	Saya suka membaca buku selepas bersenam.
-Saya tidak suka pergi ke pantai kerana ia membosankan.	I don’t like to go to the beach, because it’s boring.
-I don’t like to go to the beach, because it’s boring.	Saya tidak suka pergi ke pantai kerana ia membosankan.
-Saya tidak suka pergi ke pantai kerana ia jauh.	I don’t like to go to the beach, because it’s far away.
-I don’t like to go to the beach, because it’s far away.	Saya tidak suka pergi ke pantai kerana ia jauh.
-Mahukah kamu pergi ke kolam renang minggu ini?	Do you want to go to the pool this week?
-Do you want to go to the pool this week?	Mahukah kamu pergi ke kolam renang minggu ini?
-menang	To win
-To win	menang
-kalah	To lose
-To lose	kalah
-seri	To tie
-To tie	seri
-catur	Chess
-Chess	catur
-besbol	Baseball
-Baseball	besbol
-permainan papan	Board game
-Board game	permainan papan
-kemenangan	Victory
-Victory	kemenangan
-bersiar-siar	To sightsee
-To sightsee	bersiar-siar
-bola sepak	Soccer
-Soccer	bola sepak
-permainan kad	Card game
-Card game	permainan kad
-temu janji	Date
-Date	temu janji
-parti	Party
-Party	parti
-menari	To dance
-To dance	menari
-konsert	Concert
-Concert	konsert
-Apa yang hendak kamu lakukan?	What do you want to do?
-What do you want to do?	Apa yang hendak kamu lakukan?
-Mahukah kamu bermain bola sepak?	Do you want to play soccer?
-Do you want to play soccer?	Mahukah kamu bermain bola sepak?
-Siapa menang dalam pertandingan besbol itu?	Who won the baseball game?
-Who won the baseball game?	Siapa menang dalam pertandingan besbol itu?
-Siapa menang dalam pertandingan bola sepak itu?	Who won the soccer game?
-Who won the soccer game?	Siapa menang dalam pertandingan bola sepak itu?
-Apa yang patut kita lakukan?	What should we do?
-What should we do?	Apa yang patut kita lakukan?
-Mahukah kamu pergi bersiar-siar?	Do you want to go sightseeing?
-Do you want to go sightseeing?	Mahukah kamu pergi bersiar-siar?
-Awak selalu menang.	You always win.
-You always win.	Awak selalu menang.
-Kita seri.	We tied.
-We tied.	Kita seri.
-Kita kalah.	We lost.
-We lost.	Kita kalah.
-Erica adalah lebih mahir daripada saya dalam bola sepak.	Erica is better than me at soccer.
-Erica is better than me at soccer.	Erica adalah lebih mahir daripada saya dalam bola sepak.
-Adakah kamu menang?	Did you win?
-Did you win?	Adakah kamu menang?
-Erica adalah lebih teruk daripada saya dalam bola sepak.	Erica is worse than me at soccer.
-Erica is worse than me at soccer.	Erica adalah lebih teruk daripada saya dalam bola sepak.
-Adakah kamu kalah?	Did you lose?
-Did you lose?	Adakah kamu kalah?
-Kita menang.	We won.
-We won.	Kita menang.
-Sudikah kamu pergi ke konsert bersama-sama dengan kami?	Do you want to go to a concert with us?
-Do you want to go to a concert with us?	Sudikah kamu pergi ke konsert bersama-sama dengan kami?
-Dia hendak pergi ke parti.	He wanted to go to a party.
-He wanted to go to a party.	Dia hendak pergi ke parti.
-Ken kata dia hendak pergi menari tetapi dia sakit.	Ken said that he wanted to go dancing, but he was sick.
-Ken said that he wanted to go dancing, but he was sick.	Ken kata dia hendak pergi menari tetapi dia sakit.
-Saya sudah bertanya Ken jika dia hendak pergi ke konsert.	I asked Ken if he wanted to go to a concert.
-I asked Ken if he wanted to go to a concert.	Saya sudah bertanya Ken jika dia hendak pergi ke konsert.
-Apa yang dia katakan?	What did he say?
-What did he say?	Apa yang dia katakan?
-Ken kata dia sibuk.	Ken said that he was busy.
-Ken said that he was busy.	Ken kata dia sibuk.
-Saya tidak boleh pergi ke parti kerana jari saya sakit.	I can’t go to the party, because I have a hurt finger.
-I can’t go to the party, because I have a hurt finger.	Saya tidak boleh pergi ke parti kerana jari saya sakit.
-Saya tidak boleh pergi ke konsert.	I can’t go to the concert.
-I can’t go to the concert.	Saya tidak boleh pergi ke konsert.
-Itu temu janji yang teruk.	It was a bad date.
-It was a bad date.	Itu temu janji yang teruk.
-Jari saya patah.	I have a broken finger.
-I have a broken finger.	Jari saya patah.
-Saya ingin pergi mengurut dan bukannya ke parti.	I want to get a massage instead of going to a party.
-I want to get a massage instead of going to a party.	Saya ingin pergi mengurut dan bukannya ke parti.
-Itu temu janji yang baik.	It was a good date.
-It was a good date.	Itu temu janji yang baik.
-Saya ingin pergi mengurut dan bukannya ke konsert.	I want to get a massage instead of going to a concert.
-I want to get a massage instead of going to a concert.	Saya ingin pergi mengurut dan bukannya ke konsert.
-lembah	valley
-valley	lembah
-gambar	Picture
-Picture	gambar
-zoo	Zoo
-Zoo	zoo
-Buddha	Buddha
-Buddha	Buddha
-Allah	Allah
-Allah	Allah
-mempercayai	To believe
-To believe	mempercayai
-Jesus	Jesus
-Jesus	Jesus
-padang pasir	Desert
-Desert	padang pasir
-bernasib baik	Fortunate
-Fortunate	bernasib baik
-rumput	Grass
-Grass	rumput
 malang	Unfortunate
 Unfortunate	malang
 tasik	Lake
