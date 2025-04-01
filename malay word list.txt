@@ -2685,312 +2685,155 @@ Jesus	Jesus
 padang pasir	Desert
 bernasib baik	Fortunate
 rumput	Grass
-
-<=========================================== Got Up To Here ==========================================================>
-
 malang	Unfortunate
-Unfortunate	malang
 tasik	Lake
-Lake	tasik
 pasir	Sand
-Sand	pasir
 hutan	Forest
-Forest	hutan
 batu	Rock
-Rock	batu
 nyamuk	Mosquito
-Mosquito	nyamuk
 Minta maaf, saya tidak boleh kerana saya sibuk sekarang.	Sorry, I can’t, because I’m busy now.
-Sorry, I can’t, because I’m busy now.	Minta maaf, saya tidak boleh kerana saya sibuk sekarang.
 Saya tidak percaya dengan apa-apa.	I believe in nothing.
-I believe in nothing.	Saya tidak percaya dengan apa-apa.
 Sila tanya orang lain.	Ask someone else please.
-Ask someone else please.	Sila tanya orang lain.
 Saya tidak mempercayai Buddha.	I don’t believe in Buddha.
-I don’t believe in Buddha.	Saya tidak mempercayai Buddha.
 Saya tidak mempercayai Allah.	I don’t believe in Allah.
-I don’t believe in Allah.	Saya tidak mempercayai Allah.
 Saya mempercayai Jesus.	I believe in Jesus.
-I believe in Jesus.	Saya mempercayai Jesus.
 Bolehkah kamu mengambil gambar kami?	Would you please take our picture?
-Would you please take our picture?	Bolehkah kamu mengambil gambar kami?
 Nasib baik.	That's fortunate.
-That's fortunate.	Nasib baik.
 Ada seekor beruang.	There is a bear.
-There is a bear.	Ada seekor beruang.
 Malangnya	That is unfortunate.
-That is unfortunate.	Malangnya
 Dia tidak mengambil gambar di zoo itu.	He did not take a picture in the zoo.
-He did not take a picture in the zoo.	Dia tidak mengambil gambar di zoo itu.
 Dia tidak mengambil gambar di padang pasir itu.	He did not take a picture in the desert.
-He did not take a picture in the desert.	Dia tidak mengambil gambar di padang pasir itu.
 Bunuh nyamuk itu.	Kill that mosquito.
-Kill that mosquito.	Bunuh nyamuk itu.
 Ada seekor nyamuk.	There is a mosquito.
-There is a mosquito.	Ada seekor nyamuk.
 mendung	Cloudy
-Cloudy	mendung
 bulan	Moon
-Moon	bulan
 awan	Cloud
-Cloud	awan
 burung	Bird
-Bird	burung
 cuaca	Weather
-Weather	cuaca
 matahari	Sun
-Sun	matahari
 lembap	Humid
-Humid	lembap
 dingin	Cool
-Cool	dingin
 semasa	during
-during	semasa
 bintang	Stars
-Stars	bintang
 kilat	lightning
-lightning	kilat
 hujan	Rain/ to rain
-Rain/ to rain	hujan
 teduh	Shade
-Shade	teduh
 matahari terbit	Sunrise
-Sunrise	matahari terbit
 panas	Warm
-Warm	panas
 guruh	Thunder
-Thunder	guruh
 musim sejuk	Winter
-Winter	musim sejuk
 musim panas	Summer
-Summer	musim panas
 menjangka	To expect
-To expect	menjangka
 musim bunga	Spring
-Spring	musim bunga
 salji	Snow
-Snow	salji
 musim luruh	Fall
-Fall	musim luruh
-cerah	Sunny
-Sunny	cerah
 Cuaca biasanya hujan semasa musim sejuk.	During the winter the weather is usually rainy.
-During the winter the weather is usually rainy.	Cuaca biasanya hujan semasa musim sejuk.
 Saya ternampak kilat semasa saya memandu.	When I was driving I saw lightning.
-When I was driving I saw lightning.	Saya ternampak kilat semasa saya memandu.
 Cuaca adalah tidak sejuk semasa kita mendaki.	During our hike the weather was not cold.
-During our hike the weather was not cold.	Cuaca adalah tidak sejuk semasa kita mendaki.
 Cuaca biasanya tidak lembap semasa musim panas.	During the summer the weather is not usually humid.
-During the summer the weather is not usually humid.	Cuaca biasanya tidak lembap semasa musim panas.
 Saya ternampak tahi bintang semasa saya memandu.	When I was driving I saw a shooting star.
-When I was driving I saw a shooting star.	Saya ternampak tahi bintang semasa saya memandu.
 Saya ternampak awan semasa saya memandu.	When I was driving I saw a cloud.
-When I was driving I saw a cloud.	Saya ternampak awan semasa saya memandu.
 Cuaca mendung semasa kita mendaki.	During our hike it was cloudy.
-During our hike it was cloudy.	Cuaca mendung semasa kita mendaki.
 Cuaca adalah teruk.	The weather was terrible.
-The weather was terrible.	Cuaca adalah teruk.
 Bagaimanakah cuacanya?	How is the weather?
-How is the weather?	Bagaimanakah cuacanya?
 Bagaimanakah cuacanya pada hari Isnin?	How will the weather be on Monday?
-How will the weather be on Monday?	Bagaimanakah cuacanya pada hari Isnin?
 Cuaca adalah cerah.	The weather was sunny.
-The weather was sunny.	Cuaca adalah cerah.
 Bagaimanakah cuacanya pada hari Selasa?	How will the weather be on Tuesday?
-How will the weather be on Tuesday?	Bagaimanakah cuacanya pada hari Selasa?
 Bagaimanakah cuacanya minggu depan?	How will the weather be next week?
-How will the weather be next week?	Bagaimanakah cuacanya minggu depan?
 Bagaimanakah cuacanya esok?	How will the weather be tomorrow?
-How will the weather be tomorrow?	Bagaimanakah cuacanya esok?
 Cuaca apakah yang dijangkakan pada hari Selasa?	What is the weather expected to be like on Tuesday?
-What is the weather expected to be like on Tuesday?	Cuaca apakah yang dijangkakan pada hari Selasa?
 Cuaca esok dijangka baik.	The weather is expected to be good tomorrow.
-The weather is expected to be good tomorrow.	Cuaca esok dijangka baik.
 Hujan dijangka akan turun petang esok.	Rain is expected tomorrow evening.
-Rain is expected tomorrow evening.	Hujan dijangka akan turun petang esok.
 Kilat dijangka petang esok.	Lightning is expected tomorrow evening.
-Lightning is expected tomorrow evening.	Kilat dijangka petang esok.
 Salji dijangka akan turun petang esok.	Snow is expected tomorrow evening.
-Snow is expected tomorrow evening.	Salji dijangka akan turun petang esok.
 Cuaca apakah yang dijangkakan pada hari Jumaat?	What is the weather expected to be like on Friday?
-What is the weather expected to be like on Friday?	Cuaca apakah yang dijangkakan pada hari Jumaat?
 Cuaca esok dijangka cerah.	The weather is expected to be sunny tomorrow.
-The weather is expected to be sunny tomorrow.	Cuaca esok dijangka cerah.
 Cuaca biasanya panas semasa musim panas.	During the summer the weather is usually warm.
-During the summer the weather is usually warm.	Cuaca biasanya panas semasa musim panas.
 Awan itu kelihatan seperti seekor beruang.	That cloud looks like a bear.
-That cloud looks like a bear.	Awan itu kelihatan seperti seekor beruang.
 Cuaca biasanya sejuk semasa musim sejuk.	During the winter the weather is usually cold.
-During the winter the weather is usually cold.	Cuaca biasanya sejuk semasa musim sejuk.
 Bagaimanakah rupa awan?	What does the cloud look like?
-What does the cloud look like?	Bagaimanakah rupa awan?
 Awan itu kelihatan seperti seekor burung.	That cloud looks like a bird.
-That cloud looks like a bird.	Awan itu kelihatan seperti seekor burung.
 Cuaca biasanya dingin.	The weather is usually cool.
-The weather is usually cool.	Cuaca biasanya dingin.
 Cuaca biasanya hujan.	The weather is usually rainy.
-The weather is usually rainy.	Cuaca biasanya hujan.
 menjawab	To reply
-To reply	menjawab
 menyanyi	to sing
-to sing	menyanyi
 lain kali	Some other time
-Some other time	lain kali
 menyeronokkan	Exciting
-Exciting	menyeronokkan
 jemputan	Invitation
-Invitation	jemputan
 menjemput	To invite
-To invite	menjemput
 jawapan	Reply
-Reply	jawapan
 menerima	To receive
-To receive	menerima
 nampak	To sound
-To sound	nampak
 umum	General
-General	umum
 hari yang bagus	A nice day
-A nice day	hari yang bagus
 terperinci	Scientific
-Scientific	terperinci
 rancangan	Plan
-Plan	rancangan
 turun salji	To snow
-To snow	turun salji
 maklumat	Information
-Information	maklumat
 menerangkan	To explain
-To explain	menerangkan
 alamat	Address
-Address	alamat
 sesak	Crowded
-Crowded	sesak
 sudah	Already
-Already	sudah
 berlainan	Different
-Different	berlainan
 Oleh kerana hari ini hari yang bagus, mari-lah buat benda lain.	Since it’s a nice day let’s do something else.
-Since it’s a nice day let’s do something else.	Oleh kerana hari ini hari yang bagus, mari-lah buat benda lain.
 Saya akan menge-mel jemputan kepadanya.	I will email him an invitation.
-I will email him an invitation.	Saya akan menge-mel jemputan kepadanya.
 Nampak membosankan.	That sounds boring.
-That sounds boring.	Nampak membosankan.
 Sila jemput Ken ke parti harijadi saya.	Please invite Ken to my birthday party.
-Please invite Ken to my birthday party.	Sila jemput Ken ke parti harijadi saya.
 Saya telah menerima jawapan daripadanya dan dia kata dia akan datang.	I received a reply from him, and he said he’s coming.
-I received a reply from him, and he said he’s coming.	Saya telah menerima jawapan daripadanya dan dia kata dia akan datang.
 Nampak menyeronokkan.	That sounds exciting.
-That sounds exciting.	Nampak menyeronokkan.
 Saya akan memberi jemputan kepadanya.	I will give him an invitation.
-I will give him an invitation.	Saya akan memberi jemputan kepadanya.
 Dia sudah menjawab dan dia kata dia tidak akan datang.	He replied already and said he’s not coming.
-He replied already and said he’s not coming.	Dia sudah menjawab dan dia kata dia tidak akan datang.
 Ya, pukul empat hari Selasa ok.	Yes, Tuesday at four o’clock is okay.
-Yes, Tuesday at four o’clock is okay.	Ya, pukul empat hari Selasa ok.
 Bilakah patut kita membuatnya?	When should we do it?
-When should we do it?	Bilakah patut kita membuatnya?
 Saya sibuk pada hari Ahad. Bagaimana dengan hari Selasa?	I am busy on Sunday. How about Tuesday?
-I am busy on Sunday. How about Tuesday?	Saya sibuk pada hari Ahad. Bagaimana dengan hari Selasa?
 Bilakah patut kita berjumpa?	When should we meet?
-When should we meet?	Bilakah patut kita berjumpa?
 Mari-lah berjumpa dan menyanyi jika kamu mempunyai masa lapang.	Let’s meet and sing if you have free time.
-Let’s meet and sing if you have free time.	Mari-lah berjumpa dan menyanyi jika kamu mempunyai masa lapang.
 Saya tidak boleh pergi makan malam kerana saya ada kerja.	I can’t go to dinner, because I have work.
-I can’t go to dinner, because I have work.	Saya tidak boleh pergi makan malam kerana saya ada kerja.
 Mari-lah berjumpa dan bersenam jika kamu mempunyai masa lapang.	Let’s meet and exercise if you have free time.
-Let’s meet and exercise if you have free time.	Mari-lah berjumpa dan bersenam jika kamu mempunyai masa lapang.
 Mari kita makan di tempat lain kerana barisan menunggu itu panjang.	Let’s eat somewhere else since the line is long.
-Let’s eat somewhere else since the line is long.	Mari kita makan di tempat lain kerana barisan menunggu itu panjang.
 Saya rasa ia di jalan 38.	I think it’s on 38th street.
-I think it’s on 38th street.	Saya rasa ia di jalan 38.
 Tempat akan ditukar jika hujan.	If it rains it will be at a different address.
-If it rains it will be at a different address.	Tempat akan ditukar jika hujan.
 Saya akan menge-mel satu jemputan dengan maklumat yang lebih terperinci.	I will email you an invitation with more specific information.
-I will email you an invitation with more specific information.	Saya akan menge-mel satu jemputan dengan maklumat yang lebih terperinci.
 Tempatnya akan ditukar jika salji turun.	If it snows it will be at a different address.
-If it snows it will be at a different address.	Tempatnya akan ditukar jika salji turun.
 Minta maaf, saya tidak mempunyai alamat itu.	Sorry, I don’t have the address.
-Sorry, I don’t have the address.	Minta maaf, saya tidak mempunyai alamat itu.
 Adakah kamu mempunyai alamat yang terperinci?	Do you have a specific address?
-Do you have a specific address?	Adakah kamu mempunyai alamat yang terperinci?
 Sila menerangkannya kepada saya dalam bahasa Inggeris.	Please explain it to me in English.
-Please explain it to me in English.	Sila menerangkannya kepada saya dalam bahasa Inggeris.
 Sila menerangkannya kepada saya dalam bahasa Cina.	Please explain it to me in Chinese.
-Please explain it to me in Chinese.	Sila menerangkannya kepada saya dalam bahasa Cina.
 Adakah kamu lapang pada hari Ahad?	Are you free on Sunday?
-Are you free on Sunday?	Adakah kamu lapang pada hari Ahad?
 Adakah kamu sibuk pada hari Ahad?	Are you busy on Sunday?
-Are you busy on Sunday?	Adakah kamu sibuk pada hari Ahad?
 Oleh kerana saya ada rancangan lain, jom membuatnya lain kali.	Since I have plans, let’s do it some other time.
-Since I have plans, let’s do it some other time.	Oleh kerana saya ada rancangan lain, jom membuatnya lain kali.
 Oleh kerana saya ada kerja, jom membuatnya lain kali.	Since I have work, let’s do it some other time.
-Since I have work, let’s do it some other time.	Oleh kerana saya ada kerja, jom membuatnya lain kali.
 Saya mencintai kamu kerana saya dicintai.	I love you because I’m loved.
-I love you because I’m loved.	Saya mencintai kamu kerana saya dicintai.
 Terima kasih atas jemputan ke parti anda.	Thank you for inviting me to your party.
-Thank you for inviting me to your party.	Terima kasih atas jemputan ke parti anda.
 Mengapa kamu mencintai saya?	Why do you love me?
-Why do you love me?	Mengapa kamu mencintai saya?
 Saya menjemput kamu kerana saya menyukai kamu.	I wanted to invite you because I like you.
-I wanted to invite you because I like you.	Saya menjemput kamu kerana saya menyukai kamu.
 Terima kasih atas jemputan ke rumah anda.	Thank you for inviting me to your home.
-Thank you for inviting me to your home.	Terima kasih atas jemputan ke rumah anda.
 Saya mencintai kamu kerana saya telah dimaafkan.	I love you because I’m forgiven.
-I love you because I’m forgiven.	Saya mencintai kamu kerana saya telah dimaafkan.
 Saya menjemput kamu kerana saya mencintai kamu.	I wanted to invite you because I love you.
-I wanted to invite you because I love you.	Saya menjemput kamu kerana saya mencintai kamu.
 Mengapa kamu selalu memaafkan saya?	Why do you always forgive me?
-Why do you always forgive me?	Mengapa kamu selalu memaafkan saya?
 Baru-baru ini, lengan dia patah.	She recently broke her arm.
-She recently broke her arm.	Baru-baru ini, lengan dia patah.
 Sudahkah kamu menjemput Ken untuk pergi menonton wayang dengan kita?	Did you invite Ken to go see a movie with us?
-Did you invite Ken to go see a movie with us?	Sudahkah kamu menjemput Ken untuk pergi menonton wayang dengan kita?
 Saya sedang mengharapkan jawapan dia hari ini.	I’m expecting his reply sometime today.
-I’m expecting his reply sometime today.	Saya sedang mengharapkan jawapan dia hari ini.
 Sila beritahu saya apa yang dia kata selepas dia menelefon.	Please tell me what he says after he calls.
-Please tell me what he says after he calls.	Sila beritahu saya apa yang dia kata selepas dia menelefon.
 Sila beritahu saya apa yang dia kata selepas dia menjawab.	Please tell me what he says after he replies.
-Please tell me what he says after he replies.	Sila beritahu saya apa yang dia kata selepas dia menjawab.
 Saya harap dia akan membalas tidak lama lagi.	I’m expecting his reply sometime soon.
-I’m expecting his reply sometime soon.	Saya harap dia akan membalas tidak lama lagi.
 Sudahkah kamu menjemput Ken untuk pergi menonton wayang dengan semua orang?	Did you invite Ken to go see a movie with everyone?
-Did you invite Ken to go see a movie with everyone?	Sudahkah kamu menjemput Ken untuk pergi menonton wayang dengan semua orang?
 Pada pendapat saya, dia tidak akan mahu pergi kerana kaki dia patah baru-baru ini	I don’t think that he will want to go, because he recently broke his leg.
-I don’t think that he will want to go, because he recently broke his leg.	Pada pendapat saya, dia tidak akan mahu pergi kerana kaki dia patah baru-baru ini
 Mahukah kamu datang ke pangsapuri saya dan menonton televisyen dengan saya?	Do you want to come to my apartment and watch television with me?
-Do you want to come to my apartment and watch television with me?	Mahukah kamu datang ke pangsapuri saya dan menonton televisyen dengan saya?
 Mahukah kamu menonton TV dengan kami?	Do you want to watch TV with us?
-Do you want to watch TV with us?	Mahukah kamu menonton TV dengan kami?
 Marilah makan makan malam sebelum kita menonton televisyen.	Let’s eat dinner before we watch television.
-Let’s eat dinner before we watch television.	Marilah makan makan malam sebelum kita menonton televisyen.
 Adakah kamu mahu saya membawa makanan?	Do you want me to bring food?
-Do you want me to bring food?	Adakah kamu mahu saya membawa makanan?
 Kamu tidak perlu membawa apa-apa.	You don’t need to bring anything.
-You don’t need to bring anything.	Kamu tidak perlu membawa apa-apa.
 Marilah makan makan malam selepas kita menonton televisyen.	Let’s eat dinner after we watch TV.
-Let’s eat dinner after we watch TV.	Marilah makan makan malam selepas kita menonton televisyen.
 Kamu tidak perlu membeli apa-apa.	You don’t need to buy anything.
-You don’t need to buy anything.	Kamu tidak perlu membeli apa-apa.
 Adakah kamu mahu saya membawa ayam?	Do you want me to bring chicken?
-Do you want me to bring chicken?	Adakah kamu mahu saya membawa ayam?
 Saya mempelajarinya di sekolah.	I learned at school.
-I learned at school.	Saya mempelajarinya di sekolah.
 Bagaimana saya boleh mempelajari bahasa Sepanyol?	How can I learn Spanish?
-How can I learn Spanish?	Bagaimana saya boleh mempelajari bahasa Sepanyol?
 Kenapa saya patut berbuat begitu?	Why should I do that?
-Why should I do that?	Kenapa saya patut berbuat begitu?
 Oh, sekarang saya tahu kenapa bahasa Cina kamu begitu teruk.	Oh, now I know why your Chinese is so terrible.
-Oh, now I know why your Chinese is so terrible.	Oh, sekarang saya tahu kenapa bahasa Cina kamu begitu teruk.
 "Keluar dari pintu itu, belok kiri dan jalan tiga meter, dan selepas itu kata, ""Ajar saya bahasa Inggeris!"""	Go out the door, walk three meters to the left and say, “Teach me English!”
-Go out the door, walk three meters to the left and say, “Teach me English!”	"Keluar dari pintu itu, belok kiri dan jalan tiga meter, dan selepas itu kata, ""Ajar saya bahasa Inggeris!"""
 Kerana orang-orang Amerika berada di luar.	Because Americans are outside.
-Because Americans are outside.	Kerana orang-orang Amerika berada di luar.
 Bagaimanakah kamu belajar bahasa Inggeris?	How did you learn English?
-How did you learn English?	Bagaimanakah kamu belajar bahasa Inggeris?
 Saya mempelajarinya dari perisian komputer.	I learned with software.
-I learned with software.	Saya mempelajarinya dari perisian komputer.
 Kesihatan	Health
-Health	Kesihatan
 Rekreasi	Recreation
-Recreation	Rekreasi
